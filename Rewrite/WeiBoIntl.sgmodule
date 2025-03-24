@@ -15,4 +15,4 @@
 微博国际版 = type=http-response,pattern=^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?(ct=(feed&a=trends|user&a=get_searching_info)|a=(get_coopen_ads|user_center|search_topic|open_app&auth|icon_center)),script-path=https://raw.githubusercontent.com/Keywos/rule/master/script/weibo_us/js/index.js,requires-body=true,timeout=60
 
 [MITM]
-hostname = %APPEND% *.api.weibo.cn, sdkapp.uve.weibo.com
+hostname = %APPEND% api.weibo.cn, weibointl.api.weibo.cn, sdkapp.uve.weibo.com
