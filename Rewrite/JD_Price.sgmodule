@@ -7,5 +7,6 @@
 [Script]
 通知版 = type=http-request, enable={{{通知版}}}, pattern=^https:\/\/in\.m\.jd\.com\/product\/graphext\/\d+\.html, script-path=https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/jd_price_ntf.js, timeout=30
 嵌入版 = type=http-response, enable={{{嵌入版}}}, pattern=^https:\/\/in\.m\.jd\.com\/product\/graphext\/\d+\.html, requires-body=1, max-size=0, binary-body-mode=0, script-path=https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/jd_price_mrg.js, timeout=30
+
 [MITM]
 hostname = %APPEND% in.m.jd.com
