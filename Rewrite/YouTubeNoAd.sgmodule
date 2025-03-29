@@ -1,7 +1,7 @@
 #!name=YouTubeNoAds
 #!desc=适用于Youtube & Youtube Music去广告（带参数编辑）
-#!arguments=屏蔽上传按钮:true, 屏蔽选段按钮:true, 字幕翻译语言:zh-Hans, 歌词翻译语言:zh-Hans, 启用调试模式:false
-#!arguments-desc=\n参数说明:\n\n - 屏蔽上传按钮: true, false\n\n - 屏蔽选段按钮: true, false\n\n - 字幕翻译语言: 语言代码（默认简中）, off\n\n - 歌词翻译语言: 语言代码（默认简中）, off\n\n - 启用调试模式: true, false
+#!arguments=屏蔽上传按钮:true, 屏蔽选段按钮:true, 屏蔽Shorts按钮:false, 字幕翻译语言:zh-Hans, 歌词翻译语言:zh-Hans, 启用调试模式:false
+#!arguments-desc=\n参数说明:\n\n - 屏蔽上传按钮: true, false\n\n - 屏蔽选段按钮: true, false\n\n - 屏蔽Shorts按钮: true, false\n\n - 字幕翻译语言: 语言代码（默认简中）, off\n\n - 歌词翻译语言: 语言代码（默认简中）, off\n\n - 启用调试模式: true, false
 #!author=转自@Maasea, by@iab0x00
 
 [Rule]
@@ -12,7 +12,7 @@ AND,((DOMAIN,youtubei.googleapis.com), (PROTOCOL,UDP)),REJECT
 ^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad - reject-200
 
 [Script]
-youtube.response = type=http-response, pattern=^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch), script-path=https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/youtube.response.js, requires-body=true, binary-body-mode=true, max-size=-1,argument="{"lyricLang":"{{{歌词翻译语言}}}","captionLang":"{{{字幕翻译语言}}}","blockUpload":{{{屏蔽上传按钮}}},"blockImmersive":{{{屏蔽选段按钮}}},"debug":{{{启用调试模式}}}}"
+youtube.response = type=http-response, pattern=^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch), script-path=https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/youtube.response.js, requires-body=true, binary-body-mode=true, max-size=0,argument="{"lyricLang":"{{{歌词翻译语言}}}","captionLang":"{{{字幕翻译语言}}}","blockUpload":{{{屏蔽上传按钮}}},"blockImmersive":{{{屏蔽选段按钮}}},"blockShorts":{{{屏蔽Shorts按钮}}},"debug":{{{启用调试模式}}}}"
 
 [MITM]
 hostname = %APPEND% *.googlevideo.com, youtubei.googleapis.com
