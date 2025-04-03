@@ -3,6 +3,8 @@
  * 使用说明：进入APP商品详情页面触发。
  * 支持版本：自行测试
  * 脚本作者：小白脸
+ * 脚本来源：https://raw.githubusercontent.com/githubdulong/Script/master/jd_price.js
+ * 引用说明：仅引用进行整合使用，感谢原作者
 */
 
 Promise.withResolvers ||= function () {
