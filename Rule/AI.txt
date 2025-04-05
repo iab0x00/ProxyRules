@@ -1,14 +1,16 @@
 # > ChatGPT
+DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sora.com
 DOMAIN,api.statsig.com
 DOMAIN,api-iam.intercom.io
-DOMAIN,chatgpt.livekit.cloud
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
-DOMAIN,sfo3.turn.livekit.cloud
+DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaicom
 
 # > Apple Intelligence
@@ -30,3 +32,4 @@ DOMAIN-SUFFIX,x.ai
 # > Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
+DOMAIN,pplx-res.cloudinary.com
