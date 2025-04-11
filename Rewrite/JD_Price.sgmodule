@@ -1,6 +1,6 @@
 #!name=京东比价
 #!desc=点击商品详情页触发比价，结果可选通知或嵌入页面显示
-#!arguments=通知版:true,嵌入版:false
+#!arguments=通知版:false,嵌入版:true
 #!arguments-desc=\n可选择比价结果显示方式，默认为通知显示
 #!author=脚本作者@mw418、@githubdulong，模块@iab0x00
 
