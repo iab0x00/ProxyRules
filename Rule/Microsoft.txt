@@ -1,21 +1,3 @@
-# Microsoft
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.net
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,msauth.net
-DOMAIN-SUFFIX,msauthimages.net
-DOMAIN-SUFFIX,msft.net
-DOMAIN-SUFFIX,msftauth.net
-DOMAIN-SUFFIX,msftauthimages.net
-DOMAIN-SUFFIX,msftidentity.com
-DOMAIN-SUFFIX,msidentity.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-KEYWORD,azure
-DOMAIN-KEYWORD,microsoft
-
 # > Hotmail
 DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,outlook.com
@@ -37,3 +19,23 @@ DOMAIN-SUFFIX,teams.live.com
 DOMAIN-SUFFIX,teams.microsoft.com
 DOMAIN,teams.events.data.microsoft.com
 DOMAIN,statics.teams.cdn.office.net
+
+# > Microsoft
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msauthimages.net
+DOMAIN-SUFFIX,msft.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
+DOMAIN-SUFFIX,msftidentity.com
+DOMAIN-SUFFIX,msidentity.com
+DOMAIN-SUFFIX,phonefactor.net
+DOMAIN-SUFFIX,windows.com
+#DOMAIN-SUFFIX,ms
+DOMAIN-KEYWORD,azure
+DOMAIN-KEYWORD,microsoft
