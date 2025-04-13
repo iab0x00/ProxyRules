@@ -1,6 +1,7 @@
 # Microsoft
-DOMAIN-KEYWORD,azure
-DOMAIN-KEYWORD,microsoft
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
@@ -12,10 +13,13 @@ DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,msftidentity.com
 DOMAIN-SUFFIX,msidentity.com
 DOMAIN-SUFFIX,windows.com
+DOMAIN-KEYWORD,azure
+DOMAIN-KEYWORD,microsoft
 
 # > Hotmail
 DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,outlookmobile.com
 
 # > OneDrive
 DOMAIN-SUFFIX,1drv.com
