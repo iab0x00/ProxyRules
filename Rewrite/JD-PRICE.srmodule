@@ -5,7 +5,7 @@
 #!author=脚本@wf021325，模块@iab0x00
 
 [Script]
-获取cookie = type=http-request,enable={{{获取CK}}}, pattern=^https?:\/\/apapia-sqk-weblogic\.manmanbuy\.com\/baoliao\/center\/menu$, script-path=https://raw.githubusercontent.com/wf021325/qx/master/js/jd_price.js, requires-body=true, max-size=0, timeout=60
+获取cookie = type=http-request,enable={{{获取CK}}}, pattern=^https?:\/\/apapia-sqk-weblogic\.manmanbuy\.com\/baoliao\/center\/menu$, requires-body=1, max-size=0, script-path=https://raw.githubusercontent.com/wf021325/qx/master/js/jd_price.js, timeout=60
 嵌入版 = type=http-response, enable={{{开启比价}}}, pattern=^https?:\/\/in\.m\.jd\.com\/product\/graphext\/\d+\.html, requires-body=1, max-size=0, binary-body-mode=0, script-path=https://raw.githubusercontent.com/wf021325/qx/master/js/jd_price.js, timeout=60
 
 [MITM]
