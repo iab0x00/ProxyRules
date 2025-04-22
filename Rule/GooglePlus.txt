@@ -1,3 +1,0 @@
-# Google rules for personal use, if your geoip-maxmind-url = https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb, then you can use geoip google
-
-GEOIP,GOOGLE
