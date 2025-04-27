@@ -1,0 +1,2 @@
+# Google IP, https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
+GEOIP,GOOGLE
