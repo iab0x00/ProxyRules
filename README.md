@@ -22,11 +22,6 @@
   [JD-PRICE.srmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/JD-PRICE.srmodule)
 
 
-#### 酷安去广告
-* 重装APP后使用
-  [Coolapk.sgmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/Coolapk.sgmodule)
-
-
 #### 小红书去广告及水印
 * 仅在http代理生效
   [RedBook.srmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/RedBook.srmodule)
