@@ -233,12 +233,8 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
 # > Apple
 DOMAIN,testflight.apple.com
@@ -319,7 +315,7 @@ DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 # > Fastly
 DOMAIN-SUFFIX,freetls.fastly.net
-DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
+DOMAIN-SUFFIX,global.ssl.fastly.net
 # > Financial Times
 DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,ftchinese.com
@@ -341,6 +337,8 @@ DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,readyatdawn.com
@@ -351,17 +349,13 @@ DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-KEYWORD,.facebook.
 # > Microsoft
 DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,streaming.mediaservices.windows.net
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,skype.com
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
@@ -383,6 +377,7 @@ DOMAIN-KEYWORD,.pinterest.
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,pixivsketch.net
 # > Reddit
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
@@ -404,7 +399,8 @@ DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,tmagazine.com
 DOMAIN,nytimes.map.fastly.net
-# > Twitter
+# > X
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,t.co
@@ -415,6 +411,7 @@ DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,mediawiki.org
