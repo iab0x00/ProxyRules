@@ -12,6 +12,11 @@
   [YouTubeNoAd.sgmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/YouTubeNoAd.sgmodule)
 
 
+#### 微博轻享版去广告
+* 移除开屏和应用内广告
+  [WeiboIntl.sgmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/WeiboIntl.sgmodule)
+
+  
 #### 滴滴出行去广告
 * 精简标签和部分广告
   [DidiNoAd.srmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/DidiNoAd.srmodule)
