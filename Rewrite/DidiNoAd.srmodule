@@ -3,10 +3,10 @@
 #!author=转自怎么肥事@ZenmoFeiShi，可莉@luestr
 
 [Rule]
-DOMAIN,hd.xiaojukeji.com,REJECT,extended-matching,pre-matching
-DOMAIN,gwp.xiaojukeji.com,REJECT,extended-matching,pre-matching
-AND,((IP-ASN,45090,no-resolve),(DEST-PORT,25641),(PROTOCOL,TCP)),REJECT
-AND,((IP-ASN,63646,no-resolve),(DEST-PORT,25641),(PROTOCOL,TCP)),REJECT
+DOMAIN,hd.xiaojukeji.com,REJECT
+DOMAIN,gwp.xiaojukeji.com,REJECT
+AND,((IP-ASN,45090,no-resolve),(DST-PORT,25641),(PROTOCOL,TCP)),REJECT
+AND,((IP-ASN,63646,no-resolve),(DST-PORT,25641),(PROTOCOL,TCP)),REJECT
 
 [Body Rewrite]
 http-response-jq ^https:\/\/common\.diditaxi\.com\.cn\/common\/v\d\/usercenter\/me '.data.cards |= map(select(.title != "天天领福利" and .title != "金融服务" and .title != "更多服务" and .title != "企业服务" and .title != "安全中心")) | .data.cards[] |= if .tag == "wallet" then .items |= map(select(.title == "优惠券")) | if .card_type == 4 then .bottom_items |= map(select(.title == "省钱套餐" or .title == "出行里程")) else . end else . end'
