@@ -4,7 +4,7 @@
 #!update=2025-5-20
 
 [URL Rewrite]
-^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=hot_search_users - reject-dict
+^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?(a=get_searching_info&|ct=feed&a=search_topic&) - reject-dict
 ^https?:\/\/api\.weibo\.cn\/2\/ad\/weibointl\? - reject-dict
 
 [Body Rewrite]
