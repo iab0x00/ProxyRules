@@ -2,6 +2,7 @@
 #!desc=点击商品详情页触发比价，结果嵌入页面显示
 #!arguments=获取CK:true,开启比价:true
 #!arguments-desc=\n使用说明：\n\n - 首次使用请打开"慢慢买"APP，点击"我的"，获取cookie。\n\n - 获取成功后，"获取CK"可关闭，减少不必要的脚本消耗。
+#!requirement=Shadowrocket Version>=2.2.62
 #!author=脚本@wf021325，模块@iab0x00
 
 [Script]
