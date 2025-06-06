@@ -1,5 +1,6 @@
 #!name=滴滴出行净化
 #!desc=移除开屏广告，精简首页、底栏和我的页面
+#!requirement=Shadowrocket Version>=2.2.66
 #!author=转自怎么肥事@ZenmoFeiShi，可莉@luestr
 
 [Rule]
