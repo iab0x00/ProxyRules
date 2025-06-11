@@ -25,6 +25,13 @@ DOMAIN,guzzoni.apple.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 
+# > Microsoft Copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+# > GitHub Copilot
+DOMAIN-SUFFIX,githubcopilot.com
+
 # > Gemini
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
