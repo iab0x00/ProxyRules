@@ -1,0 +1,12 @@
+#!name=BiliClean
+#!desc=国际版哔哩，移除热搜、搜索发现，精简我的页面
+#!author=iab0x00
+
+[Body Rewrite]
+http-response-jq ^https:\/\/app\.bilibili\.com\/x\/v2\/account\/mine\?(.+) '.data.sections_v2[1].title |= null | .data.sections_v2[1].items |= map(select((.title | IN("联系客服", "稿件管理", "我的钱包", "我的NFT")) | not))'
+
+[URL Rewrite]
+^https:\/\/app\.bilibili\.com\/x\/v2\/search\/square\?(.+)$ - reject-dict
+
+[MITM]
+hostname = %APPEND% app.bilibili.com
