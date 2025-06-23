@@ -1,14 +1,10 @@
 #!name = YouTubeNoAds
 #!desc = 适用于 Youtube & Youtube Music去广告
 #!author = iab0x00，转自Maasea
-#!update = 2025-04-17
-#!instruction: Quantumult X（目前最新1.5.0版本）不支持协议规则和逻辑规则，需要在[general]部分加入以下内容: udp_drop_list=443
+#!update = 2025-06-20
+#!notification = QX暂时不支持协议分流和逻辑分流，需要在[general]部分加入以下代码: udp_drop_list=443
 
-#[Rewrite]
-^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad url reject-200
-
-#[Script]
-^https:\/\/youtubei\.googleapis\.com\/(youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch))(\?(.*))?$ url script-response-body https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/youtube.response.js
-
-#[Mitm]
 hostname = *.googlevideo.com, youtubei.googleapis.com
+
+^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad url reject-200
+^https:\/\/youtubei\.googleapis\.com\/(youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch))(\?(.*))?$ url 307 https://stream.maasea.workers.dev/$1?blockUpload=true&blockImmersive=true&blockShorts=true&captionLang=zh-hans&lyricLang=zh-hans&$4
