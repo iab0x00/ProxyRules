@@ -1,5 +1,4 @@
-# Prevent DNS/IP Leak
-# RULE-SET,https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/DNSLeaks.txt,PROXY
+# IP Check
 DOMAIN,ip-scan.adspower.net
 DOMAIN-SUFFIX,addr.tools
 DOMAIN-SUFFIX,browserleaks.com
