@@ -10,13 +10,13 @@ DOMAIN,sycm.mmstat.com
 DOMAIN-SUFFIX,blog.google
 DOMAIN,ci.android.com
 DOMAIN,clientservices.googleapis.com
-DOMAIN,update.googleapis.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,redirector.gvt1.com
 DOMAIN,update.googleapis.com
 # > Google Flights
 DOMAIN-SUFFIX,googletraveladservices.com
+DOMAIN-SUFFIX,googletraveladservices-cn.com
 # > Firebase Cloud Messaging
 DOMAIN-WILDCARD,*mtalk.google.com
 # ------
