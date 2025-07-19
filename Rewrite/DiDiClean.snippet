@@ -4,11 +4,10 @@
 
 hostname = common.diditaxi.com.cn, freight.xiaojukeji.com, daijia.kuaidadi.com, 162.14.157.*, ct.xiaojukeji.com, res.xiaojukeji.com, conf.diditaxi.com.cn, api.udache.com, 123.207.209.*, 112.53.55.225, 120.241.142.*, 120.241.143.*, 116.85.*, 139.199.240.84
 
-# Rule
 host,hd.xiaojukeji.com,reject
 host,gwp.xiaojukeji.com,reject
 
-# URL
+
 ^https:\/\/res\.xiaojukeji\.com\/resapi\/activity\/getMulti\? url reject-dict
 
 ^https:\/\/res\.xiaojukeji\.com\/resapi\/activity\/xpget url reject-dict
@@ -27,7 +26,7 @@ host,gwp.xiaojukeji.com,reject
 
 ^https:\/\/conf\.diditaxi\.com\.cn\/homepage\/v1\/other\/slow url reject-dict
 
-# JQ
+
 ^https:\/\/common\.diditaxi\.com\.cn\/common\/v\d\/usercenter\/me url jsonjq-response-body '.data.cards |= map(select(.title != "天天领福利" and .title != "金融服务" and .title != "更多服务" and .title != "企业服务" and .title != "安全中心")) | .data.cards[] |= if .tag == "wallet" then .items |= map(select(.title == "优惠券")) | if .card_type == 4 then .bottom_items |= map(select(.title == "省钱套餐" or .title == "出行里程")) else . end else . end'
 
 ^https:\/\/conf\.diditaxi\.com\.cn\/homepage\/v\d\/core url jsonjq-response-body '.data.order_cards.nav_list_card.data |= map(select(.nav_id == "dache_anycar" or .nav_id == "driverservice" or .nav_id == "bike" or .nav_id == "carmate")) | .data.disorder_cards.bottom_nav_list.data |= map(select(.id == "v6x_home" or .id == "home_page" or .id == "user_center"))'
