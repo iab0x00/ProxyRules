@@ -5,6 +5,6 @@
 
 hostname = app.bilibili.com
 
-^https:\/\/app\.bilibili\.com\/x\/v2\/search\/square\?(.+)$ url json-response-body 'walk(if type == "array" then [] else . end)'
+^https:\/\/app\.bilibili\.com\/x\/v2\/search\/square\?(.+)$ url jsonjq-response-body 'walk(if type == "array" then [] else . end)'
 
 ^https:\/\/app\.bilibili\.com\/x\/v2\/account\/mine\?(.+) url jsonjq-response-body '.data.sections_v2[1].title |= null | .data.sections_v2[1].items |= map(select((.title | IN("联系客服", "稿件管理", "我的钱包", "我的NFT")) | not))'
