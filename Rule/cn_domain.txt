@@ -7,6 +7,7 @@ DOMAIN,download.microsoft.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
+DOMAIN,mum.alibabachengdun.com
 DOMAIN,ntservicepack.microsoft.com
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
