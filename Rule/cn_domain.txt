@@ -1439,6 +1439,7 @@ DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,gezida.com
 DOMAIN-SUFFIX,gfan.com
 DOMAIN-SUFFIX,gfund.com
+DOMAIN-SUFFIX,ghfast.top
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,giocdn.com
 DOMAIN-SUFFIX,gitcode.com
