@@ -1261,7 +1261,13 @@ DOMAIN-SUFFIX,edu4399.com
 DOMAIN-SUFFIX,eduei.com
 DOMAIN-SUFFIX,eeyy.com
 DOMAIN-SUFFIX,eflycloud.com
+DOMAIN-SUFFIX,doservice.com
 DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,ele.to
+DOMAIN-SUFFIX,eleme.cn
+DOMAIN-SUFFIX,eleme.io
+DOMAIN-SUFFIX,elemecdn.cn
+DOMAIN-SUFFIX,elenet.me
 DOMAIN-SUFFIX,elecfans.com
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,elong.com
