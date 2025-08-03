@@ -2308,6 +2308,15 @@ DOMAIN-SUFFIX,miaostreet.com
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,midasbuy.com
+DOMAIN-SUFFIX,irsnp.com
+DOMAIN-SUFFIX,mdcdn.cn
+DOMAIN-SUFFIX,midea.cn
+DOMAIN-SUFFIX,midea.com
+DOMAIN-SUFFIX,mideaepayuat.com
+DOMAIN-SUFFIX,msmartlife.cn
+DOMAIN-SUFFIX,msmartlife.com
+DOMAIN-SUFFIX,smartmidea.net
+DOMAIN-SUFFIX,midea.com.cn
 DOMAIN-SUFFIX,miercn.com
 DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,miguvideo.com
