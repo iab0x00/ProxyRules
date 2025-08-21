@@ -720,6 +720,9 @@ DOMAIN,log.51wnl-cq.com
 DOMAIN,r.51wnl-cq.com
 
 # (A)
+# > ABC
+##农行检测代理强制退出
+DOMAIN,msmp.abchina.com.cn
 # > Apple
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,ads.internal.unity3d.com
