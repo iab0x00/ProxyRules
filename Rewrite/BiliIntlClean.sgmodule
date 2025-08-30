@@ -5,7 +5,9 @@
 
 [Body Rewrite]
 http-response-jq ^https:\/\/app\.bilibili\.com\/x\/v2\/account\/mine\?(.+) '.data.sections_v2[1].title |= null | .data.sections_v2[1].items |= map(select((.title | IN("联系客服", "稿件管理", "我的钱包", "我的NFT")) | not))'
-http-response-jq ^https:\/\/app\.bilibili\.com\/x\/v2\/search\/square\?(.+)$ 'walk(if type == "array" then [] else . end)'
+
+[Map Local]
+^https:\/\/app\.bilibili\.com\/x\/v2\/search\/square\?(.+)$ data-type=text data="{}" status-code=200
 
 [MITM]
 hostname = %APPEND% app.bilibili.com
