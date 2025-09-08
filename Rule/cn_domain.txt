@@ -4,6 +4,7 @@ DOMAIN,cdn.angruo.com
 DOMAIN,client.amplifi.com
 DOMAIN,download.jetbrains.com
 DOMAIN,download.microsoft.com
+DOMAIN,easytomessage.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
@@ -3610,6 +3611,7 @@ DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,yxwsgame.com
 DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,yyds.co
+DOMAIN-SUFFIX,yykgd.com
 DOMAIN-SUFFIX,yystatic.com
 DOMAIN-SUFFIX,yytcdn.com
 DOMAIN-SUFFIX,yzyxgame.com
