@@ -2487,6 +2487,7 @@ DOMAIN-SUFFIX,ol-img.com
 DOMAIN-SUFFIX,oldboyedu.com
 DOMAIN-SUFFIX,oncdp.com
 DOMAIN-SUFFIX,oneapm.com
+DOMAIN-SUFFIX,onedns.net
 DOMAIN-SUFFIX,onegreen.net
 DOMAIN-SUFFIX,onenote.net
 DOMAIN-SUFFIX,oneplus.com
