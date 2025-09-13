@@ -1,4 +1,3 @@
-# Fork from Connershua
 # Direct+
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
