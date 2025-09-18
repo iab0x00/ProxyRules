@@ -1,7 +1,6 @@
 #!name=DiDiClean
 #!desc=移除滴滴开屏广告，精简首页、底栏和我的页面
-#!requirement=Shadowrocket Version>=2.2.66
-#!author=转自怎么肥事@ZenmoFeiShi，可莉@luestr
+#!author=iab0x00，感谢：怎么肥事&&可莉
 
 [Rule]
 DOMAIN,hd.xiaojukeji.com,REJECT
