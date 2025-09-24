@@ -653,7 +653,7 @@ DOMAIN-SUFFIX,ad.g.daum.net
 DOMAIN-SUFFIX,ads.roku.com
 
 DOMAIN,abema-adx.ameba.jp
-# DOMAIN,ad.12306.cn //拦截会导致App开屏等待
+DOMAIN,ad.12306.cn
 DOMAIN,ad.caiyunapp.com
 DOMAIN,ad.flurry.com
 DOMAIN,ad.huajiao.com
