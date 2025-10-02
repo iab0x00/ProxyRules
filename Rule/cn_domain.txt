@@ -2316,6 +2316,7 @@ DOMAIN-SUFFIX,miaostreet.com
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,midasbuy.com
+DOMAIN-SUFFIX,mijia.tech
 DOMAIN-SUFFIX,irsnp.com
 DOMAIN-SUFFIX,mdcdn.cn
 DOMAIN-SUFFIX,midea.cn
