@@ -1,0 +1,6 @@
+#!name= NetInfo 𝕏
+#!desc= 网络变化时进行查询通知(IP相同时不通知)
+#!author= @xream
+
+[Script]
+网络信息变化 𝕏 = enable=1,script-update-interval=86400,event-name=network-changed,script-path=https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/net-lsp-x.js,timeout=30,type=event
