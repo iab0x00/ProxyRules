@@ -1,6 +1,6 @@
 # 注意事项
 
-  ◎ 本仓库规则模块脚本仅供本人学习使用
+  ◎ 本仓库规则模块资源仅供本人学习使用
 
   ◎ 禁止任何形式、任何缘由转载或发布至国内平台
 
@@ -43,9 +43,9 @@
 * 安装（QX）：[长按复制模块链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/RedBook.snippet)
 <br/>
 
-## 部分规则集
+## 部分自用规则集
 * 说明：规则类型选择RULE-SET
-* AI Collection：[长按复制规则链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/AI.txt)
+* AI Collection（包含Apple Intelligence）：[长按复制规则链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/AI.txt)
 * CryptoCurrency：[长按复制规则链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/Crypto.txt)
 * IP Check：[长按复制规则链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/IPCheck.txt)
 * Talkatone：[长按复制规则链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/Talkatone.txt)
