@@ -15,7 +15,6 @@ DOMAIN-KEYWORD,openaicom
 
 # > Apple Intelligence
 DOMAIN-SUFFIX,apps.mzstatic.com
-DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,apple-relay.apple.com
