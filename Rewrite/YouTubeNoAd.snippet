@@ -7,4 +7,4 @@
 hostname = *.googlevideo.com, youtubei.googleapis.com
 
 ^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad url reject-200
-^https:\/\/youtubei\.googleapis\.com\/(youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch))(\?(.*))?$ url 307 https://stream.maasea.workers.dev/$1?blockUpload=true&blockImmersive=true&blockShorts=true&captionLang=zh-hans&lyricLang=zh-hans&$4
+^https:\/\/youtubei\.googleapis\.com\/(youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch))(\?(.*))?$ url 307 https://stream.maasea.workers.dev/$1?blockUpload=true&blockImmersive=true&blockShorts=true&captionLang=off&lyricLang=off&$4
