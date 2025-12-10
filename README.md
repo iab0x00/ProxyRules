@@ -45,8 +45,8 @@
 
 ## 部分自用规则集
 * 说明：规则类型选择RULE-SET
-* AI（包含Apple智能）：[长按复制规则链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/AI.txt)
 * Apple智能：[长按复制规则链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/AppleIntelligence.txt)
-* CryptoCurrency：[长按复制规则链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/Crypto.txt)
+* AI合集：[长按复制规则链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/AI.txt)
+* Crypto：[长按复制规则链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/Crypto.txt)
 * IP Check：[长按复制规则链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/IPCheck.txt)
 * Talkatone：[长按复制规则链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/Talkatone.txt)
