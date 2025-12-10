@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,iplark.com
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,ippure.com
 DOMAIN-SUFFIX,perfect-privacy.com
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,surfsharkdns.com
