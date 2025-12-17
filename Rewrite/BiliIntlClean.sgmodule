@@ -1,0 +1,13 @@
+#!name=BiliIntlClean
+#!desc=国际版哔哩，移除热搜、搜索发现，精简我的页面
+#!author=iab0x00
+#!update=2025-07-04
+
+[Body Rewrite]
+http-response-jq ^https:\/\/app\.bilibili\.com\/x\/v2\/account\/mine\?(.+) '.data.sections_v2[1].title |= null | .data.sections_v2[1].items |= map(select((.title | IN("联系客服", "稿件管理", "我的钱包", "我的NFT")) | not))'
+
+[Map Local]
+^https:\/\/app\.bilibili\.com\/x\/v2\/search\/square\?(.+)$ data-type=text data="{}" status-code=200
+
+[MITM]
+hostname = %APPEND% app.bilibili.com

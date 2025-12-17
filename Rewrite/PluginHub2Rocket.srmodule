@@ -1,0 +1,9 @@
+#!name=PluginHub2Rocket
+#!desc=将可莉插件中心转换给小火箭使用; 插件中心 https://pluginhub.kelee.one; 请提前安装Script-Hub模块
+#!author=iab0x00，感谢资源作者@iKeLee和Script-Hub
+
+[Body Rewrite]
+http-response ^https://(hub|pluginhub)\.kelee\.one/list\.json "loon://import\?plugin=(https://kelee.one/Tool/Loon/Lpx/(.+).lpx)" "shadowrocket://install?module=http://script.hub/file/_start_/$1/_end_/$2.sgmodule%3Ftype%3Dloon-plugin%26target%3Dshadowrocket-module%26del%3Dtrue%26jqEnabled%3Dtrue"
+
+[MITM]
+hostname = %APPEND% hub.kelee.one, pluginhub.kelee.one

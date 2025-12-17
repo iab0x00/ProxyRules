@@ -1,0 +1,19 @@
+#!name=WeiboIntl
+#!desc=微博轻享版移除开屏、瀑布流、趋势页、用户中心广告
+#!update=2025-5-20
+
+hostname = api.weibo.cn, weibointl.api.weibo.cn
+
+^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?(a=get_searching_info&|ct=feed&a=search_topic&) url reject-dict
+
+^https?:\/\/api\.weibo\.cn\/2\/ad\/weibointl\? url reject-dict
+
+^https?:\/\/api\.weibo\.cn\/2\/statuses\/unread_hot_timeline$ url jsonjq-response-body 'del(.ad, .advertises, .trends) | if .statuses then .statuses |= map(select(((.promotion.type == "ad") or (.mblogtypename | IN("广告", "廣告", "热推", "熱推"))) | not)) end'
+
+^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=get_coopen_ads& url jsonjq-response-body '.data |= . + {"ad_list":[],"pic_ad":[],"gdt_video_ad_ios":[],"display_ad":0,"ad_ios_id":null,"app_ad_ios_id":null,"reserve_ad_ios_id":"","reserve_app_ad_ios_id":"","ad_duration":604800,"ad_cd_interval":604800}'
+
+^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=trends& url jsonjq-response-body 'if .data.order then .data.order = ["search_topic"] end'
+
+^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=search_topic& url jsonjq-response-body 'if .data.search_topic.cards[0].type == "searchtop" then del(.data.search_topic.cards[0]) end'
+
+^https?:\/\/weibointl\.api\.weibo\.cn\/portal\.php\?a=user_center& url jsonjq-response-body 'if .data.cards then .data.cards[].items |= map(select(.type != "personal_vip")) | .data.cards |= map(select((.items | length) > 0)) end'

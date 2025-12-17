@@ -1,0 +1,10 @@
+# DeepSeek Overseas Routing
+DOMAIN,apmplus.volces.com
+DOMAIN,gator.volces.com
+DOMAIN,tab.volces.com
+DOMAIN,fp-it.fengkongcloud.com
+DOMAIN,nexus-websocket-a.intercom.io
+DOMAIN,guh50jw4-ios.mobile-messenger.intercom.com
+DOMAIN,fp-it-acc.portal101.cn
+DOMAIN,static.portal101.cn
+DOMAIN-SUFFIX,deepseek.com

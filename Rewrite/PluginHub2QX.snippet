@@ -1,0 +1,6 @@
+# 说明：将可莉插件中心转换给 Quantumult X 使用; 插件中心 https://pluginhub.kelee.one; 请提前配置资源解析器。使用请遵循授权说明
+# 作者：iab0x00，感谢可莉及资源解析器
+
+hostname = hub.kelee.one, pluginhub.kelee.one
+
+^https://(hub|pluginhub)\.kelee\.one/list\.json url response-body loon://import\?plugin=(https://kelee.one/Tool/Loon/Lpx/(.+).lpx) response-body quantumult-x:///add-resource?remote-resource=%7B%0A%20%20%20%20%22rewrite_remote%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22https%3A%2F%2Fkelee.one%2FTool%2FLoon%2FLpx%2F$2.lpx%2C%20opt-parser=true%2C%20enabled=true%2C%20tag%3D$2%22%0A%20%20%20%20%5D%0A%7D

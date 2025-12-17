@@ -1,0 +1,38 @@
+#!name=DiDiClean
+#!desc=移除开屏广告，精简首页、底栏和我的页面
+#!author=iab0x00，感谢：怎么肥事&&可莉
+
+hostname = common.diditaxi.com.cn, freight.xiaojukeji.com, daijia.kuaidadi.com, 162.14.157.*, ct.xiaojukeji.com, res.xiaojukeji.com, conf.diditaxi.com.cn, api.udache.com, 123.207.209.*, 112.53.55.225, 120.241.142.*, 120.241.143.*, 116.85.*, 139.199.240.84
+
+host,hd.xiaojukeji.com,reject
+host,gwp.xiaojukeji.com,reject
+
+
+^https:\/\/res\.xiaojukeji\.com\/resapi\/activity\/getMulti\? url reject-dict
+
+^https:\/\/res\.xiaojukeji\.com\/resapi\/activity\/xpget url reject-dict
+
+^https:\/\/ct\.xiaojukeji\.com\/agent\/v3\/feeds url reject-dict
+
+^https:\/\/freight\.xiaojukeji\.com\/gateway url reject-dict
+
+^https:\/\/daijia\.kuaidadi\.com:443\/gateway url reject-dict
+
+^https:\/\/res\.xiaojukeji\.com\/resapi\/activity\/mget url reject-dict
+
+^https:\/\/conf\.diditaxi\.com\.cn\/homepage\/v\d\/other\/fast url reject-dict
+
+^https:\/\/conf\.diditaxi\.com\.cn\/dynamic\/conf url reject-dict
+
+^https:\/\/conf\.diditaxi\.com\.cn\/homepage\/v1\/other\/slow url reject-dict
+
+
+^https:\/\/common\.diditaxi\.com\.cn\/common\/v\d\/usercenter\/me url jsonjq-response-body '.data.cards |= map(select(.title != "天天领福利" and .title != "金融服务" and .title != "更多服务" and .title != "企业服务" and .title != "安全中心")) | .data.cards[] |= if .tag == "wallet" then .items |= map(select(.title == "优惠券")) | if .card_type == 4 then .bottom_items |= map(select(.title == "省钱套餐" or .title == "出行里程")) else . end else . end'
+
+^https:\/\/conf\.diditaxi\.com\.cn\/homepage\/v\d\/core url jsonjq-response-body '.data.order_cards.nav_list_card.data |= map(select(.nav_id == "dache_anycar" or .nav_id == "driverservice" or .nav_id == "bike" or .nav_id == "carmate")) | .data.disorder_cards.bottom_nav_list.data |= map(select(.id == "v6x_home" or .id == "home_page" or .id == "user_center"))'
+
+^https:\/\/api\.udache\.com\/gulfstream\/pre-sale\/v1\/other\/pGetSceneList url jsonjq-response-body '.data.scene_list |= map(select(.text != "优惠商城")) | .data.show_data[] |= (if .scene_ids then .scene_ids |= map(select(. != "scene_coupon_mall")) else . end)'
+
+^https:\/\/conf\.diditaxi\.com\.cn\/ota\/na\/yuantu\/infoList url jsonjq-response-body '.data.disorder_cards.top_banner_card.data |= if .[0].T == "yuentu_top_banner" then .[1:] else . end'
+
+^https:\/\/api\.udache\.com\/gulfstream\/passenger-center\/v2\/other\/pInTripLayout url jsonjq-response-body '.data.order_components |= map(select(.name != "passenger_common_casper"))'

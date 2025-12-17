@@ -1,0 +1,27 @@
+# IP Check
+DOMAIN,ip-scan.adspower.net
+DOMAIN-SUFFIX,addr.tools
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,browserleaks.net
+DOMAIN-SUFFIX,browserscan.net
+DOMAIN-SUFFIX,dnscheck.tools
+DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,dnsleak.com
+DOMAIN-SUFFIX,edns.ip-api.com
+DOMAIN-SUFFIX,expressvpn.com
+DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,ipcheck.ing
+DOMAIN-SUFFIX,iplark.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,ippure.com
+DOMAIN-SUFFIX,perfect-privacy.com
+DOMAIN-SUFFIX,surfshark.com
+DOMAIN-SUFFIX,surfsharkdns.com
+DOMAIN-SUFFIX,vpnunlimited.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,whrq.net
+#DOMAIN-KEYWORD,leak

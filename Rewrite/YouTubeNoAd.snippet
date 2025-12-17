@@ -1,0 +1,10 @@
+#!name = YouTubeNoAds
+#!desc = 适用于 Youtube & Youtube Music去广告
+#!author = iab0x00，thanks to Maasea
+#!update = 2025-06-20
+#!notification = 1、QX暂时不支持协议分流和逻辑分流，需要在[general]字段下加入并启用以下参数: udp_drop_list=443。2、默认屏蔽上传按钮，屏蔽选段按钮，屏蔽Shorts按钮，关闭翻译语言。3、利用解析器的replace方法可实现编辑参数的效果，例如添加#replace=blockShorts=true@blockShorts=false开启解析器可实现取消屏蔽Shorts按钮，详细参考解析器使用说明，其他参数可类似实现。
+
+hostname = *.googlevideo.com, youtubei.googleapis.com
+
+^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad url reject-200
+^https:\/\/youtubei\.googleapis\.com\/(youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch))(\?(.*))?$ url 307 https://stream.maasea.workers.dev/$1?blockUpload=true&blockImmersive=true&blockShorts=true&captionLang=off&lyricLang=off&$4
