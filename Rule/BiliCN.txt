@@ -1,4 +1,4 @@
-# > bilibili
+# bilibili 国内域名
 DOMAIN,api.biliapi.com
 DOMAIN,api.biliapi.net
 DOMAIN,api.bilibili.com

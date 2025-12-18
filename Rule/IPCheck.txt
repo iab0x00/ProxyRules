@@ -1,4 +1,4 @@
-# IP Check
+# IP Check Websites
 DOMAIN,ip-scan.adspower.net
 DOMAIN-SUFFIX,addr.tools
 DOMAIN-SUFFIX,browserleaks.com

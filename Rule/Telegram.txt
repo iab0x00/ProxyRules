@@ -1,4 +1,4 @@
-# Telegram Routing
+# Telegram
 #IP-ASN,59930,US,no-resolve
 #IP-ASN,44907,JP,no-resolve
 #IP-ASN,211157,DE,no-resolve

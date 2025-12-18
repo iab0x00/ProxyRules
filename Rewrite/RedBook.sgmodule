@@ -1,6 +1,6 @@
-#!name = RedNote
-#!desc = 小红书去广告、去图片视频水印
-#!author = 转自@RuCu6，by@iab0x00
+#!name=RedNote
+#!desc=小红书去广告、去图片视频水印
+#!author=iab0x00, 转自@RuCu6
 
 [Rule]
 AND,((PROTOCOL,QUIC),(DOMAIN-SUFFIX,xiaohongshu.com,extended-matching)),REJECT

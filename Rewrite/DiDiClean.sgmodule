@@ -1,6 +1,6 @@
 #!name=DiDiClean
 #!desc=移除滴滴开屏广告，精简首页、底栏和我的页面
-#!author=iab0x00，感谢：怎么肥事&&可莉
+#!author=iab0x00，转自@怎么肥事、@可莉
 
 [Rule]
 DOMAIN,hd.xiaojukeji.com,REJECT

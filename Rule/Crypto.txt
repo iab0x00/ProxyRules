@@ -1,3 +1,4 @@
+# crypto
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,backpack.exchange
 DOMAIN-SUFFIX,bitcointalk.org

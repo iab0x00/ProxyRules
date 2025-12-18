@@ -1,4 +1,4 @@
-# 此条规则走代理开启Apple Intelligence，保持系统语言和Siri语言一致，同时App Store登陆外区账号
+# Apple Intelligence 开启ChatGPT扩展：需保证系统语言和Siri语言一致，同时保持App Store登陆外区账号
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,gspe1-ssl.ls.apple.com
