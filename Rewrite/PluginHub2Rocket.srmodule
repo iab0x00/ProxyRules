@@ -5,5 +5,8 @@
 [Body Rewrite]
 http-response ^https://(hub|pluginhub)\.kelee\.one/list\.json "loon://import\?plugin=(https://kelee.one/Tool/Loon/Lpx/(.+).lpx)" "shadowrocket://install?module=http://script.hub/file/_start_/$1/_end_/$2.sgmodule%3Ftype%3Dloon-plugin%26target%3Dshadowrocket-module%26del%3Dtrue%26jqEnabled%3Dtrue"
 
+[Header Rewrite]
+http-request ^https://(hub|pluginhub)\.kelee\.one/list\.json header-del if-none-match
+
 [MITM]
 hostname = %APPEND% hub.kelee.one, pluginhub.kelee.one

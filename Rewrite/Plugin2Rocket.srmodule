@@ -8,6 +8,9 @@ force-http-engine-hosts = %APPEND% script.hub, *.script.hub
 [Body Rewrite]
 http-response ^https://(hub|pluginhub)\.kelee\.one/list\.json "loon://import\?plugin=(https://kelee.one/Tool/Loon/Lpx/(.+).lpx)" "shadowrocket://install?module=http://script.hub/file/_start_/$1/_end_/$2.sgmodule%3Ftype%3Dloon-plugin%26target%3Dshadowrocket-module%26del%3Dtrue%26jqEnabled%3Dtrue"
 
+[Header Rewrite]
+http-request ^https://(hub|pluginhub)\.kelee\.one/list\.json header-del if-none-match
+
 [Script]
 Script Hub: 前端 = type=http-request, pattern=^https?:\/\/script\.hub\/($|edit\/|reload), script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/script-hub.js, timeout=300
 
