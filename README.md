@@ -138,8 +138,8 @@
 
 # 三、小火箭IP信息查询
 
-添加 [IPPure测试](https://www.icloud.com/shortcuts/6ae49d67efef4eb898185d3b4cc8cf13) 快捷指令后运行，使用说明参考快捷指令内部注释。
-> **· 查询示例**: ![IPPure信息查询](https://github.com/iab0x00/ProxyRules/blob/main/Resource/ippuretest.jpg)
+通过快捷指令快速查询当前IP的定位、组织、属性（广播/原生）和风险评分。点击添加 [IPPure测试](https://www.icloud.com/shortcuts/6ae49d67efef4eb898185d3b4cc8cf13) 快捷指令后运行，使用说明参考快捷指令内部注释。
+> **· 查询示例**: ![IPPure信息查询](https://github.com/iab0x00/ProxyRules/blob/main/Resource/ippuretest.png)
 
 <br>
 <br>
