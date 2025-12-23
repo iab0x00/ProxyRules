@@ -148,6 +148,6 @@
 # 四、特别鸣谢
 感谢 **可莉插件仓库** 制作整理的大量资源 [*@可莉*](https://github.com/luestr) 
 
-感谢 **资源解析器** [*@资源解析器*](https://github.com/KOP-XIAO) 和 **Script-Hub**[*@Script-Hub*](https://github.com/Script-Hub-Org) 消除了iOS代理工具之间规则/重写/脚本格式的隔阂
+感谢 **资源解析器** [*@资源解析器*](https://github.com/KOP-XIAO) 和 **Script-Hub**[*@Script-Hub*](https://github.com/Script-Hub-Org) 
 
 感谢好友 **LOWERTOP** 在项目中提供的支持和建议[*@LOWRERTOP*](https://github.com/LOWERTOP) 
