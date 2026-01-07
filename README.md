@@ -86,7 +86,7 @@
 > **功能**：精简底部标签栏，去除开屏与应用内广告
 >
 > **Shadowrocket 模块**：[复制链接安装](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/DiDiClean.sgmodule)
-> ~~**Quantumult X 重写**：[复制链接安装](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/DiDiClean.snippet)~~
+> **Quantumult X 重写**：[复制链接安装](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/DiDiClean.snippet)
 
 <br>
 
