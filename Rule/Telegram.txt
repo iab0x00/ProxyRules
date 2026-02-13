@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,tx.me
 DOMAIN-KEYWORD,telegra
 IP-CIDR,91.108.56.0/22,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve

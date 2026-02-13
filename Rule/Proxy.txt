@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,getsync.com
 DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,githack.com
+DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,graphql.org
@@ -145,6 +146,7 @@ DOMAIN-SUFFIX,redditlist.com
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,rustdesk.com
 DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,search.com
@@ -501,10 +503,9 @@ DOMAIN,disk.yandex.com
 # > Z-Library
 DOMAIN-SUFFIX,articles.sk
 DOMAIN-SUFFIX,go-to-library.sk
-DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,library-access.sk
 DOMAIN-SUFFIX,singlelogin.rs
-DOMAIN-SUFFIX,z-lib.gs
-DOMAIN-SUFFIX,z-library.rs
+DOMAIN-SUFFIX,z-library.sk
 
 # tld-not-cn
 DOMAIN-SUFFIX,gov

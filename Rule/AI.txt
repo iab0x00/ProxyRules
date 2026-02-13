@@ -41,6 +41,9 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN,aistudio.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+# > > Antigravity
+DOMAIN,antigravity.google
+DOMAIN,antigravity-unleash.goog
 # > > DeepMind
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
@@ -59,6 +62,9 @@ DOMAIN-KEYWORD,labs.google
 # > Grok
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
+
+# > OpenRouter
+DOMAIN-SUFFIX,openrouter.ai
 
 # > Perplexity
 DOMAIN-SUFFIX,perplexity.ai

@@ -23,14 +23,16 @@ DOMAIN-SUFFIX,upbit.com
 # > Binane
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bsappapi.com
+DOMAIN-SUFFIX,bscdnweb.com
 DOMAIN-SUFFIX,yingwangtech.cloud
 # > Bitget
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitget.site
 # > Bybit
-DOMAIN-SUFFIX,byabcd.com
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,bybdc6.com
@@ -39,10 +41,11 @@ DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bybit-global.com
-DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
+DOMAIN-SUFFIX,wsot2022.com
 # > OKX
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
+DOMAIN-KEYWORD,okx-dns
