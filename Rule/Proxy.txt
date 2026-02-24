@@ -188,6 +188,7 @@ DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,typeset.io
+DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,urbandictionary.com
 DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,v2ex.com
