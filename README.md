@@ -25,13 +25,13 @@
   
 ## 🧩插件中心转换器
 
-得益于可莉及社区热心开发者的努力，插件中心已积累了丰富的资源。本工具通过重写将 [可莉插件中心](https://pluginhub.kelee.one) 的 Loon 插件借用 Script-Hub 或 资源解析器 无缝转换为 小火箭 或 QX 支持的模块/重写格式。
+得益于可莉及社区热心开发者的努力，插件中心已积累了丰富的资源。本工具通过重写将 [可莉插件中心](https://hub.kelee.one) 的 Loon 插件借用 Script-Hub 或 资源解析器 无缝转换为 小火箭 或 QX 支持的模块/重写格式。
 >
 > &nbsp;&nbsp; **❗前置要求**：小火箭请提前安装 **Script-Hub** 模块， QX请提前配置 **资源解析器**
 >
 > 1. **安装转换器**：[Shadowrocket 安装](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/PluginHub2Rocket.srmodule) , [Quantumult X 安装](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/PluginHub2QX.snippet)
 > 
-> 2. **使用方法**：安装后访问 [可莉插件中心](https://pluginhub.kelee.one)，直接点击安装即可。使用过程请注意遵守可莉[授权说明](https://t.me/ibilibili/1498)
+> 2. **使用方法**：安装后访问 [可莉插件中心](https://hub.kelee.one)，直接点击安装即可。使用过程请注意遵守可莉[授权说明](https://t.me/ibilibili/1498)
 > 
 > 3. **致谢**：感谢 [可莉](https://github.com/luestr) 、[资源解析器](https://github.com/KOP-XIAO) 及 [Script-Hub](https://github.com/Script-Hub-Org) 的付出
 > 
