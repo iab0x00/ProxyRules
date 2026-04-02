@@ -34,10 +34,20 @@
 
 <br>
 
-## 📜 自用规则集
+## 📜 自用模块及规则集
 
-**配置说明**：添加规则时，规则类型请选择 `RULE-SET`，QX 注意启用资源解析器
+*`💡小火箭推荐使用HTTP代理模式，如遇失效可考虑使用前述插件中心转换器，如有去广告需求不建议频繁更新APP`*
+| 模块名称 | 适用场景 | 链接 |
+| :--- | :--- | :--- |
+| 📺 **YouTube 去广告** | Youtube去广告, QX参考说明可实现编辑参数 | [小火箭链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/YouTubeNoAd.sgmodule), [QX链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/YouTubeNoAd.snippet) |
+|🌍 **国际版哔哩净化** | 移除热搜、搜索发现，精简 “我的” 页面布局 | [小火箭链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/BiliIntlClean.sgmodule), [QX链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/BiliIntlClean.snippet) |
+|🐦 **微博轻享版去广告** | 移除开屏广告及应用内时间线推广 | [小火箭链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/WeiboIntl.sgmodule), [QX链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/WeiboIntl.snippet) |
+|🚖 **滴滴出行去广告** | 精简底部标签栏，去除开屏与应用内广告 | [小火箭链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/DiDiClean.sgmodule), [QX链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/DiDiClean.snippet) |
+|📕 **小红书去广告及水印** | 移除首页瀑布流和搜索框广告，移除图片/视频保存水印 | [小火箭链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/RedBook.srmodule), [QX链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/RedBook.snippet) |
 
+<br>
+
+*`💡添加规则时，规则类型请选择 `RULE-SET`，QX 注意启用资源解析器`*
 | 规则名称 | 适用场景 | 链接 |
 | :--- | :--- | :--- |
 | 🍎 **Apple AI** | 苹果 AI 相关规则 | [复制链接](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rule/AppleIntelligence.txt) |
@@ -67,4 +77,5 @@
 # 🫶🏻特别鸣谢
 
 感谢 [*@可莉*](https://github.com/luestr) 、 [*@资源解析器*](https://github.com/KOP-XIAO) 、 [*@Script-Hub*](https://github.com/Script-Hub-Org) 
+
 感谢好友 [*@LOWRERTOP*](https://github.com/LOWERTOP) 在项目中提供的支持和建议
