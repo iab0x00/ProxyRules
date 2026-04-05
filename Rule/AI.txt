@@ -14,13 +14,12 @@ DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaicom
 
 # > Apple Intelligence
-DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
+DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,guzzoni.apple.com
 
 # > Claude
