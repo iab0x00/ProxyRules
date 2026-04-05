@@ -1,9 +1,8 @@
 # Apple Intelligence 开启ChatGPT扩展：需保证系统语言和Siri语言一致，同时保持App Store登陆外区账号
-DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
+DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,guzzoni.apple.com
