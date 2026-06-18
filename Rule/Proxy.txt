@@ -1,6 +1,7 @@
 # Proxy
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
+DOMAIN-SUFFIX,16k.club
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,anchor.fm
