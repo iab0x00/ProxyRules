@@ -364,6 +364,7 @@ DOMAIN-SUFFIX,alibabacloud.com.my
 DOMAIN-SUFFIX,alibabacloud.com.sg
 DOMAIN-SUFFIX,alibabacloud.com.tw
 DOMAIN-SUFFIX,alibabacorp.com
+DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alibabadoctor.com
 DOMAIN-SUFFIX,alibabafuturehotel.com
