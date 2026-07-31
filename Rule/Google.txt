@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
-DOMAIN-SUFFIX,app-measurement.net
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,ggpht.com
