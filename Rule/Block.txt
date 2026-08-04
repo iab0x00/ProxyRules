@@ -1147,7 +1147,6 @@ DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN,analytics.slashdotmedia.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,cdn.ampproject.org
-DOMAIN,cnlogs.umengcloud.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,zgsdk.zhugeio.com
 
@@ -1213,3 +1212,6 @@ DOMAIN,safebrowsing.urlsec.qq.com
 # > Tenjin
 DOMAIN,track.tenjin.com
 DOMAIN,track.tenjin.io
+# > Umeng
+DOMAIN,cnlogs.umengcloud.com
+DOMAIN-SUFFIX,umeng.com
