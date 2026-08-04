@@ -1089,7 +1089,8 @@ IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 DOMAIN,apppv.zol.com.cn
 DOMAIN,pvnapp.zol.com.cn
 
-#-----------------------------------#
+#--------------------
+
 # Privacy
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,airpr.com
@@ -1164,7 +1165,6 @@ DOMAIN,hmma.baidu.com
 DOMAIN,track.tiara.daum.net
 DOMAIN,track.tiara.kakao.com
 # > Google
-DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,safebrowsing.googleapis-cn.com
@@ -1201,5 +1201,3 @@ DOMAIN,safebrowsing.urlsec.qq.com
 # > Tenjin
 DOMAIN,track.tenjin.com
 DOMAIN,track.tenjin.io
-# > Umeng
-DOMAIN-SUFFIX,umeng.com
