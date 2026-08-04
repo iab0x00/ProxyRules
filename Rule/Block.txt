@@ -141,6 +141,7 @@ DOMAIN-SUFFIX,adtongji.xyz
 DOMAIN-SUFFIX,adtongji.xyz
 DOMAIN-SUFFIX,adtrace.org
 DOMAIN-SUFFIX,advertising.com
+DOMAIN-SUFFIX,advlion.com
 DOMAIN-SUFFIX,adwhirl.com
 DOMAIN-SUFFIX,adwo.com
 DOMAIN-SUFFIX,adxadserv.com
@@ -215,6 +216,7 @@ DOMAIN-SUFFIX,echatu.com
 DOMAIN-SUFFIX,erdoscs.com
 DOMAIN-SUFFIX,eroadvertising.com
 DOMAIN-SUFFIX,ero-advertising.com
+DOMAIN-SUFFIX,etoolads.cn
 DOMAIN-SUFFIX,exdynsrv.com
 DOMAIN-SUFFIX,exoclick.com
 DOMAIN-SUFFIX,exosrv.com
@@ -544,6 +546,7 @@ DOMAIN-SUFFIX,tutoads.tv
 DOMAIN-SUFFIX,tynt.com
 DOMAIN-SUFFIX,u-ad.info
 DOMAIN-SUFFIX,uberads.com
+DOMAIN-SUFFIX,ubixioe.com
 DOMAIN-SUFFIX,uimserv.net
 DOMAIN-SUFFIX,ultraadserver.com
 DOMAIN-SUFFIX,undertone.com
@@ -575,6 +578,7 @@ DOMAIN-SUFFIX,videozhishi.com
 DOMAIN-SUFFIX,vidoomy.com
 DOMAIN-SUFFIX,viewdeos.com
 DOMAIN-SUFFIX,vi-serve.com
+DOMAIN-SUFFIX,vlion.cn
 DOMAIN-SUFFIX,vm5apis.com
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,voodoo-ads.io
@@ -631,10 +635,12 @@ DOMAIN-SUFFIX,youmi.net
 DOMAIN-SUFFIX,yukhj.com
 DOMAIN-SUFFIX,yumimobi.com
 DOMAIN-SUFFIX,yunqingugm.com
+DOMAIN-SUFFIX,yunxish.com
 DOMAIN-SUFFIX,zapr.in
 DOMAIN-SUFFIX,zemanta.com
 DOMAIN-SUFFIX,zestads.com
 DOMAIN-SUFFIX,zeustechnology.com
+DOMAIN-SUFFIX,zhangyuyidong.cn
 DOMAIN-SUFFIX,zhaozecheng.cn
 DOMAIN-SUFFIX,zhenxinet.com
 DOMAIN-SUFFIX,zhiziyun.com
