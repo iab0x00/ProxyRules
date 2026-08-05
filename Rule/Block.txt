@@ -692,6 +692,7 @@ DOMAIN,adv.bandi.so
 DOMAIN,adv.ettoday.net
 DOMAIN,advert.mafengwo.cn
 DOMAIN,adx.sogaha.cn
+DOMAIN,aid.m.taobao.com
 DOMAIN,api.ad.xiaomi.com
 DOMAIN,api.adnet.mob.com
 DOMAIN,api-ad.kajicam.com
@@ -1142,6 +1143,7 @@ DOMAIN-SUFFIX,woopra.com
 DOMAIN-SUFFIX,wootric.com
 DOMAIN-SUFFIX,wowanalytics.co.uk
 DOMAIN-SUFFIX,zoomanalytics.co
+DOMAIN-SUFFIX,zztfly.com
 
 DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN,analytics.slashdotmedia.com
@@ -1207,6 +1209,11 @@ DOMAIN-SUFFIX,cpatrk.net
 DOMAIN-SUFFIX,talkingdata.com
 DOMAIN-SUFFIX,talkingdata.net
 DOMAIN-SUFFIX,udrig.com
+# > Taobao
+DOMAIN,adashx.m.taobao.com
+DOMAIN,amdc.m.taobao.com
+DOMAIN,atoken.m.taobao.com
+DOMAIN,px.effirst.com
 # > Tencent
 DOMAIN,safebrowsing.urlsec.qq.com
 # > Tenjin
