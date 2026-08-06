@@ -1110,6 +1110,8 @@ DOMAIN-SUFFIX,mobileapptracking.com
 DOMAIN-SUFFIX,mparticle.com
 DOMAIN-SUFFIX,nexac.com
 DOMAIN-SUFFIX,nr-data.net
+DOMAIN-SUFFIX,openinstall.com
+DOMAIN-SUFFIX,openinstalls.top
 DOMAIN-SUFFIX,pardot.com
 DOMAIN-SUFFIX,parrable.com
 DOMAIN-SUFFIX,petametrics.com
@@ -1143,6 +1145,8 @@ DOMAIN-SUFFIX,trackingio.com
 DOMAIN-SUFFIX,woopra.com
 DOMAIN-SUFFIX,wootric.com
 DOMAIN-SUFFIX,wowanalytics.co.uk
+DOMAIN-SUFFIX,xinstall.com
+DOMAIN-SUFFIX,xinstall.top
 DOMAIN-SUFFIX,zoomanalytics.co
 DOMAIN-SUFFIX,zztfly.com
 
