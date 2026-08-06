@@ -1054,13 +1054,16 @@ DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,ctoutiao.com
 DOMAIN-SUFFIX,ctrip.co.id
 DOMAIN-SUFFIX,ctrip.co.kr
-DOMAIN-SUFFIX,ctrip.co.th
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,ctrip.com.hk
 DOMAIN-SUFFIX,ctrip.my
 DOMAIN-SUFFIX,ctrip.sg
 DOMAIN-SUFFIX,ctripbiz.com
 DOMAIN-SUFFIX,ctripbuy.hk
+DOMAIN-SUFFIX,ctripcorp.com
+DOMAIN-SUFFIX,ctripgslb.com
+DOMAIN-SUFFIX,ctripgslb.net
+DOMAIN-SUFFIX,ctripins.com
 DOMAIN-SUFFIX,ctripteam.com
 DOMAIN-SUFFIX,ctsbw.com
 DOMAIN-SUFFIX,ctsec.com
@@ -1641,6 +1644,7 @@ DOMAIN-SUFFIX,huaweistatic.com
 DOMAIN-SUFFIX,huaweiyun.com
 DOMAIN-SUFFIX,huaxiong.com
 DOMAIN-SUFFIX,huayingsc.com
+DOMAIN-SUFFIX,huazhu.com
 DOMAIN-SUFFIX,huijistatic.com
 DOMAIN-SUFFIX,huijiwiki.com
 DOMAIN-SUFFIX,huize.com
