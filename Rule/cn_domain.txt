@@ -2190,6 +2190,7 @@ DOMAIN-SUFFIX,lingkou.com
 DOMAIN-SUFFIX,linglonglife.com
 DOMAIN-SUFFIX,lingshoujia.com
 DOMAIN-SUFFIX,linkvans.com
+DOMAIN-SUFFIX,lingnanpass.com
 DOMAIN-SUFFIX,linsn.com
 DOMAIN-SUFFIX,linuxidc.com
 DOMAIN-SUFFIX,liqucn.com
