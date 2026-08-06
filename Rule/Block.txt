@@ -1098,6 +1098,7 @@ DOMAIN-SUFFIX,airpr.com
 DOMAIN-SUFFIX,cr-nielsen.com
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,hotjar.com
 DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,hs-analytics.net
