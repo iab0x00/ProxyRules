@@ -2164,6 +2164,7 @@ DOMAIN-SUFFIX,leiting.com
 DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,lemall.com
 DOMAIN-SUFFIX,lemicp.com
+DOMAIN-SUFFIX,lepudding.com
 DOMAIN-SUFFIX,leturich.org
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,letvcdn.com
