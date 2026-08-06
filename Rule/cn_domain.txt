@@ -1992,6 +1992,7 @@ DOMAIN-SUFFIX,jomocdn.net
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,joybuy.com
 DOMAIN-SUFFIX,joybuy.es
+DOMAIN-SUFFIX,joying.com
 DOMAIN-SUFFIX,jpmorganchina.com
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,jpush.io
