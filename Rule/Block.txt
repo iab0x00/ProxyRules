@@ -1094,6 +1094,7 @@ DOMAIN,pvnapp.zol.com.cn
 
 # Privacy
 DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,log.aliyuncs.com
 DOMAIN-SUFFIX,airpr.com
 DOMAIN-SUFFIX,cr-nielsen.com
 DOMAIN-SUFFIX,gepush.com
@@ -1165,6 +1166,8 @@ DOMAIN,wc.51.la
 # > 58
 DOMAIN,track.58.com
 DOMAIN,tracklog.58.com
+# > Amap
+DOMAIN-WILDCARD,*logs.amap.com
 # > Antiy
 DOMAIN,miav-cse.avlyun.com
 DOMAIN,miui-fxcse.avlyun.com
