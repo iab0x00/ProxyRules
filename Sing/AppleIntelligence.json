@@ -1,0 +1,26 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": "smoot.apple.com"
+    },
+    {
+      "domain": "apple-relay.apple.com"
+    },
+    {
+      "domain": "apple-relay.cloudflare.com"
+    },
+    {
+      "domain": "apple-relay.fastly-edge.com"
+    },
+    {
+      "domain": "cp4.cloudflare.com"
+    },
+    {
+      "domain": "gspe1-ssl.ls.apple.com"
+    },
+    {
+      "domain": "guzzoni.apple.com"
+    }
+  ]
+}

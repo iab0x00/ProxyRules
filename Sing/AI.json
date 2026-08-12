@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": "chat.com"
+    },
+    {
+      "domain_suffix": "chatgpt.com"
+    },
+    {
+      "domain_suffix": "livekit.cloud"
+    },
+    {
+      "domain_suffix": "oaistatic.com"
+    },
+    {
+      "domain_suffix": "oaiusercontent.com"
+    },
+    {
+      "domain_suffix": "openai.com"
+    },
+    {
+      "domain_suffix": "sora.com"
+    },
+    {
+      "domain": "api.statsig.com"
+    },
+    {
+      "domain": "api-iam.intercom.io"
+    },
+    {
+      "domain": "o33249.ingest.sentry.io"
+    },
+    {
+      "domain": "openaiapi-site.azureedge.net"
+    },
+    {
+      "domain_keyword": "openaiapi"
+    },
+    {
+      "domain_keyword": "openaicom"
+    },
+    {
+      "domain_suffix": "smoot.apple.com"
+    },
+    {
+      "domain": "apple-relay.apple.com"
+    },
+    {
+      "domain": "apple-relay.cloudflare.com"
+    },
+    {
+      "domain": "apple-relay.fastly-edge.com"
+    },
+    {
+      "domain": "cp4.cloudflare.com"
+    },
+    {
+      "domain": "gspe1-ssl.ls.apple.com"
+    },
+    {
+      "domain": "guzzoni.apple.com"
+    },
+    {
+      "domain_suffix": "claude.ai"
+    },
+    {
+      "domain_suffix": "anthropic.com"
+    },
+    {
+      "domain": "copilot.microsoft.com"
+    },
+    {
+      "domain": "sydney.bing.com"
+    },
+    {
+      "domain": "www.bing.com"
+    },
+    {
+      "domain_suffix": "githubcopilot.com"
+    },
+    {
+      "domain_suffix": "generativeai.google"
+    },
+    {
+      "domain_suffix": "makersuite.google.com"
+    },
+    {
+      "domain": "aistudio.google.com"
+    },
+    {
+      "domain": "alkalicore-pa.clients6.google.com"
+    },
+    {
+      "domain": "alkalimakersuite-pa.clients6.google.com"
+    },
+    {
+      "domain": "antigravity.google"
+    },
+    {
+      "domain": "antigravity-unleash.goog"
+    },
+    {
+      "domain_suffix": "deepmind.com"
+    },
+    {
+      "domain_suffix": "deepmind.google"
+    },
+    {
+      "domain_suffix": "proactivebackend-pa.googleapis.com"
+    },
+    {
+      "domain_suffix": "geller-pa.googleapis.com"
+    },
+    {
+      "domain_suffix": "generativelanguage.googleapis.com"
+    },
+    {
+      "domain": "ai.google.dev"
+    },
+    {
+      "domain": "bard.google.com"
+    },
+    {
+      "domain": "gemini.google.com"
+    },
+    {
+      "domain_keyword": "notebooklm.google"
+    },
+    {
+      "domain_keyword": "labs.google"
+    },
+    {
+      "domain_suffix": "grok.com"
+    },
+    {
+      "domain_suffix": "x.ai"
+    },
+    {
+      "domain_suffix": "openrouter.ai"
+    },
+    {
+      "domain_suffix": "perplexity.ai"
+    },
+    {
+      "domain_suffix": "pplx.ai"
+    },
+    {
+      "domain": "pplx-res.cloudinary.com"
+    }
+  ]
+}

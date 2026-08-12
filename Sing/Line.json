@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": "lin.ee"
+    },
+    {
+      "domain_suffix": "line-apps.com"
+    },
+    {
+      "domain_suffix": "line-cdn.net"
+    },
+    {
+      "domain_suffix": "line-scdn.net"
+    },
+    {
+      "domain_suffix": "line.me"
+    },
+    {
+      "domain_suffix": "linecorp.com"
+    },
+    {
+      "domain_suffix": "line.naver.jp"
+    },
+    {
+      "domain_suffix": "nhncorp.jp"
+    },
+    {
+      "ip_cidr": "103.2.30.0/23"
+    },
+    {
+      "ip_cidr": "119.235.224.0/24"
+    },
+    {
+      "ip_cidr": "119.235.232.0/24"
+    },
+    {
+      "ip_cidr": "119.235.235.0/24"
+    },
+    {
+      "ip_cidr": "119.235.236.0/23"
+    },
+    {
+      "ip_cidr": "125.209.208.0/20"
+    },
+    {
+      "ip_cidr": "147.92.128.0/17"
+    },
+    {
+      "ip_cidr": "203.104.144.0/21"
+    }
+  ]
+}

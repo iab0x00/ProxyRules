@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": "aaplimg.com"
+    },
+    {
+      "domain_suffix": "apple.co"
+    },
+    {
+      "domain_suffix": "apple.com"
+    },
+    {
+      "domain_suffix": "apple.com.cn"
+    },
+    {
+      "domain_suffix": "apple-cloudkit.com"
+    },
+    {
+      "domain_suffix": "apple-livephotoskit.com"
+    },
+    {
+      "domain_suffix": "apple-mapkit.com"
+    },
+    {
+      "domain_suffix": "applemusic.com"
+    },
+    {
+      "domain_suffix": "appstore.com"
+    },
+    {
+      "domain_suffix": "apzones.com"
+    },
+    {
+      "domain_suffix": "cdn-apple.com"
+    },
+    {
+      "domain_suffix": "icloud.com"
+    },
+    {
+      "domain_suffix": "icloud.com.cn"
+    },
+    {
+      "domain_suffix": "icloud-content.com"
+    },
+    {
+      "domain_suffix": "me.com"
+    },
+    {
+      "domain_suffix": "mzstatic.com"
+    },
+    {
+      "domain_keyword": "apple.com.akadns.net"
+    },
+    {
+      "domain_keyword": "apple.com.edgekey.net"
+    },
+    {
+      "domain_keyword": "apple-support.akadns.net"
+    },
+    {
+      "domain_keyword": "icloud.com.akadns.net"
+    }
+  ]
+}

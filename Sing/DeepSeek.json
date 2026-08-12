@@ -1,0 +1,32 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": "apmplus.volces.com"
+    },
+    {
+      "domain": "gator.volces.com"
+    },
+    {
+      "domain": "tab.volces.com"
+    },
+    {
+      "domain": "fp-it.fengkongcloud.com"
+    },
+    {
+      "domain": "nexus-websocket-a.intercom.io"
+    },
+    {
+      "domain": "guh50jw4-ios.mobile-messenger.intercom.com"
+    },
+    {
+      "domain": "fp-it-acc.portal101.cn"
+    },
+    {
+      "domain": "static.portal101.cn"
+    },
+    {
+      "domain_suffix": "deepseek.com"
+    }
+  ]
+}

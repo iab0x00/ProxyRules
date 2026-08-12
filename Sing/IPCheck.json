@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": "ip-scan.adspower.net"
+    },
+    {
+      "domain_suffix": "addr.tools"
+    },
+    {
+      "domain_suffix": "browserleaks.com"
+    },
+    {
+      "domain_suffix": "browserleaks.org"
+    },
+    {
+      "domain_suffix": "browserleaks.net"
+    },
+    {
+      "domain_suffix": "browserscan.net"
+    },
+    {
+      "domain_suffix": "dnscheck.tools"
+    },
+    {
+      "domain_suffix": "dnsleaktest.com"
+    },
+    {
+      "domain_suffix": "dnsleak.com"
+    },
+    {
+      "domain_suffix": "edns.ip-api.com"
+    },
+    {
+      "domain_suffix": "expressvpn.com"
+    },
+    {
+      "domain_suffix": "nordvpn.com"
+    },
+    {
+      "domain_suffix": "immersivetranslate.com"
+    },
+    {
+      "domain_suffix": "ipcheck.ing"
+    },
+    {
+      "domain_suffix": "iplark.com"
+    },
+    {
+      "domain_suffix": "ipleak.net"
+    },
+    {
+      "domain_suffix": "ipify.org"
+    },
+    {
+      "domain_suffix": "ipip.net"
+    },
+    {
+      "domain_suffix": "ippure.com"
+    },
+    {
+      "domain_suffix": "perfect-privacy.com"
+    },
+    {
+      "domain_suffix": "surfshark.com"
+    },
+    {
+      "domain_suffix": "surfsharkdns.com"
+    },
+    {
+      "domain_suffix": "vpnunlimited.com"
+    },
+    {
+      "domain_suffix": "whoer.net"
+    },
+    {
+      "domain_suffix": "whrq.net"
+    }
+  ]
+}

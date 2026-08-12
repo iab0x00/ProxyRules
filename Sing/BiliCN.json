@@ -1,0 +1,38 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": "api.biliapi.com"
+    },
+    {
+      "domain": "api.biliapi.net"
+    },
+    {
+      "domain": "api.bilibili.com"
+    },
+    {
+      "domain": "app.biliapi.com"
+    },
+    {
+      "domain": "app.biliapi.net"
+    },
+    {
+      "domain": "app.bilibili.com"
+    },
+    {
+      "domain": "grpc.biliapi.net"
+    },
+    {
+      "domain": "m.bilibili.com"
+    },
+    {
+      "domain": "upos-hz-mirrorakam.akamaized.net"
+    },
+    {
+      "domain": "www.bilibili.com"
+    },
+    {
+      "domain_keyword": "cn-hk-eq-bcache-"
+    }
+  ]
+}

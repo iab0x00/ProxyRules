@@ -1,0 +1,3881 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": "9cache.com"
+    },
+    {
+      "domain_suffix": "9gag.com"
+    },
+    {
+      "domain_suffix": "16k.club"
+    },
+    {
+      "domain_suffix": "abc.com"
+    },
+    {
+      "domain_suffix": "about.me"
+    },
+    {
+      "domain_suffix": "anchor.fm"
+    },
+    {
+      "domain_suffix": "annas-archive.org"
+    },
+    {
+      "domain_suffix": "apkmirror.com"
+    },
+    {
+      "domain_suffix": "apkpure.com"
+    },
+    {
+      "domain_suffix": "archive.md"
+    },
+    {
+      "domain_suffix": "archive.org"
+    },
+    {
+      "domain_suffix": "archiveofourown.org"
+    },
+    {
+      "domain_suffix": "artstation.com"
+    },
+    {
+      "domain_suffix": "ask.com"
+    },
+    {
+      "domain_suffix": "avg.com"
+    },
+    {
+      "domain_suffix": "axios.com"
+    },
+    {
+      "domain_suffix": "bandcamp.com"
+    },
+    {
+      "domain_suffix": "bandwagonhost.com"
+    },
+    {
+      "domain_suffix": "behance.net"
+    },
+    {
+      "domain_suffix": "bit.ly"
+    },
+    {
+      "domain_suffix": "bloglovin.com"
+    },
+    {
+      "domain_suffix": "blubrry.com"
+    },
+    {
+      "domain_suffix": "box.com"
+    },
+    {
+      "domain_suffix": "brave.com"
+    },
+    {
+      "domain_suffix": "bullguard.com"
+    },
+    {
+      "domain_suffix": "castbox.fm"
+    },
+    {
+      "domain_suffix": "change.org"
+    },
+    {
+      "domain_suffix": "civitai.com"
+    },
+    {
+      "domain_suffix": "cloudcone.com"
+    },
+    {
+      "domain_suffix": "clyp.it"
+    },
+    {
+      "domain_suffix": "cna.com.tw"
+    },
+    {
+      "domain_suffix": "comparitech.com"
+    },
+    {
+      "domain_suffix": "conoha.jp"
+    },
+    {
+      "domain_suffix": "coursehero.com"
+    },
+    {
+      "domain_suffix": "c-span.org"
+    },
+    {
+      "domain_suffix": "dailymotion.com"
+    },
+    {
+      "domain_suffix": "daum.net"
+    },
+    {
+      "domain_suffix": "deadline.com"
+    },
+    {
+      "domain_suffix": "depositphotos.com"
+    },
+    {
+      "domain_suffix": "deviantart.com"
+    },
+    {
+      "domain_suffix": "deviantart.net"
+    },
+    {
+      "domain_suffix": "devv.ai"
+    },
+    {
+      "domain_suffix": "disconnect.me"
+    },
+    {
+      "domain_suffix": "disqus.com"
+    },
+    {
+      "domain_suffix": "disquscdn.com"
+    },
+    {
+      "domain_suffix": "dlive.tv"
+    },
+    {
+      "domain_suffix": "docker.com"
+    },
+    {
+      "domain_suffix": "dowjones.com"
+    },
+    {
+      "domain_suffix": "duckduckgo.com"
+    },
+    {
+      "domain_suffix": "e-hentai.org"
+    },
+    {
+      "domain_suffix": "earthcam.com"
+    },
+    {
+      "domain_suffix": "edx-cdn.org"
+    },
+    {
+      "domain_suffix": "encyclopedia.com"
+    },
+    {
+      "domain_suffix": "evozi.com"
+    },
+    {
+      "domain_suffix": "f-droid.org"
+    },
+    {
+      "domain_suffix": "feeder.co"
+    },
+    {
+      "domain_suffix": "feedly.com"
+    },
+    {
+      "domain_suffix": "flickr.com"
+    },
+    {
+      "domain_suffix": "flipboard.com"
+    },
+    {
+      "domain_suffix": "flitto.com"
+    },
+    {
+      "domain_suffix": "foreignaffairs.com"
+    },
+    {
+      "domain_suffix": "foreignpolicy.com"
+    },
+    {
+      "domain_suffix": "generated.photos"
+    },
+    {
+      "domain_suffix": "genius.com"
+    },
+    {
+      "domain_suffix": "getsync.com"
+    },
+    {
+      "domain_suffix": "gfw.report"
+    },
+    {
+      "domain_suffix": "git.io"
+    },
+    {
+      "domain_suffix": "githack.com"
+    },
+    {
+      "domain_suffix": "gitlab.com"
+    },
+    {
+      "domain_suffix": "godaddy.com"
+    },
+    {
+      "domain_suffix": "goodreads.com"
+    },
+    {
+      "domain_suffix": "graphql.org"
+    },
+    {
+      "domain_suffix": "gumroad.com"
+    },
+    {
+      "domain_suffix": "hackmd.io"
+    },
+    {
+      "domain_suffix": "heroku.com"
+    },
+    {
+      "domain_suffix": "hiccears.com"
+    },
+    {
+      "domain_suffix": "hket.com"
+    },
+    {
+      "domain_suffix": "huffpost.com"
+    },
+    {
+      "domain_suffix": "huggingface.co"
+    },
+    {
+      "domain_suffix": "i-cable.com"
+    },
+    {
+      "domain_suffix": "imageglass.org"
+    },
+    {
+      "domain_suffix": "imgur.com"
+    },
+    {
+      "domain_suffix": "independent.co.uk"
+    },
+    {
+      "domain_suffix": "inoreader.com"
+    },
+    {
+      "domain_suffix": "is.gd"
+    },
+    {
+      "domain_suffix": "issuu.com"
+    },
+    {
+      "domain_suffix": "istockphoto.com"
+    },
+    {
+      "domain_suffix": "joinmastodon.org"
+    },
+    {
+      "domain_suffix": "justpaste.it"
+    },
+    {
+      "domain_suffix": "jwplayer.com"
+    },
+    {
+      "domain_suffix": "kakao.com"
+    },
+    {
+      "domain_suffix": "kobo.com"
+    },
+    {
+      "domain_suffix": "kobobooks.com"
+    },
+    {
+      "domain_suffix": "linux.do"
+    },
+    {
+      "domain_suffix": "listennotes.com"
+    },
+    {
+      "domain_suffix": "livestream.com"
+    },
+    {
+      "domain_suffix": "macrumors.com"
+    },
+    {
+      "domain_suffix": "mailchimp.com"
+    },
+    {
+      "domain_suffix": "matrix.org"
+    },
+    {
+      "domain_suffix": "medibang.com"
+    },
+    {
+      "domain_suffix": "medium.com"
+    },
+    {
+      "domain_suffix": "mega.co.nz"
+    },
+    {
+      "domain_suffix": "mega.io"
+    },
+    {
+      "domain_suffix": "mega.nz"
+    },
+    {
+      "domain_suffix": "mixlr.com"
+    },
+    {
+      "domain_suffix": "mod.io"
+    },
+    {
+      "domain_suffix": "monica.im"
+    },
+    {
+      "domain_suffix": "moon.fm"
+    },
+    {
+      "domain_suffix": "mubi.com"
+    },
+    {
+      "domain_suffix": "myspace.com"
+    },
+    {
+      "domain_suffix": "myspacecdn.com"
+    },
+    {
+      "domain_suffix": "nbcnews.com"
+    },
+    {
+      "domain_suffix": "neowin.net"
+    },
+    {
+      "domain_suffix": "netsarang.com"
+    },
+    {
+      "domain_suffix": "newstatesman.com"
+    },
+    {
+      "domain_suffix": "newsweek.com"
+    },
+    {
+      "domain_suffix": "newyorker.com"
+    },
+    {
+      "domain_suffix": "nodeseek.com"
+    },
+    {
+      "domain_suffix": "now.com"
+    },
+    {
+      "domain_suffix": "ok.ru"
+    },
+    {
+      "domain_suffix": "omny.fm"
+    },
+    {
+      "domain_suffix": "openvpn.net"
+    },
+    {
+      "domain_suffix": "owltail.com"
+    },
+    {
+      "domain_suffix": "oxfordscholarship.com"
+    },
+    {
+      "domain_suffix": "parsevideo.com"
+    },
+    {
+      "domain_suffix": "paste.ee"
+    },
+    {
+      "domain_suffix": "pastie.org"
+    },
+    {
+      "domain_suffix": "patreon.com"
+    },
+    {
+      "domain_suffix": "pcloud.com"
+    },
+    {
+      "domain_suffix": "peing.net"
+    },
+    {
+      "domain_suffix": "perplexity.ai"
+    },
+    {
+      "domain_suffix": "player.fm"
+    },
+    {
+      "domain_suffix": "podbean.com"
+    },
+    {
+      "domain_suffix": "poe.com"
+    },
+    {
+      "domain_suffix": "prism-break.org"
+    },
+    {
+      "domain_suffix": "privoxy.org"
+    },
+    {
+      "domain_suffix": "proton.me"
+    },
+    {
+      "domain_suffix": "proxifier.com"
+    },
+    {
+      "domain_suffix": "qbittorrent.org"
+    },
+    {
+      "domain_suffix": "quora.com"
+    },
+    {
+      "domain_suffix": "quoracdn.net"
+    },
+    {
+      "domain_suffix": "qz.com"
+    },
+    {
+      "domain_suffix": "radioline.co"
+    },
+    {
+      "domain_suffix": "reabble.com"
+    },
+    {
+      "domain_suffix": "redditlist.com"
+    },
+    {
+      "domain_suffix": "resilio.com"
+    },
+    {
+      "domain_suffix": "rsshub.app"
+    },
+    {
+      "domain_suffix": "rthk.hk"
+    },
+    {
+      "domain_suffix": "rustdesk.com"
+    },
+    {
+      "domain_suffix": "scmp.com"
+    },
+    {
+      "domain_suffix": "scribd.com"
+    },
+    {
+      "domain_suffix": "search.com"
+    },
+    {
+      "domain_suffix": "shutterstock.com"
+    },
+    {
+      "domain_suffix": "signal.org"
+    },
+    {
+      "domain_suffix": "singlelogin.me"
+    },
+    {
+      "domain_suffix": "sketchappsources.com"
+    },
+    {
+      "domain_suffix": "slideshare.net"
+    },
+    {
+      "domain_suffix": "sm.ms"
+    },
+    {
+      "domain_suffix": "smartmailcloud.com"
+    },
+    {
+      "domain_suffix": "smh.com.au"
+    },
+    {
+      "domain_suffix": "speakerdeck.com"
+    },
+    {
+      "domain_suffix": "spideroak.com"
+    },
+    {
+      "domain_suffix": "spiegel.de"
+    },
+    {
+      "domain_suffix": "startpage.com"
+    },
+    {
+      "domain_suffix": "steemit.com"
+    },
+    {
+      "domain_suffix": "straitstimes.com"
+    },
+    {
+      "domain_suffix": "streamable.com"
+    },
+    {
+      "domain_suffix": "substack.com"
+    },
+    {
+      "domain_suffix": "swissinfo.ch"
+    },
+    {
+      "domain_suffix": "tapatalk.com"
+    },
+    {
+      "domain_suffix": "techspot.com"
+    },
+    {
+      "domain_suffix": "textnow.com"
+    },
+    {
+      "domain_suffix": "textnow.me"
+    },
+    {
+      "domain_suffix": "theage.com.au"
+    },
+    {
+      "domain_suffix": "theatlantic.com"
+    },
+    {
+      "domain_suffix": "theaustralian.com.au"
+    },
+    {
+      "domain_suffix": "theconversation.com"
+    },
+    {
+      "domain_suffix": "thediplomat.com"
+    },
+    {
+      "domain_suffix": "theguardian.com"
+    },
+    {
+      "domain_suffix": "theinitium.com"
+    },
+    {
+      "domain_suffix": "themoviedb.org"
+    },
+    {
+      "domain_suffix": "thetvdb.com"
+    },
+    {
+      "domain_suffix": "time.com"
+    },
+    {
+      "domain_suffix": "tineye.com"
+    },
+    {
+      "domain_suffix": "tiny.cc"
+    },
+    {
+      "domain_suffix": "torproject.org"
+    },
+    {
+      "domain_suffix": "tradingview.com"
+    },
+    {
+      "domain_suffix": "turbobit.net"
+    },
+    {
+      "domain_suffix": "tutanota.com"
+    },
+    {
+      "domain_suffix": "typeset.io"
+    },
+    {
+      "domain_suffix": "uhdnow.com"
+    },
+    {
+      "domain_suffix": "urbandictionary.com"
+    },
+    {
+      "domain_suffix": "ustream.tv"
+    },
+    {
+      "domain_suffix": "v2ex.com"
+    },
+    {
+      "domain_suffix": "venturebeat.com"
+    },
+    {
+      "domain_suffix": "vercel.app"
+    },
+    {
+      "domain_suffix": "viber.com"
+    },
+    {
+      "domain_suffix": "vimeo.com"
+    },
+    {
+      "domain_suffix": "vivaldi.com"
+    },
+    {
+      "domain_suffix": "voxer.com"
+    },
+    {
+      "domain_suffix": "vzw.com"
+    },
+    {
+      "domain_suffix": "washingtonpost.com"
+    },
+    {
+      "domain_suffix": "wattpad.com"
+    },
+    {
+      "domain_suffix": "welt.de"
+    },
+    {
+      "domain_suffix": "whoer.net"
+    },
+    {
+      "domain_suffix": "wikimapia.org"
+    },
+    {
+      "domain_suffix": "wikiwand.com"
+    },
+    {
+      "domain_suffix": "wire.com"
+    },
+    {
+      "domain_suffix": "wireguard.com"
+    },
+    {
+      "domain_suffix": "wn.com"
+    },
+    {
+      "domain_suffix": "worldcat.org"
+    },
+    {
+      "domain_suffix": "writesonic.com"
+    },
+    {
+      "domain_suffix": "wsj.com"
+    },
+    {
+      "domain_suffix": "wsj.net"
+    },
+    {
+      "domain_suffix": "x.co"
+    },
+    {
+      "domain_suffix": "you.com"
+    },
+    {
+      "domain_suffix": "you-get.org"
+    },
+    {
+      "domain_suffix": "zaobao.com"
+    },
+    {
+      "domain_suffix": "zello.com"
+    },
+    {
+      "domain_suffix": "zeronet.io"
+    },
+    {
+      "domain_suffix": "z-lib.org"
+    },
+    {
+      "domain_suffix": "zophar.net"
+    },
+    {
+      "domain_suffix": "zyxel.com"
+    },
+    {
+      "domain": "cdn.jsdelivr.net"
+    },
+    {
+      "domain": "cdn.statically.io"
+    },
+    {
+      "domain": "lab.skk.moe"
+    },
+    {
+      "domain": "ocsp.int-x3.letsencrypt.org"
+    },
+    {
+      "domain": "search.arc.net"
+    },
+    {
+      "domain": "a248.e.akamai.net"
+    },
+    {
+      "domain": "a771.dscq.akamai.net"
+    },
+    {
+      "domain_suffix": "amazon.co.jp"
+    },
+    {
+      "domain": "d3c33hcgiwev3.cloudfront.net"
+    },
+    {
+      "domain": "payments-jp.amazon.com"
+    },
+    {
+      "domain": "s3-ap-northeast-1.amazonaws.com"
+    },
+    {
+      "domain": "s3-ap-southeast-2.amazonaws.com"
+    },
+    {
+      "domain_suffix": "apigee.com"
+    },
+    {
+      "domain_suffix": "appspot.com"
+    },
+    {
+      "domain_suffix": "blogger.com"
+    },
+    {
+      "domain_suffix": "tenor.com"
+    },
+    {
+      "domain_suffix": "xn--ngstr-lra8j.com"
+    },
+    {
+      "domain_keyword": ".blogspot."
+    },
+    {
+      "domain": "testflight.apple.com"
+    },
+    {
+      "domain_suffix": "gravatar.com"
+    },
+    {
+      "domain_suffix": "tumblr.co"
+    },
+    {
+      "domain_suffix": "tumblr.com"
+    },
+    {
+      "domain_suffix": "videopress.com"
+    },
+    {
+      "domain_suffix": "wordpress.com"
+    },
+    {
+      "domain_keyword": "uk-live"
+    },
+    {
+      "domain_suffix": "bbc.co"
+    },
+    {
+      "domain_suffix": "bbc.com"
+    },
+    {
+      "domain_suffix": "bloomberg.cn"
+    },
+    {
+      "domain_suffix": "bloomberg.com"
+    },
+    {
+      "domain_suffix": "bloomberg.de"
+    },
+    {
+      "domain_suffix": "bloombergview.com"
+    },
+    {
+      "domain_suffix": "pages.dev"
+    },
+    {
+      "domain_suffix": "workers.dev"
+    },
+    {
+      "domain_suffix": "clubhouseapi.com"
+    },
+    {
+      "domain_suffix": "joinclubhouse.com"
+    },
+    {
+      "domain": "clubhouse.pubnubapi.com"
+    },
+    {
+      "domain_suffix": "aicoin.com"
+    },
+    {
+      "domain_suffix": "backpack.exchange"
+    },
+    {
+      "domain_suffix": "bitcointalk.org"
+    },
+    {
+      "domain_suffix": "bitfinex.com"
+    },
+    {
+      "domain_suffix": "bitflyer.com"
+    },
+    {
+      "domain_suffix": "bithumb.com"
+    },
+    {
+      "domain_suffix": "bitstamp.net"
+    },
+    {
+      "domain_suffix": "coinbase.com"
+    },
+    {
+      "domain_suffix": "coingecko.com"
+    },
+    {
+      "domain_suffix": "coinmarketcap.com"
+    },
+    {
+      "domain_suffix": "crypto.com"
+    },
+    {
+      "domain_suffix": "dydx.exchange"
+    },
+    {
+      "domain_suffix": "etherscan.io"
+    },
+    {
+      "domain_suffix": "gate.io"
+    },
+    {
+      "domain_suffix": "gemini.com"
+    },
+    {
+      "domain_suffix": "kraken.com"
+    },
+    {
+      "domain_suffix": "kucoin.com"
+    },
+    {
+      "domain_suffix": "mexc.com"
+    },
+    {
+      "domain_suffix": "probit.com"
+    },
+    {
+      "domain_suffix": "uniswap.org"
+    },
+    {
+      "domain_suffix": "upbit.com"
+    },
+    {
+      "domain_suffix": "binance.com"
+    },
+    {
+      "domain_suffix": "binance.info"
+    },
+    {
+      "domain_suffix": "bnbstatic.com"
+    },
+    {
+      "domain_suffix": "bntrace.com"
+    },
+    {
+      "domain_suffix": "yingwangtech.cloud"
+    },
+    {
+      "domain_suffix": "bitget.com"
+    },
+    {
+      "domain_suffix": "bitget.site"
+    },
+    {
+      "domain_suffix": "byabcd.com"
+    },
+    {
+      "domain_suffix": "byabcde.com"
+    },
+    {
+      "domain_suffix": "byapps.net"
+    },
+    {
+      "domain_suffix": "bybdc6.com"
+    },
+    {
+      "domain_suffix": "bybit.biz"
+    },
+    {
+      "domain_suffix": "bybit.cloud"
+    },
+    {
+      "domain_suffix": "bybit.com"
+    },
+    {
+      "domain_suffix": "bybitglobal.com"
+    },
+    {
+      "domain_suffix": "bybit-global.com"
+    },
+    {
+      "domain_suffix": "bycsi.com"
+    },
+    {
+      "domain_suffix": "byd3c3.com"
+    },
+    {
+      "domain_suffix": "ffbbbdc6d3c353211fe2ba39c9f744cd.com"
+    },
+    {
+      "domain_suffix": "ffe390afd658c19dcbf707e0597b846d.de"
+    },
+    {
+      "domain_suffix": "okx.com"
+    },
+    {
+      "domain_suffix": "okx.com.cdn.cloudflare.net"
+    },
+    {
+      "domain_suffix": "discord.co"
+    },
+    {
+      "domain_suffix": "discord.com"
+    },
+    {
+      "domain_suffix": "discord.gg"
+    },
+    {
+      "domain_suffix": "discord.media"
+    },
+    {
+      "domain_suffix": "discordapp.com"
+    },
+    {
+      "domain_suffix": "discordapp.net"
+    },
+    {
+      "domain": "d1q6f0aelx0por.cloudfront.net"
+    },
+    {
+      "domain": "d2wy8f7a9ursnm.cloudfront.net"
+    },
+    {
+      "domain": "d36jcksde1wxzq.cloudfront.net"
+    },
+    {
+      "domain_suffix": "compose-spec.io"
+    },
+    {
+      "domain_suffix": "docker.com"
+    },
+    {
+      "domain_suffix": "docker.io"
+    },
+    {
+      "domain_suffix": "dockerhub.com"
+    },
+    {
+      "domain_suffix": "dropbox.com"
+    },
+    {
+      "domain_suffix": "dropboxapi.com"
+    },
+    {
+      "domain_suffix": "dropboxstatic.com"
+    },
+    {
+      "domain_suffix": "dropboxusercontent.com"
+    },
+    {
+      "domain_suffix": "freetls.fastly.net"
+    },
+    {
+      "domain_suffix": "global.ssl.fastly.net"
+    },
+    {
+      "domain_suffix": "ft.com"
+    },
+    {
+      "domain_suffix": "ftchinese.com"
+    },
+    {
+      "domain_suffix": "ftimg.net"
+    },
+    {
+      "domain": "d1e00ek4ebabms.cloudfront.net"
+    },
+    {
+      "domain": "d19eijqb5qll1w.cloudfront.net"
+    },
+    {
+      "domain_suffix": "cdninstagram.com"
+    },
+    {
+      "domain_suffix": "instagram.com"
+    },
+    {
+      "domain_suffix": "instagr.am"
+    },
+    {
+      "domain_suffix": "accountkit.com"
+    },
+    {
+      "domain_suffix": "cdninstagram.com"
+    },
+    {
+      "domain_suffix": "f8.com"
+    },
+    {
+      "domain_suffix": "facebookmail.com"
+    },
+    {
+      "domain_suffix": "fb.com"
+    },
+    {
+      "domain_suffix": "fb.me"
+    },
+    {
+      "domain_suffix": "fb.watch"
+    },
+    {
+      "domain_suffix": "fbaddins.com"
+    },
+    {
+      "domain_suffix": "fbcdn.net"
+    },
+    {
+      "domain_suffix": "fbsbx.com"
+    },
+    {
+      "domain_suffix": "fbworkmail.com"
+    },
+    {
+      "domain_suffix": "instagram.com"
+    },
+    {
+      "domain_suffix": "m.me"
+    },
+    {
+      "domain_suffix": "messenger.com"
+    },
+    {
+      "domain_suffix": "meta.ai"
+    },
+    {
+      "domain_suffix": "meta.com"
+    },
+    {
+      "domain_suffix": "oculus.com"
+    },
+    {
+      "domain_suffix": "oculuscdn.com"
+    },
+    {
+      "domain_suffix": "readyatdawn.com"
+    },
+    {
+      "domain_suffix": "rocksdb.org"
+    },
+    {
+      "domain_suffix": "threads.net"
+    },
+    {
+      "domain_suffix": "whatsapp.com"
+    },
+    {
+      "domain_suffix": "whatsapp.net"
+    },
+    {
+      "domain_keyword": ".facebook."
+    },
+    {
+      "domain_suffix": "aka.ms"
+    },
+    {
+      "domain_suffix": "github.blog"
+    },
+    {
+      "domain_suffix": "github.com"
+    },
+    {
+      "domain_suffix": "github.io"
+    },
+    {
+      "domain_suffix": "githubapp.com"
+    },
+    {
+      "domain_suffix": "githubassets.com"
+    },
+    {
+      "domain_suffix": "githubusercontent.com"
+    },
+    {
+      "domain_suffix": "onedrive.live.com"
+    },
+    {
+      "domain_suffix": "streaming.mediaservices.windows.net"
+    },
+    {
+      "domain": "assets1.xboxlive.com"
+    },
+    {
+      "domain": "assets2.xboxlive.com"
+    },
+    {
+      "domain": "az416426.vo.msecnd.net"
+    },
+    {
+      "domain": "az668014.vo.msecnd.net"
+    },
+    {
+      "domain": "github.global.ssl.fastly.net"
+    },
+    {
+      "domain": "gateway.icloud.com"
+    },
+    {
+      "domain_suffix": "apple.news"
+    },
+    {
+      "domain": "news-assets.apple.com"
+    },
+    {
+      "domain": "news-client.apple.com"
+    },
+    {
+      "domain": "news-client-search.apple.com"
+    },
+    {
+      "domain": "news-edge.apple.com"
+    },
+    {
+      "domain": "news-events.apple.com"
+    },
+    {
+      "domain": "apple.comscoreresearch.com"
+    },
+    {
+      "domain_suffix": "pinimg.com"
+    },
+    {
+      "domain_keyword": ".pinterest."
+    },
+    {
+      "domain_suffix": "pixiv.net"
+    },
+    {
+      "domain_suffix": "pixiv.org"
+    },
+    {
+      "domain_suffix": "pximg.net"
+    },
+    {
+      "domain_suffix": "pixivsketch.net"
+    },
+    {
+      "domain_keyword": "porn"
+    },
+    {
+      "domain_suffix": "8teenxxx.com"
+    },
+    {
+      "domain_suffix": "ahcdn.com"
+    },
+    {
+      "domain_suffix": "bcvcdn.com"
+    },
+    {
+      "domain_suffix": "bongacams.com"
+    },
+    {
+      "domain_suffix": "chaturbate.com"
+    },
+    {
+      "domain_suffix": "dditscdn.com"
+    },
+    {
+      "domain_suffix": "jable.tv"
+    },
+    {
+      "domain_suffix": "livejasmin.com"
+    },
+    {
+      "domain_suffix": "phncdn.com"
+    },
+    {
+      "domain_suffix": "phprcdn.com"
+    },
+    {
+      "domain_suffix": "pornhub.com"
+    },
+    {
+      "domain_suffix": "pornhubpremium.com"
+    },
+    {
+      "domain_suffix": "rdtcdn.com"
+    },
+    {
+      "domain_suffix": "redtube.com"
+    },
+    {
+      "domain_suffix": "sb-cd.com"
+    },
+    {
+      "domain_suffix": "spankbang.com"
+    },
+    {
+      "domain_suffix": "t66y.com"
+    },
+    {
+      "domain_suffix": "xhamster.com"
+    },
+    {
+      "domain_suffix": "xnxx-cdn.com"
+    },
+    {
+      "domain_suffix": "xnxx.com"
+    },
+    {
+      "domain_suffix": "xvideos-cdn.com"
+    },
+    {
+      "domain_suffix": "xvideos.com"
+    },
+    {
+      "domain_suffix": "ypncdn.com"
+    },
+    {
+      "domain_regex": "^missav\\..*$"
+    },
+    {
+      "domain_suffix": "redd.it"
+    },
+    {
+      "domain_suffix": "reddit.com"
+    },
+    {
+      "domain_suffix": "redditmedia.com"
+    },
+    {
+      "domain_suffix": "redditstatic.com"
+    },
+    {
+      "domain": "api.revenuecat.com"
+    },
+    {
+      "domain_suffix": "steamcommunity.com"
+    },
+    {
+      "domain_suffix": "tap.io"
+    },
+    {
+      "domain_suffix": "taptap.tw"
+    },
+    {
+      "domain_suffix": "economist.com"
+    },
+    {
+      "domain_suffix": "static-economist.com"
+    },
+    {
+      "domain_suffix": "newyorktimes.com"
+    },
+    {
+      "domain_suffix": "nyt.com"
+    },
+    {
+      "domain_suffix": "nytco.com"
+    },
+    {
+      "domain_suffix": "nytimes.com"
+    },
+    {
+      "domain_suffix": "nytimg.com"
+    },
+    {
+      "domain_suffix": "nytlog.com"
+    },
+    {
+      "domain_suffix": "nytstyle.com"
+    },
+    {
+      "domain_suffix": "tmagazine.com"
+    },
+    {
+      "domain": "nytimes.map.fastly.net"
+    },
+    {
+      "domain_suffix": "twitch.tv"
+    },
+    {
+      "domain_suffix": "ttvnw.net"
+    },
+    {
+      "domain_suffix": "jtvnw.net"
+    },
+    {
+      "domain_keyword": "ttvnw"
+    },
+    {
+      "domain_suffix": "grok.com"
+    },
+    {
+      "domain_suffix": "periscope.tv"
+    },
+    {
+      "domain_suffix": "pscp.tv"
+    },
+    {
+      "domain_suffix": "t.co"
+    },
+    {
+      "domain_suffix": "tweetdeck.com"
+    },
+    {
+      "domain_suffix": "twimg.co"
+    },
+    {
+      "domain_suffix": "twimg.com"
+    },
+    {
+      "domain_suffix": "twimg.org"
+    },
+    {
+      "domain_suffix": "twitpic.com"
+    },
+    {
+      "domain_suffix": "twitter.com"
+    },
+    {
+      "domain_suffix": "twitter.jp"
+    },
+    {
+      "domain_suffix": "vine.co"
+    },
+    {
+      "domain_suffix": "x.ai"
+    },
+    {
+      "domain_suffix": "x.com"
+    },
+    {
+      "domain_suffix": "mediawiki.org"
+    },
+    {
+      "domain_suffix": "wikibooks.org"
+    },
+    {
+      "domain_suffix": "wikidata.org"
+    },
+    {
+      "domain_suffix": "wikileaks.org"
+    },
+    {
+      "domain_suffix": "wikimedia.org"
+    },
+    {
+      "domain_suffix": "wikimediafoundation.org"
+    },
+    {
+      "domain_suffix": "wikinews.org"
+    },
+    {
+      "domain_suffix": "wikipedia.org"
+    },
+    {
+      "domain_suffix": "wikiquote.org"
+    },
+    {
+      "domain_suffix": "wikisource.org"
+    },
+    {
+      "domain_suffix": "wikiversity.org"
+    },
+    {
+      "domain_suffix": "wikivoyage.org"
+    },
+    {
+      "domain_suffix": "wiktionary.org"
+    },
+    {
+      "domain_suffix": "yahoo.com"
+    },
+    {
+      "domain_suffix": "yimg.com"
+    },
+    {
+      "domain": "search.yahoo.co.jp"
+    },
+    {
+      "domain_suffix": "yadi.sk"
+    },
+    {
+      "domain_suffix": "yandex.ru"
+    },
+    {
+      "domain": "disk.yandex.com"
+    },
+    {
+      "domain_suffix": "articles.sk"
+    },
+    {
+      "domain_suffix": "go-to-library.sk"
+    },
+    {
+      "domain_suffix": "library-access.sk"
+    },
+    {
+      "domain_suffix": "singlelogin.rs"
+    },
+    {
+      "domain_suffix": "z-library.sk"
+    },
+    {
+      "domain_suffix": "gov"
+    },
+    {
+      "domain_suffix": "mil"
+    },
+    {
+      "domain_suffix": "edu"
+    },
+    {
+      "domain_suffix": "ac"
+    },
+    {
+      "domain_suffix": "ad"
+    },
+    {
+      "domain_suffix": "ae"
+    },
+    {
+      "domain_suffix": "af"
+    },
+    {
+      "domain_suffix": "ag"
+    },
+    {
+      "domain_suffix": "ai"
+    },
+    {
+      "domain_suffix": "al"
+    },
+    {
+      "domain_suffix": "am"
+    },
+    {
+      "domain_suffix": "ao"
+    },
+    {
+      "domain_suffix": "aq"
+    },
+    {
+      "domain_suffix": "ar"
+    },
+    {
+      "domain_suffix": "as"
+    },
+    {
+      "domain_suffix": "at"
+    },
+    {
+      "domain_suffix": "au"
+    },
+    {
+      "domain_suffix": "aw"
+    },
+    {
+      "domain_suffix": "ax"
+    },
+    {
+      "domain_suffix": "az"
+    },
+    {
+      "domain_suffix": "ba"
+    },
+    {
+      "domain_suffix": "bb"
+    },
+    {
+      "domain_suffix": "bd"
+    },
+    {
+      "domain_suffix": "be"
+    },
+    {
+      "domain_suffix": "bf"
+    },
+    {
+      "domain_suffix": "bg"
+    },
+    {
+      "domain_suffix": "bh"
+    },
+    {
+      "domain_suffix": "bi"
+    },
+    {
+      "domain_suffix": "bj"
+    },
+    {
+      "domain_suffix": "bm"
+    },
+    {
+      "domain_suffix": "bn"
+    },
+    {
+      "domain_suffix": "bo"
+    },
+    {
+      "domain_suffix": "br"
+    },
+    {
+      "domain_suffix": "bs"
+    },
+    {
+      "domain_suffix": "bt"
+    },
+    {
+      "domain_suffix": "bv"
+    },
+    {
+      "domain_suffix": "bw"
+    },
+    {
+      "domain_suffix": "by"
+    },
+    {
+      "domain_suffix": "bz"
+    },
+    {
+      "domain_suffix": "ca"
+    },
+    {
+      "domain_suffix": "cd"
+    },
+    {
+      "domain_suffix": "cf"
+    },
+    {
+      "domain_suffix": "cg"
+    },
+    {
+      "domain_suffix": "ch"
+    },
+    {
+      "domain_suffix": "ci"
+    },
+    {
+      "domain_suffix": "ck"
+    },
+    {
+      "domain_suffix": "cl"
+    },
+    {
+      "domain_suffix": "cm"
+    },
+    {
+      "domain_suffix": "cr"
+    },
+    {
+      "domain_suffix": "cu"
+    },
+    {
+      "domain_suffix": "cv"
+    },
+    {
+      "domain_suffix": "cw"
+    },
+    {
+      "domain_suffix": "cx"
+    },
+    {
+      "domain_suffix": "cy"
+    },
+    {
+      "domain_suffix": "cz"
+    },
+    {
+      "domain_suffix": "de"
+    },
+    {
+      "domain_suffix": "dj"
+    },
+    {
+      "domain_suffix": "dk"
+    },
+    {
+      "domain_suffix": "dm"
+    },
+    {
+      "domain_suffix": "do"
+    },
+    {
+      "domain_suffix": "dz"
+    },
+    {
+      "domain_suffix": "ec"
+    },
+    {
+      "domain_suffix": "ee"
+    },
+    {
+      "domain_suffix": "eg"
+    },
+    {
+      "domain_suffix": "er"
+    },
+    {
+      "domain_suffix": "es"
+    },
+    {
+      "domain_suffix": "et"
+    },
+    {
+      "domain_suffix": "eu"
+    },
+    {
+      "domain_suffix": "fi"
+    },
+    {
+      "domain_suffix": "fj"
+    },
+    {
+      "domain_suffix": "fk"
+    },
+    {
+      "domain_suffix": "fm"
+    },
+    {
+      "domain_suffix": "fo"
+    },
+    {
+      "domain_suffix": "fr"
+    },
+    {
+      "domain_suffix": "ga"
+    },
+    {
+      "domain_suffix": "gb"
+    },
+    {
+      "domain_suffix": "gd"
+    },
+    {
+      "domain_suffix": "ge"
+    },
+    {
+      "domain_suffix": "gf"
+    },
+    {
+      "domain_suffix": "gg"
+    },
+    {
+      "domain_suffix": "gh"
+    },
+    {
+      "domain_suffix": "gi"
+    },
+    {
+      "domain_suffix": "gl"
+    },
+    {
+      "domain_suffix": "gm"
+    },
+    {
+      "domain_suffix": "gn"
+    },
+    {
+      "domain_suffix": "gp"
+    },
+    {
+      "domain_suffix": "gr"
+    },
+    {
+      "domain_suffix": "gs"
+    },
+    {
+      "domain_suffix": "gt"
+    },
+    {
+      "domain_suffix": "gu"
+    },
+    {
+      "domain_suffix": "gw"
+    },
+    {
+      "domain_suffix": "gy"
+    },
+    {
+      "domain_suffix": "hm"
+    },
+    {
+      "domain_suffix": "hn"
+    },
+    {
+      "domain_suffix": "hr"
+    },
+    {
+      "domain_suffix": "ht"
+    },
+    {
+      "domain_suffix": "hu"
+    },
+    {
+      "domain_suffix": "id"
+    },
+    {
+      "domain_suffix": "ie"
+    },
+    {
+      "domain_suffix": "il"
+    },
+    {
+      "domain_suffix": "im"
+    },
+    {
+      "domain_suffix": "in"
+    },
+    {
+      "domain_suffix": "io"
+    },
+    {
+      "domain_suffix": "iq"
+    },
+    {
+      "domain_suffix": "ir"
+    },
+    {
+      "domain_suffix": "is"
+    },
+    {
+      "domain_suffix": "it"
+    },
+    {
+      "domain_suffix": "je"
+    },
+    {
+      "domain_suffix": "jm"
+    },
+    {
+      "domain_suffix": "jo"
+    },
+    {
+      "domain_suffix": "jp"
+    },
+    {
+      "domain_suffix": "ke"
+    },
+    {
+      "domain_suffix": "kg"
+    },
+    {
+      "domain_suffix": "kh"
+    },
+    {
+      "domain_suffix": "ki"
+    },
+    {
+      "domain_suffix": "km"
+    },
+    {
+      "domain_suffix": "kn"
+    },
+    {
+      "domain_suffix": "kp"
+    },
+    {
+      "domain_suffix": "kr"
+    },
+    {
+      "domain_suffix": "kw"
+    },
+    {
+      "domain_suffix": "ky"
+    },
+    {
+      "domain_suffix": "kz"
+    },
+    {
+      "domain_suffix": "la"
+    },
+    {
+      "domain_suffix": "lb"
+    },
+    {
+      "domain_suffix": "lc"
+    },
+    {
+      "domain_suffix": "li"
+    },
+    {
+      "domain_suffix": "lk"
+    },
+    {
+      "domain_suffix": "lr"
+    },
+    {
+      "domain_suffix": "ls"
+    },
+    {
+      "domain_suffix": "lt"
+    },
+    {
+      "domain_suffix": "lu"
+    },
+    {
+      "domain_suffix": "lv"
+    },
+    {
+      "domain_suffix": "ly"
+    },
+    {
+      "domain_suffix": "ma"
+    },
+    {
+      "domain_suffix": "mc"
+    },
+    {
+      "domain_suffix": "md"
+    },
+    {
+      "domain_suffix": "mg"
+    },
+    {
+      "domain_suffix": "mh"
+    },
+    {
+      "domain_suffix": "mk"
+    },
+    {
+      "domain_suffix": "ml"
+    },
+    {
+      "domain_suffix": "mm"
+    },
+    {
+      "domain_suffix": "mn"
+    },
+    {
+      "domain_suffix": "mo"
+    },
+    {
+      "domain_suffix": "mp"
+    },
+    {
+      "domain_suffix": "mq"
+    },
+    {
+      "domain_suffix": "mr"
+    },
+    {
+      "domain_suffix": "ms"
+    },
+    {
+      "domain_suffix": "mt"
+    },
+    {
+      "domain_suffix": "mu"
+    },
+    {
+      "domain_suffix": "mv"
+    },
+    {
+      "domain_suffix": "mw"
+    },
+    {
+      "domain_suffix": "mx"
+    },
+    {
+      "domain_suffix": "my"
+    },
+    {
+      "domain_suffix": "mz"
+    },
+    {
+      "domain_suffix": "na"
+    },
+    {
+      "domain_suffix": "nc"
+    },
+    {
+      "domain_suffix": "ne"
+    },
+    {
+      "domain_suffix": "nf"
+    },
+    {
+      "domain_suffix": "ng"
+    },
+    {
+      "domain_suffix": "ni"
+    },
+    {
+      "domain_suffix": "nl"
+    },
+    {
+      "domain_suffix": "no"
+    },
+    {
+      "domain_suffix": "np"
+    },
+    {
+      "domain_suffix": "nr"
+    },
+    {
+      "domain_suffix": "nu"
+    },
+    {
+      "domain_suffix": "nz"
+    },
+    {
+      "domain_suffix": "om"
+    },
+    {
+      "domain_suffix": "pa"
+    },
+    {
+      "domain_suffix": "pe"
+    },
+    {
+      "domain_suffix": "pf"
+    },
+    {
+      "domain_suffix": "pg"
+    },
+    {
+      "domain_suffix": "ph"
+    },
+    {
+      "domain_suffix": "pk"
+    },
+    {
+      "domain_suffix": "pl"
+    },
+    {
+      "domain_suffix": "pm"
+    },
+    {
+      "domain_suffix": "pn"
+    },
+    {
+      "domain_suffix": "pr"
+    },
+    {
+      "domain_suffix": "ps"
+    },
+    {
+      "domain_suffix": "pt"
+    },
+    {
+      "domain_suffix": "py"
+    },
+    {
+      "domain_suffix": "qa"
+    },
+    {
+      "domain_suffix": "re"
+    },
+    {
+      "domain_suffix": "ro"
+    },
+    {
+      "domain_suffix": "rs"
+    },
+    {
+      "domain_suffix": "ru"
+    },
+    {
+      "domain_suffix": "rw"
+    },
+    {
+      "domain_suffix": "sa"
+    },
+    {
+      "domain_suffix": "sb"
+    },
+    {
+      "domain_suffix": "sc"
+    },
+    {
+      "domain_suffix": "sd"
+    },
+    {
+      "domain_suffix": "se"
+    },
+    {
+      "domain_suffix": "sg"
+    },
+    {
+      "domain_suffix": "sh"
+    },
+    {
+      "domain_suffix": "si"
+    },
+    {
+      "domain_suffix": "sj"
+    },
+    {
+      "domain_suffix": "sk"
+    },
+    {
+      "domain_suffix": "sl"
+    },
+    {
+      "domain_suffix": "sm"
+    },
+    {
+      "domain_suffix": "sn"
+    },
+    {
+      "domain_suffix": "so"
+    },
+    {
+      "domain_suffix": "sr"
+    },
+    {
+      "domain_suffix": "ss"
+    },
+    {
+      "domain_suffix": "st"
+    },
+    {
+      "domain_suffix": "su"
+    },
+    {
+      "domain_suffix": "sv"
+    },
+    {
+      "domain_suffix": "sx"
+    },
+    {
+      "domain_suffix": "sy"
+    },
+    {
+      "domain_suffix": "sz"
+    },
+    {
+      "domain_suffix": "tc"
+    },
+    {
+      "domain_suffix": "td"
+    },
+    {
+      "domain_suffix": "tf"
+    },
+    {
+      "domain_suffix": "tg"
+    },
+    {
+      "domain_suffix": "th"
+    },
+    {
+      "domain_suffix": "tj"
+    },
+    {
+      "domain_suffix": "tk"
+    },
+    {
+      "domain_suffix": "tl"
+    },
+    {
+      "domain_suffix": "tm"
+    },
+    {
+      "domain_suffix": "tn"
+    },
+    {
+      "domain_suffix": "to"
+    },
+    {
+      "domain_suffix": "tr"
+    },
+    {
+      "domain_suffix": "tt"
+    },
+    {
+      "domain_suffix": "tw"
+    },
+    {
+      "domain_suffix": "tz"
+    },
+    {
+      "domain_suffix": "ua"
+    },
+    {
+      "domain_suffix": "ug"
+    },
+    {
+      "domain_suffix": "uk"
+    },
+    {
+      "domain_suffix": "us"
+    },
+    {
+      "domain_suffix": "uy"
+    },
+    {
+      "domain_suffix": "uz"
+    },
+    {
+      "domain_suffix": "va"
+    },
+    {
+      "domain_suffix": "vc"
+    },
+    {
+      "domain_suffix": "ve"
+    },
+    {
+      "domain_suffix": "vg"
+    },
+    {
+      "domain_suffix": "vi"
+    },
+    {
+      "domain_suffix": "vn"
+    },
+    {
+      "domain_suffix": "vu"
+    },
+    {
+      "domain_suffix": "wf"
+    },
+    {
+      "domain_suffix": "ws"
+    },
+    {
+      "domain_suffix": "ye"
+    },
+    {
+      "domain_suffix": "yt"
+    },
+    {
+      "domain_suffix": "za"
+    },
+    {
+      "domain_suffix": "zm"
+    },
+    {
+      "domain_suffix": "zw"
+    },
+    {
+      "domain_suffix": "afl"
+    },
+    {
+      "domain_suffix": "mlb"
+    },
+    {
+      "domain_suffix": "nba"
+    },
+    {
+      "domain_suffix": "nfl"
+    },
+    {
+      "domain_suffix": "nra"
+    },
+    {
+      "domain_suffix": "crs"
+    },
+    {
+      "domain_suffix": "dnp"
+    },
+    {
+      "domain_suffix": "dvag"
+    },
+    {
+      "domain_suffix": "erni"
+    },
+    {
+      "domain_suffix": "ice"
+    },
+    {
+      "domain_suffix": "locus"
+    },
+    {
+      "domain_suffix": "mckinsey"
+    },
+    {
+      "domain_suffix": "olayangroup"
+    },
+    {
+      "domain_suffix": "olayan"
+    },
+    {
+      "domain_suffix": "praxi"
+    },
+    {
+      "domain_suffix": "sap"
+    },
+    {
+      "domain_suffix": "seek"
+    },
+    {
+      "domain_suffix": "wtc"
+    },
+    {
+      "domain_suffix": "xerox"
+    },
+    {
+      "domain_suffix": "athleta"
+    },
+    {
+      "domain_suffix": "bloomberg"
+    },
+    {
+      "domain_suffix": "calvinklein"
+    },
+    {
+      "domain_suffix": "gap"
+    },
+    {
+      "domain_suffix": "gucci"
+    },
+    {
+      "domain_suffix": "hermes"
+    },
+    {
+      "domain_suffix": "lancaster"
+    },
+    {
+      "domain_suffix": "lipsy"
+    },
+    {
+      "domain_suffix": "mango"
+    },
+    {
+      "domain_suffix": "nextdirect"
+    },
+    {
+      "domain_suffix": "next"
+    },
+    {
+      "domain_suffix": "nike"
+    },
+    {
+      "domain_suffix": "omega"
+    },
+    {
+      "domain_suffix": "redstone"
+    },
+    {
+      "domain_suffix": "swatch"
+    },
+    {
+      "domain_suffix": "africa"
+    },
+    {
+      "domain_suffix": "capetown"
+    },
+    {
+      "domain_suffix": "durban"
+    },
+    {
+      "domain_suffix": "joburg"
+    },
+    {
+      "domain_suffix": "abudhabi"
+    },
+    {
+      "domain_suffix": "arab"
+    },
+    {
+      "domain_suffix": "dubai"
+    },
+    {
+      "domain_suffix": "krd"
+    },
+    {
+      "domain_suffix": "kyoto"
+    },
+    {
+      "domain_suffix": "nagoya"
+    },
+    {
+      "domain_suffix": "okinawa"
+    },
+    {
+      "domain_suffix": "osaka"
+    },
+    {
+      "domain_suffix": "ryukyu"
+    },
+    {
+      "domain_suffix": "taipei"
+    },
+    {
+      "domain_suffix": "tatar"
+    },
+    {
+      "domain_suffix": "tokyo"
+    },
+    {
+      "domain_suffix": "yokohama"
+    },
+    {
+      "domain_suffix": "alsace"
+    },
+    {
+      "domain_suffix": "amsterdam"
+    },
+    {
+      "domain_suffix": "bar"
+    },
+    {
+      "domain_suffix": "barcelona"
+    },
+    {
+      "domain_suffix": "bayern"
+    },
+    {
+      "domain_suffix": "bcn"
+    },
+    {
+      "domain_suffix": "berlin"
+    },
+    {
+      "domain_suffix": "brussels"
+    },
+    {
+      "domain_suffix": "bzh"
+    },
+    {
+      "domain_suffix": "cat"
+    },
+    {
+      "domain_suffix": "corsica"
+    },
+    {
+      "domain_suffix": "cymru"
+    },
+    {
+      "domain_suffix": "eus"
+    },
+    {
+      "domain_suffix": "frl"
+    },
+    {
+      "domain_suffix": "gal"
+    },
+    {
+      "domain_suffix": "gent"
+    },
+    {
+      "domain_suffix": "hamburg"
+    },
+    {
+      "domain_suffix": "helsinki"
+    },
+    {
+      "domain_suffix": "irish"
+    },
+    {
+      "domain_suffix": "ist"
+    },
+    {
+      "domain_suffix": "istanbul"
+    },
+    {
+      "domain_suffix": "koeln"
+    },
+    {
+      "domain_suffix": "london"
+    },
+    {
+      "domain_suffix": "madrid"
+    },
+    {
+      "domain_suffix": "moscow"
+    },
+    {
+      "domain_suffix": "nrw"
+    },
+    {
+      "domain_suffix": "paris"
+    },
+    {
+      "domain_suffix": "ruhr"
+    },
+    {
+      "domain_suffix": "saarland"
+    },
+    {
+      "domain_suffix": "scot"
+    },
+    {
+      "domain_suffix": "stockholm"
+    },
+    {
+      "domain_suffix": "swiss"
+    },
+    {
+      "domain_suffix": "tirol"
+    },
+    {
+      "domain_suffix": "vlaanderen"
+    },
+    {
+      "domain_suffix": "wales"
+    },
+    {
+      "domain_suffix": "wien"
+    },
+    {
+      "domain_suffix": "zuerich"
+    },
+    {
+      "domain_suffix": "boston"
+    },
+    {
+      "domain_suffix": "miami"
+    },
+    {
+      "domain_suffix": "nyc"
+    },
+    {
+      "domain_suffix": "quebec"
+    },
+    {
+      "domain_suffix": "vegas"
+    },
+    {
+      "domain_suffix": "kiwi"
+    },
+    {
+      "domain_suffix": "melbourne"
+    },
+    {
+      "domain_suffix": "sydney"
+    },
+    {
+      "domain_suffix": "lat"
+    },
+    {
+      "domain_suffix": "rio"
+    },
+    {
+      "domain_suffix": "aarp"
+    },
+    {
+      "domain_suffix": "abbott"
+    },
+    {
+      "domain_suffix": "abbvie"
+    },
+    {
+      "domain_suffix": "aetna"
+    },
+    {
+      "domain_suffix": "bms"
+    },
+    {
+      "domain_suffix": "boehringer"
+    },
+    {
+      "domain_suffix": "dabur"
+    },
+    {
+      "domain_suffix": "fresenius"
+    },
+    {
+      "domain_suffix": "jnj"
+    },
+    {
+      "domain_suffix": "sanofi"
+    },
+    {
+      "domain_suffix": "aeg"
+    },
+    {
+      "domain_suffix": "airbus"
+    },
+    {
+      "domain_suffix": "alstom"
+    },
+    {
+      "domain_suffix": "aramco"
+    },
+    {
+      "domain_suffix": "bosch"
+    },
+    {
+      "domain_suffix": "bostik"
+    },
+    {
+      "domain_suffix": "crown"
+    },
+    {
+      "domain_suffix": "dupont"
+    },
+    {
+      "domain_suffix": "flir"
+    },
+    {
+      "domain_suffix": "grainger"
+    },
+    {
+      "domain_suffix": "hitachi"
+    },
+    {
+      "domain_suffix": "ifm"
+    },
+    {
+      "domain_suffix": "ipiranga"
+    },
+    {
+      "domain_suffix": "jio"
+    },
+    {
+      "domain_suffix": "komatsu"
+    },
+    {
+      "domain_suffix": "kuokgroup"
+    },
+    {
+      "domain_suffix": "leclerc"
+    },
+    {
+      "domain_suffix": "lidl"
+    },
+    {
+      "domain_suffix": "lotte"
+    },
+    {
+      "domain_suffix": "man"
+    },
+    {
+      "domain_suffix": "mtr"
+    },
+    {
+      "domain_suffix": "reliance"
+    },
+    {
+      "domain_suffix": "rexroth"
+    },
+    {
+      "domain_suffix": "ril"
+    },
+    {
+      "domain_suffix": "rwe"
+    },
+    {
+      "domain_suffix": "sandvikcoromant"
+    },
+    {
+      "domain_suffix": "sandvik"
+    },
+    {
+      "domain_suffix": "schaeffler"
+    },
+    {
+      "domain_suffix": "schmidt"
+    },
+    {
+      "domain_suffix": "schwarz"
+    },
+    {
+      "domain_suffix": "sener"
+    },
+    {
+      "domain_suffix": "sew"
+    },
+    {
+      "domain_suffix": "sncf"
+    },
+    {
+      "domain_suffix": "total"
+    },
+    {
+      "domain_suffix": "walter"
+    },
+    {
+      "domain_suffix": "weber"
+    },
+    {
+      "domain_suffix": "weir"
+    },
+    {
+      "domain_suffix": "woodside"
+    },
+    {
+      "domain_suffix": "zara"
+    },
+    {
+      "domain_suffix": "africamagic"
+    },
+    {
+      "domain_suffix": "agakhan"
+    },
+    {
+      "domain_suffix": "akdn"
+    },
+    {
+      "domain_suffix": "bharti"
+    },
+    {
+      "domain_suffix": "bingo"
+    },
+    {
+      "domain_suffix": "casa"
+    },
+    {
+      "domain_suffix": "casino"
+    },
+    {
+      "domain_suffix": "dating"
+    },
+    {
+      "domain_suffix": "domains"
+    },
+    {
+      "domain_suffix": "extraspace"
+    },
+    {
+      "domain_suffix": "gay"
+    },
+    {
+      "domain_suffix": "genting"
+    },
+    {
+      "domain_suffix": "hot"
+    },
+    {
+      "domain_suffix": "ikano"
+    },
+    {
+      "domain_suffix": "imamat"
+    },
+    {
+      "domain_suffix": "lgbt"
+    },
+    {
+      "domain_suffix": "maif"
+    },
+    {
+      "domain_suffix": "mattel"
+    },
+    {
+      "domain_suffix": "moe"
+    },
+    {
+      "domain_suffix": "sas"
+    },
+    {
+      "domain_suffix": "shell"
+    },
+    {
+      "domain_suffix": "shia"
+    },
+    {
+      "domain_suffix": "style"
+    },
+    {
+      "domain_suffix": "sucks"
+    },
+    {
+      "domain_suffix": "tattoo"
+    },
+    {
+      "domain_suffix": "vana"
+    },
+    {
+      "domain_suffix": "virgin"
+    },
+    {
+      "domain_suffix": "vodka"
+    },
+    {
+      "domain_suffix": "wine"
+    },
+    {
+      "domain_suffix": "wme"
+    },
+    {
+      "domain_suffix": "wtf"
+    },
+    {
+      "domain_suffix": "bible"
+    },
+    {
+      "domain_suffix": "catholic"
+    },
+    {
+      "domain_suffix": "ismaili"
+    },
+    {
+      "domain_suffix": "xn--mgbi4ecexp"
+    },
+    {
+      "domain_suffix": "cern"
+    },
+    {
+      "domain_suffix": "emerck"
+    },
+    {
+      "domain_suffix": "hisamitsu"
+    },
+    {
+      "domain_suffix": "lilly"
+    },
+    {
+      "domain_suffix": "lundbeck"
+    },
+    {
+      "domain_suffix": "merckmsd"
+    },
+    {
+      "domain_suffix": "msd"
+    },
+    {
+      "domain_suffix": "otsuka"
+    },
+    {
+      "domain_suffix": "pfizer"
+    },
+    {
+      "domain_suffix": "stada"
+    },
+    {
+      "domain_suffix": "teva"
+    },
+    {
+      "domain_suffix": "toray"
+    },
+    {
+      "domain_suffix": "weather"
+    },
+    {
+      "domain_suffix": "adult"
+    },
+    {
+      "domain_suffix": "porn"
+    },
+    {
+      "domain_suffix": "sex"
+    },
+    {
+      "domain_suffix": "sexy"
+    },
+    {
+      "domain_suffix": "xxx"
+    },
+    {
+      "domain_suffix": "auspost"
+    },
+    {
+      "domain_suffix": "dhl"
+    },
+    {
+      "domain_suffix": "fedex"
+    },
+    {
+      "domain_suffix": "xn--lgbbat1ad8j"
+    },
+    {
+      "domain_suffix": "xn--y9a3aq"
+    },
+    {
+      "domain_suffix": "xn--mgbcpq6gpa1a"
+    },
+    {
+      "domain_suffix": "xn--54b7fta0cc"
+    },
+    {
+      "domain_suffix": "xn--90ais"
+    },
+    {
+      "domain_suffix": "xn--90ae"
+    },
+    {
+      "domain_suffix": "xn--wgbh1c"
+    },
+    {
+      "domain_suffix": "xn--e1a4c"
+    },
+    {
+      "domain_suffix": "xn--qxa6a"
+    },
+    {
+      "domain_suffix": "xn--node"
+    },
+    {
+      "domain_suffix": "xn--qxam"
+    },
+    {
+      "domain_suffix": "xn--4dbrk0ce"
+    },
+    {
+      "domain_suffix": "xn--h2brj9c"
+    },
+    {
+      "domain_suffix": "xn--mgbbh1a71e"
+    },
+    {
+      "domain_suffix": "xn--fpcrj9c3d"
+    },
+    {
+      "domain_suffix": "xn--gecrj9c"
+    },
+    {
+      "domain_suffix": "xn--s9brj9c"
+    },
+    {
+      "domain_suffix": "xn--45brj9c"
+    },
+    {
+      "domain_suffix": "xn--xkc2dl3a5ee0h"
+    },
+    {
+      "domain_suffix": "xn--2scrj9c"
+    },
+    {
+      "domain_suffix": "xn--rvc1e0am3e"
+    },
+    {
+      "domain_suffix": "xn--45br5cyl"
+    },
+    {
+      "domain_suffix": "xn--3hcrj9c"
+    },
+    {
+      "domain_suffix": "xn--mgbbh1a"
+    },
+    {
+      "domain_suffix": "xn--h2breg3eve"
+    },
+    {
+      "domain_suffix": "xn--h2brj9c8c"
+    },
+    {
+      "domain_suffix": "xn--mgbgu82a"
+    },
+    {
+      "domain_suffix": "xn--mgba3a4f16a"
+    },
+    {
+      "domain_suffix": "xn--mgba3a4fra"
+    },
+    {
+      "domain_suffix": "xn--mgbtx2b"
+    },
+    {
+      "domain_suffix": "xn--mgbayh7gpa"
+    },
+    {
+      "domain_suffix": "xn--80ao21a"
+    },
+    {
+      "domain_suffix": "xn--3e0b707e"
+    },
+    {
+      "domain_suffix": "xn--q7ce6a"
+    },
+    {
+      "domain_suffix": "xn--mix891f"
+    },
+    {
+      "domain_suffix": "xn--mix082f"
+    },
+    {
+      "domain_suffix": "xn--d1alf"
+    },
+    {
+      "domain_suffix": "xn--mgbx4cd0ab"
+    },
+    {
+      "domain_suffix": "xn--mgbah1a3hjkrd"
+    },
+    {
+      "domain_suffix": "xn--l1acc"
+    },
+    {
+      "domain_suffix": "xn--mgbc0a9azcg"
+    },
+    {
+      "domain_suffix": "xn--mgb9awbf"
+    },
+    {
+      "domain_suffix": "xn--mgbai9azgqp6j"
+    },
+    {
+      "domain_suffix": "xn--mgbai9a5eva00b"
+    },
+    {
+      "domain_suffix": "xn--ygbi2ammx"
+    },
+    {
+      "domain_suffix": "xn--wgbl6a"
+    },
+    {
+      "domain_suffix": "xn--p1ai"
+    },
+    {
+      "domain_suffix": "xn--mgberp4a5d4ar"
+    },
+    {
+      "domain_suffix": "xn--mgberp4a5d4a87g"
+    },
+    {
+      "domain_suffix": "xn--mgbqly7c0a67fbc"
+    },
+    {
+      "domain_suffix": "xn--mgbqly7cvafr"
+    },
+    {
+      "domain_suffix": "xn--90a3ac"
+    },
+    {
+      "domain_suffix": "xn--yfro4i67o"
+    },
+    {
+      "domain_suffix": "xn--fzc2c9e2c"
+    },
+    {
+      "domain_suffix": "xn--mgbpl2fh"
+    },
+    {
+      "domain_suffix": "xn--ogbpf8fl"
+    },
+    {
+      "domain_suffix": "xn--mgbtf8fl"
+    },
+    {
+      "domain_suffix": "xn--kpry57d"
+    },
+    {
+      "domain_suffix": "xn--kprw13d"
+    },
+    {
+      "domain_suffix": "xn--nnx388a"
+    },
+    {
+      "domain_suffix": "xn--o3cw4h"
+    },
+    {
+      "domain_suffix": "xn--pgbs0dh"
+    },
+    {
+      "domain_suffix": "xn--j1amh"
+    },
+    {
+      "domain_suffix": "xn--mgbaam7a8h"
+    },
+    {
+      "domain_suffix": "xn--mgb2ddes"
+    },
+    {
+      "domain_suffix": "aaa"
+    },
+    {
+      "domain_suffix": "audi"
+    },
+    {
+      "domain_suffix": "bentley"
+    },
+    {
+      "domain_suffix": "bmw"
+    },
+    {
+      "domain_suffix": "bridgestone"
+    },
+    {
+      "domain_suffix": "case"
+    },
+    {
+      "domain_suffix": "datsun"
+    },
+    {
+      "domain_suffix": "dunlop"
+    },
+    {
+      "domain_suffix": "ferrari"
+    },
+    {
+      "domain_suffix": "firestone"
+    },
+    {
+      "domain_suffix": "ford"
+    },
+    {
+      "domain_suffix": "goodyear"
+    },
+    {
+      "domain_suffix": "honda"
+    },
+    {
+      "domain_suffix": "hyundai"
+    },
+    {
+      "domain_suffix": "infiniti"
+    },
+    {
+      "domain_suffix": "jaguar"
+    },
+    {
+      "domain_suffix": "jeep"
+    },
+    {
+      "domain_suffix": "kia"
+    },
+    {
+      "domain_suffix": "lamborghini"
+    },
+    {
+      "domain_suffix": "landrover"
+    },
+    {
+      "domain_suffix": "lexus"
+    },
+    {
+      "domain_suffix": "lincoln"
+    },
+    {
+      "domain_suffix": "mini"
+    },
+    {
+      "domain_suffix": "mitsubishi"
+    },
+    {
+      "domain_suffix": "nissan"
+    },
+    {
+      "domain_suffix": "seat"
+    },
+    {
+      "domain_suffix": "suzuki"
+    },
+    {
+      "domain_suffix": "tatamotors"
+    },
+    {
+      "domain_suffix": "toyota"
+    },
+    {
+      "domain_suffix": "tvs"
+    },
+    {
+      "domain_suffix": "volvo"
+    },
+    {
+      "domain_suffix": "android"
+    },
+    {
+      "domain_suffix": "apple"
+    },
+    {
+      "domain_suffix": "bestbuy"
+    },
+    {
+      "domain_suffix": "brother"
+    },
+    {
+      "domain_suffix": "canon"
+    },
+    {
+      "domain_suffix": "dell"
+    },
+    {
+      "domain_suffix": "fujitsu"
+    },
+    {
+      "domain_suffix": "goldpoint"
+    },
+    {
+      "domain_suffix": "ibm"
+    },
+    {
+      "domain_suffix": "nikon"
+    },
+    {
+      "domain_suffix": "nokia"
+    },
+    {
+      "domain_suffix": "panasonic"
+    },
+    {
+      "domain_suffix": "philips"
+    },
+    {
+      "domain_suffix": "pioneer"
+    },
+    {
+      "domain_suffix": "samsung"
+    },
+    {
+      "domain_suffix": "sharp"
+    },
+    {
+      "domain_suffix": "sony"
+    },
+    {
+      "domain_suffix": "toshiba"
+    },
+    {
+      "domain_suffix": "yodobashi"
+    },
+    {
+      "domain_suffix": "allfinanz"
+    },
+    {
+      "domain_suffix": "ally"
+    },
+    {
+      "domain_suffix": "americanexpress"
+    },
+    {
+      "domain_suffix": "amex"
+    },
+    {
+      "domain_suffix": "anz"
+    },
+    {
+      "domain_suffix": "banamex"
+    },
+    {
+      "domain_suffix": "barclaycard"
+    },
+    {
+      "domain_suffix": "barclays"
+    },
+    {
+      "domain_suffix": "bbt"
+    },
+    {
+      "domain_suffix": "bbva"
+    },
+    {
+      "domain_suffix": "bnpparibas"
+    },
+    {
+      "domain_suffix": "bofa"
+    },
+    {
+      "domain_suffix": "bradesco"
+    },
+    {
+      "domain_suffix": "capitalone"
+    },
+    {
+      "domain_suffix": "cba"
+    },
+    {
+      "domain_suffix": "cfa"
+    },
+    {
+      "domain_suffix": "citadel"
+    },
+    {
+      "domain_suffix": "citi"
+    },
+    {
+      "domain_suffix": "commbank"
+    },
+    {
+      "domain_suffix": "deloitte"
+    },
+    {
+      "domain_suffix": "discover"
+    },
+    {
+      "domain_suffix": "fidelity"
+    },
+    {
+      "domain_suffix": "hdfcbank"
+    },
+    {
+      "domain_suffix": "hdfc"
+    },
+    {
+      "domain_suffix": "hsbc"
+    },
+    {
+      "domain_suffix": "itau"
+    },
+    {
+      "domain_suffix": "jcb"
+    },
+    {
+      "domain_suffix": "jll"
+    },
+    {
+      "domain_suffix": "kfh"
+    },
+    {
+      "domain_suffix": "kpmg"
+    },
+    {
+      "domain_suffix": "lacaixa"
+    },
+    {
+      "domain_suffix": "lasalle"
+    },
+    {
+      "domain_suffix": "lplfinancial"
+    },
+    {
+      "domain_suffix": "lpl"
+    },
+    {
+      "domain_suffix": "nab"
+    },
+    {
+      "domain_suffix": "netbank"
+    },
+    {
+      "domain_suffix": "open"
+    },
+    {
+      "domain_suffix": "pictet"
+    },
+    {
+      "domain_suffix": "pnc"
+    },
+    {
+      "domain_suffix": "pohl"
+    },
+    {
+      "domain_suffix": "pramerica"
+    },
+    {
+      "domain_suffix": "prudential"
+    },
+    {
+      "domain_suffix": "pru"
+    },
+    {
+      "domain_suffix": "pwc"
+    },
+    {
+      "domain_suffix": "sbi"
+    },
+    {
+      "domain_suffix": "scb"
+    },
+    {
+      "domain_suffix": "softbank"
+    },
+    {
+      "domain_suffix": "statebank"
+    },
+    {
+      "domain_suffix": "temasek"
+    },
+    {
+      "domain_suffix": "ubank"
+    },
+    {
+      "domain_suffix": "ubs"
+    },
+    {
+      "domain_suffix": "vanguard"
+    },
+    {
+      "domain_suffix": "visa"
+    },
+    {
+      "domain_suffix": "wolterskluwer"
+    },
+    {
+      "domain_suffix": "aquarelle"
+    },
+    {
+      "domain_suffix": "diy"
+    },
+    {
+      "domain_suffix": "homedepot"
+    },
+    {
+      "domain_suffix": "homegoods"
+    },
+    {
+      "domain_suffix": "aig"
+    },
+    {
+      "domain_suffix": "allstate"
+    },
+    {
+      "domain_suffix": "americanfamily"
+    },
+    {
+      "domain_suffix": "amfam"
+    },
+    {
+      "domain_suffix": "amica"
+    },
+    {
+      "domain_suffix": "axa"
+    },
+    {
+      "domain_suffix": "farmers"
+    },
+    {
+      "domain_suffix": "mma"
+    },
+    {
+      "domain_suffix": "nissay"
+    },
+    {
+      "domain_suffix": "progressive"
+    },
+    {
+      "domain_suffix": "redumbrella"
+    },
+    {
+      "domain_suffix": "statefarm"
+    },
+    {
+      "domain_suffix": "tiaa"
+    },
+    {
+      "domain_suffix": "travelersinsurance"
+    },
+    {
+      "domain_suffix": "travelers"
+    },
+    {
+      "domain_suffix": "trv"
+    },
+    {
+      "domain_suffix": "vig"
+    },
+    {
+      "domain_suffix": "beats"
+    },
+    {
+      "domain_suffix": "blockbuster"
+    },
+    {
+      "domain_suffix": "netflix"
+    },
+    {
+      "domain_suffix": "playstation"
+    },
+    {
+      "domain_suffix": "tab"
+    },
+    {
+      "domain_suffix": "williamhill"
+    },
+    {
+      "domain_suffix": "xbox"
+    },
+    {
+      "domain_suffix": "asda"
+    },
+    {
+      "domain_suffix": "george"
+    },
+    {
+      "domain_suffix": "homesense"
+    },
+    {
+      "domain_suffix": "lego"
+    },
+    {
+      "domain_suffix": "marshalls"
+    },
+    {
+      "domain_suffix": "obi"
+    },
+    {
+      "domain_suffix": "samsclub"
+    },
+    {
+      "domain_suffix": "staples"
+    },
+    {
+      "domain_suffix": "target"
+    },
+    {
+      "domain_suffix": "thd"
+    },
+    {
+      "domain_suffix": "tjmaxx"
+    },
+    {
+      "domain_suffix": "tjx"
+    },
+    {
+      "domain_suffix": "tkmaxx"
+    },
+    {
+      "domain_suffix": "walmart"
+    },
+    {
+      "domain_suffix": "abb"
+    },
+    {
+      "domain_suffix": "accenture"
+    },
+    {
+      "domain_suffix": "aco"
+    },
+    {
+      "domain_suffix": "airtel"
+    },
+    {
+      "domain_suffix": "amazon"
+    },
+    {
+      "domain_suffix": "aol"
+    },
+    {
+      "domain_suffix": "aws"
+    },
+    {
+      "domain_suffix": "azure"
+    },
+    {
+      "domain_suffix": "chrome"
+    },
+    {
+      "domain_suffix": "cisco"
+    },
+    {
+      "domain_suffix": "dclk"
+    },
+    {
+      "domain_suffix": "dish"
+    },
+    {
+      "domain_suffix": "dtv"
+    },
+    {
+      "domain_suffix": "epson"
+    },
+    {
+      "domain_suffix": "ericsson"
+    },
+    {
+      "domain_suffix": "fairwinds"
+    },
+    {
+      "domain_suffix": "fido"
+    },
+    {
+      "domain_suffix": "flickr"
+    },
+    {
+      "domain_suffix": "frogans"
+    },
+    {
+      "domain_suffix": "frontier"
+    },
+    {
+      "domain_suffix": "ftr"
+    },
+    {
+      "domain_suffix": "gbiz"
+    },
+    {
+      "domain_suffix": "gea"
+    },
+    {
+      "domain_suffix": "ggee"
+    },
+    {
+      "domain_suffix": "gle"
+    },
+    {
+      "domain_suffix": "gmail"
+    },
+    {
+      "domain_suffix": "gmo"
+    },
+    {
+      "domain_suffix": "gmx"
+    },
+    {
+      "domain_suffix": "godaddy"
+    },
+    {
+      "domain_suffix": "goog"
+    },
+    {
+      "domain_suffix": "google"
+    },
+    {
+      "domain_suffix": "goo"
+    },
+    {
+      "domain_suffix": "guge"
+    },
+    {
+      "domain_suffix": "hangout"
+    },
+    {
+      "domain_suffix": "hkt"
+    },
+    {
+      "domain_suffix": "hotmail"
+    },
+    {
+      "domain_suffix": "hughes"
+    },
+    {
+      "domain_suffix": "ieee"
+    },
+    {
+      "domain_suffix": "intuit"
+    },
+    {
+      "domain_suffix": "java"
+    },
+    {
+      "domain_suffix": "jmp"
+    },
+    {
+      "domain_suffix": "jprs"
+    },
+    {
+      "domain_suffix": "juniper"
+    },
+    {
+      "domain_suffix": "kddi"
+    },
+    {
+      "domain_suffix": "kindle"
+    },
+    {
+      "domain_suffix": "kpn"
+    },
+    {
+      "domain_suffix": "lanxess"
+    },
+    {
+      "domain_suffix": "locker"
+    },
+    {
+      "domain_suffix": "microsoft"
+    },
+    {
+      "domain_suffix": "mint"
+    },
+    {
+      "domain_suffix": "mit"
+    },
+    {
+      "domain_suffix": "mtn"
+    },
+    {
+      "domain_suffix": "nec"
+    },
+    {
+      "domain_suffix": "neustar"
+    },
+    {
+      "domain_suffix": "nexus"
+    },
+    {
+      "domain_suffix": "nico"
+    },
+    {
+      "domain_suffix": "norton"
+    },
+    {
+      "domain_suffix": "ntt"
+    },
+    {
+      "domain_suffix": "office"
+    },
+    {
+      "domain_suffix": "ollo"
+    },
+    {
+      "domain_suffix": "oracle"
+    },
+    {
+      "domain_suffix": "orange"
+    },
+    {
+      "domain_suffix": "ovh"
+    },
+    {
+      "domain_suffix": "pccw"
+    },
+    {
+      "domain_suffix": "richardli"
+    },
+    {
+      "domain_suffix": "ricoh"
+    },
+    {
+      "domain_suffix": "rogers"
+    },
+    {
+      "domain_suffix": "sakura"
+    },
+    {
+      "domain_suffix": "sfr"
+    },
+    {
+      "domain_suffix": "shaw"
+    },
+    {
+      "domain_suffix": "skype"
+    },
+    {
+      "domain_suffix": "sling"
+    },
+    {
+      "domain_suffix": "smart"
+    },
+    {
+      "domain_suffix": "stcgroup"
+    },
+    {
+      "domain_suffix": "stc"
+    },
+    {
+      "domain_suffix": "tci"
+    },
+    {
+      "domain_suffix": "tdk"
+    },
+    {
+      "domain_suffix": "uol"
+    },
+    {
+      "domain_suffix": "verisign"
+    },
+    {
+      "domain_suffix": "viva"
+    },
+    {
+      "domain_suffix": "vivo"
+    },
+    {
+      "domain_suffix": "windows"
+    },
+    {
+      "domain_suffix": "yahoo"
+    },
+    {
+      "domain_suffix": "yamaxun"
+    },
+    {
+      "domain_suffix": "yandex"
+    },
+    {
+      "domain_suffix": "youtube"
+    },
+    {
+      "domain_suffix": "zappos"
+    },
+    {
+      "domain_suffix": "chanel"
+    },
+    {
+      "domain_suffix": "clinique"
+    },
+    {
+      "domain_suffix": "lamer"
+    },
+    {
+      "domain_suffix": "natura"
+    },
+    {
+      "domain_suffix": "origins"
+    },
+    {
+      "domain_suffix": "barefoot"
+    },
+    {
+      "domain_suffix": "cuisinella"
+    },
+    {
+      "domain_suffix": "edeka"
+    },
+    {
+      "domain_suffix": "fage"
+    },
+    {
+      "domain_suffix": "ferrero"
+    },
+    {
+      "domain_suffix": "food"
+    },
+    {
+      "domain_suffix": "gallo"
+    },
+    {
+      "domain_suffix": "xn--5su34j936bgsg"
+    },
+    {
+      "domain_suffix": "xn--b4w605ferd"
+    },
+    {
+      "domain_suffix": "xn--cckwcxetd"
+    },
+    {
+      "domain_suffix": "xn--cg4bki"
+    },
+    {
+      "domain_suffix": "xn--flw351e"
+    },
+    {
+      "domain_suffix": "xn--fzys8d69uvgm"
+    },
+    {
+      "domain_suffix": "xn--jlq480n2rg"
+    },
+    {
+      "domain_suffix": "xn--kcrx77d1x4a"
+    },
+    {
+      "domain_suffix": "xn--mgba3a3ejt"
+    },
+    {
+      "domain_suffix": "xn--mgba7c0bbn0a"
+    },
+    {
+      "domain_suffix": "xn--ngbe9e0a"
+    },
+    {
+      "domain_suffix": "xn--qcka1pmc"
+    },
+    {
+      "domain_suffix": "xn--w4r85el8fhu5dnra"
+    },
+    {
+      "domain_suffix": "xn--w4rs40l"
+    },
+    {
+      "domain_suffix": "caravan"
+    },
+    {
+      "domain_suffix": "cipriani"
+    },
+    {
+      "domain_suffix": "clubmed"
+    },
+    {
+      "domain_suffix": "delta"
+    },
+    {
+      "domain_suffix": "firmdale"
+    },
+    {
+      "domain_suffix": "hyatt"
+    },
+    {
+      "domain_suffix": "kerryhotels"
+    },
+    {
+      "domain_suffix": "kerryproperties"
+    },
+    {
+      "domain_suffix": "marriott"
+    },
+    {
+      "domain_suffix": "shangrila"
+    },
+    {
+      "domain_suffix": "tui"
+    },
+    {
+      "domain_suffix": "viking"
+    },
+    {
+      "domain_suffix": "able"
+    },
+    {
+      "domain_suffix": "cbre"
+    },
+    {
+      "domain_suffix": "chintai"
+    },
+    {
+      "domain_suffix": "lefrak"
+    },
+    {
+      "domain_suffix": "abc"
+    },
+    {
+      "domain_suffix": "arte"
+    },
+    {
+      "domain_suffix": "bbc"
+    },
+    {
+      "domain_suffix": "cbn"
+    },
+    {
+      "domain_suffix": "eurovision"
+    },
+    {
+      "domain_suffix": "fox"
+    },
+    {
+      "domain_suffix": "gallup"
+    },
+    {
+      "domain_suffix": "globo"
+    },
+    {
+      "domain_suffix": "hbo"
+    },
+    {
+      "domain_suffix": "imdb"
+    },
+    {
+      "domain_suffix": "itv"
+    },
+    {
+      "domain_suffix": "nhk"
+    },
+    {
+      "domain_suffix": "nowtv"
+    },
+    {
+      "domain_suffix": "sbs"
+    },
+    {
+      "domain_suffix": "seven"
+    },
+    {
+      "domain_suffix": "sky"
+    },
+    {
+      "domain_suffix": "weatherchannel"
+    },
+    {
+      "domain_suffix": "bauhaus"
+    },
+    {
+      "domain_suffix": "latrobe"
+    },
+    {
+      "domain_suffix": "monash"
+    },
+    {
+      "domain_suffix": "meme"
+    },
+    {
+      "domain_suffix": "ing"
+    },
+    {
+      "domain_suffix": "foo"
+    },
+    {
+      "domain_suffix": "zip"
+    },
+    {
+      "domain_suffix": "mov"
+    },
+    {
+      "domain_suffix": "dad"
+    },
+    {
+      "domain_suffix": "phd"
+    },
+    {
+      "domain_suffix": "prof"
+    },
+    {
+      "domain_suffix": "esq"
+    },
+    {
+      "domain_suffix": "rsvp"
+    },
+    {
+      "domain_suffix": "boo"
+    },
+    {
+      "domain_suffix": "day"
+    },
+    {
+      "domain_suffix": "new"
+    },
+    {
+      "domain_suffix": "dev"
+    },
+    {
+      "domain_suffix": "page"
+    },
+    {
+      "domain_suffix": "app"
+    },
+    {
+      "domain_suffix": "how"
+    },
+    {
+      "domain_suffix": "soy"
+    },
+    {
+      "domain_suffix": "xn--q9jyb4c"
+    }
+  ]
+}

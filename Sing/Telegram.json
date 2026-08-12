@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": "comments.app"
+    },
+    {
+      "domain_suffix": "graph.org"
+    },
+    {
+      "domain_suffix": "legra.ph"
+    },
+    {
+      "domain_suffix": "quiz.directory"
+    },
+    {
+      "domain_suffix": "t.me"
+    },
+    {
+      "domain_suffix": "telesco.pe"
+    },
+    {
+      "domain_suffix": "tdesktop.com"
+    },
+    {
+      "domain_suffix": "tg.dev"
+    },
+    {
+      "domain_suffix": "tx.me"
+    },
+    {
+      "domain_keyword": "telegra"
+    },
+    {
+      "ip_cidr": "91.108.56.0/22"
+    },
+    {
+      "ip_cidr": "91.108.4.0/22"
+    },
+    {
+      "ip_cidr": "91.108.8.0/22"
+    },
+    {
+      "ip_cidr": "91.108.16.0/22"
+    },
+    {
+      "ip_cidr": "91.108.12.0/22"
+    },
+    {
+      "ip_cidr": "149.154.160.0/20"
+    },
+    {
+      "ip_cidr": "91.105.192.0/23"
+    },
+    {
+      "ip_cidr": "91.108.20.0/22"
+    },
+    {
+      "ip_cidr": "185.76.151.0/24"
+    },
+    {
+      "ip_cidr": "2001:b28:f23d::/48"
+    },
+    {
+      "ip_cidr": "2001:b28:f23f::/48"
+    },
+    {
+      "ip_cidr": "2001:67c:4e8::/48"
+    },
+    {
+      "ip_cidr": "2001:b28:f23c::/48"
+    },
+    {
+      "ip_cidr": "2a0a:f280::/32"
+    }
+  ]
+}

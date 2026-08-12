@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": "agkn.com"
+    },
+    {
+      "domain_suffix": "cohere.com"
+    },
+    {
+      "domain_suffix": "inmobi.com"
+    },
+    {
+      "domain_suffix": "inner-active.mobi"
+    },
+    {
+      "domain_suffix": "kochava.com"
+    },
+    {
+      "domain_suffix": "mobilefuse.com"
+    },
+    {
+      "domain_suffix": "talkatone.com"
+    },
+    {
+      "domain_suffix": "tenor.com"
+    },
+    {
+      "domain_suffix": "tktn.at"
+    },
+    {
+      "domain_suffix": "tktn.be"
+    },
+    {
+      "ip_cidr": "205.164.56.0/24"
+    },
+    {
+      "ip_cidr": "216.172.154.0/24"
+    },
+    {
+      "ip_cidr": "50.117.27.0/24"
+    },
+    {
+      "ip_cidr": "63.251.124.0/24"
+    },
+    {
+      "ip_cidr": "69.46.75.0/24"
+    }
+  ]
+}
