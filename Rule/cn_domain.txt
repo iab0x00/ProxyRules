@@ -8,6 +8,7 @@ DOMAIN,easytomessage.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
+DOMAIN,miot-spec.org
 DOMAIN,mum.alibabachengdun.com
 DOMAIN,ntservicepack.microsoft.com
 DOMAIN,origin-a.akamaihd.ne
@@ -2317,6 +2318,7 @@ DOMAIN-SUFFIX,metatrader4.com
 DOMAIN-SUFFIX,metatrader5.com
 DOMAIN-SUFFIX,mfcteda.com
 DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,mi-fds.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miaobolive.com
