@@ -2,46 +2,22 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": "grok.com"
-    },
-    {
-      "domain_suffix": "periscope.tv"
-    },
-    {
-      "domain_suffix": "pscp.tv"
-    },
-    {
-      "domain_suffix": "t.co"
-    },
-    {
-      "domain_suffix": "tweetdeck.com"
-    },
-    {
-      "domain_suffix": "twimg.co"
-    },
-    {
-      "domain_suffix": "twimg.com"
-    },
-    {
-      "domain_suffix": "twimg.org"
-    },
-    {
-      "domain_suffix": "twitpic.com"
-    },
-    {
-      "domain_suffix": "twitter.com"
-    },
-    {
-      "domain_suffix": "twitter.jp"
-    },
-    {
-      "domain_suffix": "vine.co"
-    },
-    {
-      "domain_suffix": "x.ai"
-    },
-    {
-      "domain_suffix": "x.com"
+      "domain_suffix": [
+        "grok.com",
+        "periscope.tv",
+        "pscp.tv",
+        "t.co",
+        "tweetdeck.com",
+        "twimg.co",
+        "twimg.com",
+        "twimg.org",
+        "twitpic.com",
+        "twitter.com",
+        "twitter.jp",
+        "vine.co",
+        "x.ai",
+        "x.com"
+      ]
     }
   ]
 }

@@ -2,94 +2,46 @@
   "version": 3,
   "rules": [
     {
-      "domain_keyword": "gmail"
+      "domain_keyword": [
+        "gmail",
+        "google",
+        "youtube",
+        ".blogspot."
+      ]
     },
     {
-      "domain_keyword": "google"
+      "domain_suffix": [
+        "1e100.net",
+        "2mdn.net",
+        "ai.dev",
+        "ai.studio",
+        "apigee.com",
+        "appspot.com",
+        "blogger.com",
+        "deepmind.com",
+        "g.co",
+        "ggpht.com",
+        "gle",
+        "goog",
+        "goo.gl",
+        "gstatic.cn",
+        "gstatic.com",
+        "gvt0.com",
+        "gvt1.com",
+        "gvt2.com",
+        "gvt3.com",
+        "tenor.com",
+        "xn--ngstr-lra8j.com",
+        "youtu.be",
+        "yt.be",
+        "ytimg.com"
+      ]
     },
     {
-      "domain_keyword": "youtube"
-    },
-    {
-      "domain_keyword": ".blogspot."
-    },
-    {
-      "domain_suffix": "1e100.net"
-    },
-    {
-      "domain_suffix": "2mdn.net"
-    },
-    {
-      "domain_suffix": "ai.dev"
-    },
-    {
-      "domain_suffix": "ai.studio"
-    },
-    {
-      "domain_suffix": "apigee.com"
-    },
-    {
-      "domain_suffix": "appspot.com"
-    },
-    {
-      "domain_suffix": "blogger.com"
-    },
-    {
-      "domain_suffix": "deepmind.com"
-    },
-    {
-      "domain_suffix": "g.co"
-    },
-    {
-      "domain_suffix": "ggpht.com"
-    },
-    {
-      "domain_suffix": "gle"
-    },
-    {
-      "domain_suffix": "goog"
-    },
-    {
-      "domain_suffix": "goo.gl"
-    },
-    {
-      "domain_suffix": "gstatic.cn"
-    },
-    {
-      "domain_suffix": "gstatic.com"
-    },
-    {
-      "domain_suffix": "gvt0.com"
-    },
-    {
-      "domain_suffix": "gvt1.com"
-    },
-    {
-      "domain_suffix": "gvt2.com"
-    },
-    {
-      "domain_suffix": "gvt3.com"
-    },
-    {
-      "domain_suffix": "tenor.com"
-    },
-    {
-      "domain_suffix": "xn--ngstr-lra8j.com"
-    },
-    {
-      "domain_suffix": "youtu.be"
-    },
-    {
-      "domain_suffix": "yt.be"
-    },
-    {
-      "domain_suffix": "ytimg.com"
-    },
-    {
-      "ip_cidr": "74.125.0.0/16"
-    },
-    {
-      "ip_cidr": "173.194.0.0/16"
+      "ip_cidr": [
+        "74.125.0.0/16",
+        "173.194.0.0/16"
+      ]
     }
   ]
 }

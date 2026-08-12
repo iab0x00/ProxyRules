@@ -2,2479 +2,833 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": ".gov"
-    },
-    {
-      "domain_suffix": ".mil"
-    },
-    {
-      "domain_suffix": ".edu"
-    },
-    {
-      "domain_suffix": ".ac"
-    },
-    {
-      "domain_suffix": ".ad"
-    },
-    {
-      "domain_suffix": ".ae"
-    },
-    {
-      "domain_suffix": ".af"
-    },
-    {
-      "domain_suffix": ".ag"
-    },
-    {
-      "domain_suffix": ".ai"
-    },
-    {
-      "domain_suffix": ".al"
-    },
-    {
-      "domain_suffix": ".am"
-    },
-    {
-      "domain_suffix": ".ao"
-    },
-    {
-      "domain_suffix": ".aq"
-    },
-    {
-      "domain_suffix": ".ar"
-    },
-    {
-      "domain_suffix": ".as"
-    },
-    {
-      "domain_suffix": ".at"
-    },
-    {
-      "domain_suffix": ".au"
-    },
-    {
-      "domain_suffix": ".aw"
-    },
-    {
-      "domain_suffix": ".ax"
-    },
-    {
-      "domain_suffix": ".az"
-    },
-    {
-      "domain_suffix": ".ba"
-    },
-    {
-      "domain_suffix": ".bb"
-    },
-    {
-      "domain_suffix": ".bd"
-    },
-    {
-      "domain_suffix": ".be"
-    },
-    {
-      "domain_suffix": ".bf"
-    },
-    {
-      "domain_suffix": ".bg"
-    },
-    {
-      "domain_suffix": ".bh"
-    },
-    {
-      "domain_suffix": ".bi"
-    },
-    {
-      "domain_suffix": ".bj"
-    },
-    {
-      "domain_suffix": ".bm"
-    },
-    {
-      "domain_suffix": ".bn"
-    },
-    {
-      "domain_suffix": ".bo"
-    },
-    {
-      "domain_suffix": ".br"
-    },
-    {
-      "domain_suffix": ".bs"
-    },
-    {
-      "domain_suffix": ".bt"
-    },
-    {
-      "domain_suffix": ".bv"
-    },
-    {
-      "domain_suffix": ".bw"
-    },
-    {
-      "domain_suffix": ".by"
-    },
-    {
-      "domain_suffix": ".bz"
-    },
-    {
-      "domain_suffix": ".ca"
-    },
-    {
-      "domain_suffix": ".cd"
-    },
-    {
-      "domain_suffix": ".cf"
-    },
-    {
-      "domain_suffix": ".cg"
-    },
-    {
-      "domain_suffix": ".ch"
-    },
-    {
-      "domain_suffix": ".ci"
-    },
-    {
-      "domain_suffix": ".ck"
-    },
-    {
-      "domain_suffix": ".cl"
-    },
-    {
-      "domain_suffix": ".cm"
-    },
-    {
-      "domain_suffix": ".cr"
-    },
-    {
-      "domain_suffix": ".cu"
-    },
-    {
-      "domain_suffix": ".cv"
-    },
-    {
-      "domain_suffix": ".cw"
-    },
-    {
-      "domain_suffix": ".cx"
-    },
-    {
-      "domain_suffix": ".cy"
-    },
-    {
-      "domain_suffix": ".cz"
-    },
-    {
-      "domain_suffix": ".de"
-    },
-    {
-      "domain_suffix": ".dj"
-    },
-    {
-      "domain_suffix": ".dk"
-    },
-    {
-      "domain_suffix": ".dm"
-    },
-    {
-      "domain_suffix": ".do"
-    },
-    {
-      "domain_suffix": ".dz"
-    },
-    {
-      "domain_suffix": ".ec"
-    },
-    {
-      "domain_suffix": ".ee"
-    },
-    {
-      "domain_suffix": ".eg"
-    },
-    {
-      "domain_suffix": ".er"
-    },
-    {
-      "domain_suffix": ".es"
-    },
-    {
-      "domain_suffix": ".et"
-    },
-    {
-      "domain_suffix": ".eu"
-    },
-    {
-      "domain_suffix": ".fi"
-    },
-    {
-      "domain_suffix": ".fj"
-    },
-    {
-      "domain_suffix": ".fk"
-    },
-    {
-      "domain_suffix": ".fm"
-    },
-    {
-      "domain_suffix": ".fo"
-    },
-    {
-      "domain_suffix": ".fr"
-    },
-    {
-      "domain_suffix": ".ga"
-    },
-    {
-      "domain_suffix": ".gb"
-    },
-    {
-      "domain_suffix": ".gd"
-    },
-    {
-      "domain_suffix": ".ge"
-    },
-    {
-      "domain_suffix": ".gf"
-    },
-    {
-      "domain_suffix": ".gg"
-    },
-    {
-      "domain_suffix": ".gh"
-    },
-    {
-      "domain_suffix": ".gi"
-    },
-    {
-      "domain_suffix": ".gl"
-    },
-    {
-      "domain_suffix": ".gm"
-    },
-    {
-      "domain_suffix": ".gn"
-    },
-    {
-      "domain_suffix": ".gp"
-    },
-    {
-      "domain_suffix": ".gr"
-    },
-    {
-      "domain_suffix": ".gs"
-    },
-    {
-      "domain_suffix": ".gt"
-    },
-    {
-      "domain_suffix": ".gu"
-    },
-    {
-      "domain_suffix": ".gw"
-    },
-    {
-      "domain_suffix": ".gy"
-    },
-    {
-      "domain_suffix": ".hm"
-    },
-    {
-      "domain_suffix": ".hn"
-    },
-    {
-      "domain_suffix": ".hr"
-    },
-    {
-      "domain_suffix": ".ht"
-    },
-    {
-      "domain_suffix": ".hu"
-    },
-    {
-      "domain_suffix": ".id"
-    },
-    {
-      "domain_suffix": ".ie"
-    },
-    {
-      "domain_suffix": ".il"
-    },
-    {
-      "domain_suffix": ".im"
-    },
-    {
-      "domain_suffix": ".in"
-    },
-    {
-      "domain_suffix": ".io"
-    },
-    {
-      "domain_suffix": ".iq"
-    },
-    {
-      "domain_suffix": ".ir"
-    },
-    {
-      "domain_suffix": ".is"
-    },
-    {
-      "domain_suffix": ".it"
-    },
-    {
-      "domain_suffix": ".je"
-    },
-    {
-      "domain_suffix": ".jm"
-    },
-    {
-      "domain_suffix": ".jo"
-    },
-    {
-      "domain_suffix": ".jp"
-    },
-    {
-      "domain_suffix": ".ke"
-    },
-    {
-      "domain_suffix": ".kg"
-    },
-    {
-      "domain_suffix": ".kh"
-    },
-    {
-      "domain_suffix": ".ki"
-    },
-    {
-      "domain_suffix": ".km"
-    },
-    {
-      "domain_suffix": ".kn"
-    },
-    {
-      "domain_suffix": ".kp"
-    },
-    {
-      "domain_suffix": ".kr"
-    },
-    {
-      "domain_suffix": ".kw"
-    },
-    {
-      "domain_suffix": ".ky"
-    },
-    {
-      "domain_suffix": ".kz"
-    },
-    {
-      "domain_suffix": ".la"
-    },
-    {
-      "domain_suffix": ".lb"
-    },
-    {
-      "domain_suffix": ".lc"
-    },
-    {
-      "domain_suffix": ".li"
-    },
-    {
-      "domain_suffix": ".lk"
-    },
-    {
-      "domain_suffix": ".lr"
-    },
-    {
-      "domain_suffix": ".ls"
-    },
-    {
-      "domain_suffix": ".lt"
-    },
-    {
-      "domain_suffix": ".lu"
-    },
-    {
-      "domain_suffix": ".lv"
-    },
-    {
-      "domain_suffix": ".ly"
-    },
-    {
-      "domain_suffix": ".ma"
-    },
-    {
-      "domain_suffix": ".mc"
-    },
-    {
-      "domain_suffix": ".md"
-    },
-    {
-      "domain_suffix": ".mg"
-    },
-    {
-      "domain_suffix": ".mh"
-    },
-    {
-      "domain_suffix": ".mk"
-    },
-    {
-      "domain_suffix": ".ml"
-    },
-    {
-      "domain_suffix": ".mm"
-    },
-    {
-      "domain_suffix": ".mn"
-    },
-    {
-      "domain_suffix": ".mo"
-    },
-    {
-      "domain_suffix": ".mp"
-    },
-    {
-      "domain_suffix": ".mq"
-    },
-    {
-      "domain_suffix": ".mr"
-    },
-    {
-      "domain_suffix": ".ms"
-    },
-    {
-      "domain_suffix": ".mt"
-    },
-    {
-      "domain_suffix": ".mu"
-    },
-    {
-      "domain_suffix": ".mv"
-    },
-    {
-      "domain_suffix": ".mw"
-    },
-    {
-      "domain_suffix": ".mx"
-    },
-    {
-      "domain_suffix": ".my"
-    },
-    {
-      "domain_suffix": ".mz"
-    },
-    {
-      "domain_suffix": ".na"
-    },
-    {
-      "domain_suffix": ".nc"
-    },
-    {
-      "domain_suffix": ".ne"
-    },
-    {
-      "domain_suffix": ".nf"
-    },
-    {
-      "domain_suffix": ".ng"
-    },
-    {
-      "domain_suffix": ".ni"
-    },
-    {
-      "domain_suffix": ".nl"
-    },
-    {
-      "domain_suffix": ".no"
-    },
-    {
-      "domain_suffix": ".np"
-    },
-    {
-      "domain_suffix": ".nr"
-    },
-    {
-      "domain_suffix": ".nu"
-    },
-    {
-      "domain_suffix": ".nz"
-    },
-    {
-      "domain_suffix": ".om"
-    },
-    {
-      "domain_suffix": ".pa"
-    },
-    {
-      "domain_suffix": ".pe"
-    },
-    {
-      "domain_suffix": ".pf"
-    },
-    {
-      "domain_suffix": ".pg"
-    },
-    {
-      "domain_suffix": ".ph"
-    },
-    {
-      "domain_suffix": ".pk"
-    },
-    {
-      "domain_suffix": ".pl"
-    },
-    {
-      "domain_suffix": ".pm"
-    },
-    {
-      "domain_suffix": ".pn"
-    },
-    {
-      "domain_suffix": ".pr"
-    },
-    {
-      "domain_suffix": ".ps"
-    },
-    {
-      "domain_suffix": ".pt"
-    },
-    {
-      "domain_suffix": ".py"
-    },
-    {
-      "domain_suffix": ".qa"
-    },
-    {
-      "domain_suffix": ".re"
-    },
-    {
-      "domain_suffix": ".ro"
-    },
-    {
-      "domain_suffix": ".rs"
-    },
-    {
-      "domain_suffix": ".ru"
-    },
-    {
-      "domain_suffix": ".rw"
-    },
-    {
-      "domain_suffix": ".sa"
-    },
-    {
-      "domain_suffix": ".sb"
-    },
-    {
-      "domain_suffix": ".sc"
-    },
-    {
-      "domain_suffix": ".sd"
-    },
-    {
-      "domain_suffix": ".se"
-    },
-    {
-      "domain_suffix": ".sg"
-    },
-    {
-      "domain_suffix": ".sh"
-    },
-    {
-      "domain_suffix": ".si"
-    },
-    {
-      "domain_suffix": ".sj"
-    },
-    {
-      "domain_suffix": ".sk"
-    },
-    {
-      "domain_suffix": ".sl"
-    },
-    {
-      "domain_suffix": ".sm"
-    },
-    {
-      "domain_suffix": ".sn"
-    },
-    {
-      "domain_suffix": ".so"
-    },
-    {
-      "domain_suffix": ".sr"
-    },
-    {
-      "domain_suffix": ".ss"
-    },
-    {
-      "domain_suffix": ".st"
-    },
-    {
-      "domain_suffix": ".su"
-    },
-    {
-      "domain_suffix": ".sv"
-    },
-    {
-      "domain_suffix": ".sx"
-    },
-    {
-      "domain_suffix": ".sy"
-    },
-    {
-      "domain_suffix": ".sz"
-    },
-    {
-      "domain_suffix": ".tc"
-    },
-    {
-      "domain_suffix": ".td"
-    },
-    {
-      "domain_suffix": ".tf"
-    },
-    {
-      "domain_suffix": ".tg"
-    },
-    {
-      "domain_suffix": ".th"
-    },
-    {
-      "domain_suffix": ".tj"
-    },
-    {
-      "domain_suffix": ".tk"
-    },
-    {
-      "domain_suffix": ".tl"
-    },
-    {
-      "domain_suffix": ".tm"
-    },
-    {
-      "domain_suffix": ".tn"
-    },
-    {
-      "domain_suffix": ".to"
-    },
-    {
-      "domain_suffix": ".tr"
-    },
-    {
-      "domain_suffix": ".tt"
-    },
-    {
-      "domain_suffix": ".tw"
-    },
-    {
-      "domain_suffix": ".tz"
-    },
-    {
-      "domain_suffix": ".ua"
-    },
-    {
-      "domain_suffix": ".ug"
-    },
-    {
-      "domain_suffix": ".uk"
-    },
-    {
-      "domain_suffix": ".us"
-    },
-    {
-      "domain_suffix": ".uy"
-    },
-    {
-      "domain_suffix": ".uz"
-    },
-    {
-      "domain_suffix": ".va"
-    },
-    {
-      "domain_suffix": ".vc"
-    },
-    {
-      "domain_suffix": ".ve"
-    },
-    {
-      "domain_suffix": ".vg"
-    },
-    {
-      "domain_suffix": ".vi"
-    },
-    {
-      "domain_suffix": ".vn"
-    },
-    {
-      "domain_suffix": ".vu"
-    },
-    {
-      "domain_suffix": ".wf"
-    },
-    {
-      "domain_suffix": ".ws"
-    },
-    {
-      "domain_suffix": ".ye"
-    },
-    {
-      "domain_suffix": ".yt"
-    },
-    {
-      "domain_suffix": ".za"
-    },
-    {
-      "domain_suffix": ".zm"
-    },
-    {
-      "domain_suffix": ".zw"
-    },
-    {
-      "domain_suffix": ".afl"
-    },
-    {
-      "domain_suffix": ".mlb"
-    },
-    {
-      "domain_suffix": ".nba"
-    },
-    {
-      "domain_suffix": ".nfl"
-    },
-    {
-      "domain_suffix": ".nra"
-    },
-    {
-      "domain_suffix": ".crs"
-    },
-    {
-      "domain_suffix": ".dnp"
-    },
-    {
-      "domain_suffix": ".dvag"
-    },
-    {
-      "domain_suffix": ".erni"
-    },
-    {
-      "domain_suffix": ".ice"
-    },
-    {
-      "domain_suffix": ".locus"
-    },
-    {
-      "domain_suffix": ".mckinsey"
-    },
-    {
-      "domain_suffix": ".olayangroup"
-    },
-    {
-      "domain_suffix": ".olayan"
-    },
-    {
-      "domain_suffix": ".praxi"
-    },
-    {
-      "domain_suffix": ".sap"
-    },
-    {
-      "domain_suffix": ".seek"
-    },
-    {
-      "domain_suffix": ".wtc"
-    },
-    {
-      "domain_suffix": ".xerox"
-    },
-    {
-      "domain_suffix": ".athleta"
-    },
-    {
-      "domain_suffix": ".bloomberg"
-    },
-    {
-      "domain_suffix": ".calvinklein"
-    },
-    {
-      "domain_suffix": ".gap"
-    },
-    {
-      "domain_suffix": ".gucci"
-    },
-    {
-      "domain_suffix": ".hermes"
-    },
-    {
-      "domain_suffix": ".lancaster"
-    },
-    {
-      "domain_suffix": ".lipsy"
-    },
-    {
-      "domain_suffix": ".mango"
-    },
-    {
-      "domain_suffix": ".nextdirect"
-    },
-    {
-      "domain_suffix": ".next"
-    },
-    {
-      "domain_suffix": ".nike"
-    },
-    {
-      "domain_suffix": ".omega"
-    },
-    {
-      "domain_suffix": ".redstone"
-    },
-    {
-      "domain_suffix": ".swatch"
-    },
-    {
-      "domain_suffix": ".africa"
-    },
-    {
-      "domain_suffix": ".capetown"
-    },
-    {
-      "domain_suffix": ".durban"
-    },
-    {
-      "domain_suffix": ".joburg"
-    },
-    {
-      "domain_suffix": ".abudhabi"
-    },
-    {
-      "domain_suffix": ".arab"
-    },
-    {
-      "domain_suffix": ".dubai"
-    },
-    {
-      "domain_suffix": ".krd"
-    },
-    {
-      "domain_suffix": ".kyoto"
-    },
-    {
-      "domain_suffix": ".nagoya"
-    },
-    {
-      "domain_suffix": ".okinawa"
-    },
-    {
-      "domain_suffix": ".osaka"
-    },
-    {
-      "domain_suffix": ".ryukyu"
-    },
-    {
-      "domain_suffix": ".taipei"
-    },
-    {
-      "domain_suffix": ".tatar"
-    },
-    {
-      "domain_suffix": ".tokyo"
-    },
-    {
-      "domain_suffix": ".yokohama"
-    },
-    {
-      "domain_suffix": ".alsace"
-    },
-    {
-      "domain_suffix": ".amsterdam"
-    },
-    {
-      "domain_suffix": ".bar"
-    },
-    {
-      "domain_suffix": ".barcelona"
-    },
-    {
-      "domain_suffix": ".bayern"
-    },
-    {
-      "domain_suffix": ".bcn"
-    },
-    {
-      "domain_suffix": ".berlin"
-    },
-    {
-      "domain_suffix": ".brussels"
-    },
-    {
-      "domain_suffix": ".bzh"
-    },
-    {
-      "domain_suffix": ".cat"
-    },
-    {
-      "domain_suffix": ".corsica"
-    },
-    {
-      "domain_suffix": ".cymru"
-    },
-    {
-      "domain_suffix": ".eus"
-    },
-    {
-      "domain_suffix": ".frl"
-    },
-    {
-      "domain_suffix": ".gal"
-    },
-    {
-      "domain_suffix": ".gent"
-    },
-    {
-      "domain_suffix": ".hamburg"
-    },
-    {
-      "domain_suffix": ".helsinki"
-    },
-    {
-      "domain_suffix": ".irish"
-    },
-    {
-      "domain_suffix": ".ist"
-    },
-    {
-      "domain_suffix": ".istanbul"
-    },
-    {
-      "domain_suffix": ".koeln"
-    },
-    {
-      "domain_suffix": ".london"
-    },
-    {
-      "domain_suffix": ".madrid"
-    },
-    {
-      "domain_suffix": ".moscow"
-    },
-    {
-      "domain_suffix": ".nrw"
-    },
-    {
-      "domain_suffix": ".paris"
-    },
-    {
-      "domain_suffix": ".ruhr"
-    },
-    {
-      "domain_suffix": ".saarland"
-    },
-    {
-      "domain_suffix": ".scot"
-    },
-    {
-      "domain_suffix": ".stockholm"
-    },
-    {
-      "domain_suffix": ".swiss"
-    },
-    {
-      "domain_suffix": ".tirol"
-    },
-    {
-      "domain_suffix": ".vlaanderen"
-    },
-    {
-      "domain_suffix": ".wales"
-    },
-    {
-      "domain_suffix": ".wien"
-    },
-    {
-      "domain_suffix": ".zuerich"
-    },
-    {
-      "domain_suffix": ".boston"
-    },
-    {
-      "domain_suffix": ".miami"
-    },
-    {
-      "domain_suffix": ".nyc"
-    },
-    {
-      "domain_suffix": ".quebec"
-    },
-    {
-      "domain_suffix": ".vegas"
-    },
-    {
-      "domain_suffix": ".kiwi"
-    },
-    {
-      "domain_suffix": ".melbourne"
-    },
-    {
-      "domain_suffix": ".sydney"
-    },
-    {
-      "domain_suffix": ".lat"
-    },
-    {
-      "domain_suffix": ".rio"
-    },
-    {
-      "domain_suffix": ".aarp"
-    },
-    {
-      "domain_suffix": ".abbott"
-    },
-    {
-      "domain_suffix": ".abbvie"
-    },
-    {
-      "domain_suffix": ".aetna"
-    },
-    {
-      "domain_suffix": ".bms"
-    },
-    {
-      "domain_suffix": ".boehringer"
-    },
-    {
-      "domain_suffix": ".dabur"
-    },
-    {
-      "domain_suffix": ".fresenius"
-    },
-    {
-      "domain_suffix": ".jnj"
-    },
-    {
-      "domain_suffix": ".sanofi"
-    },
-    {
-      "domain_suffix": ".aeg"
-    },
-    {
-      "domain_suffix": ".airbus"
-    },
-    {
-      "domain_suffix": ".alstom"
-    },
-    {
-      "domain_suffix": ".aramco"
-    },
-    {
-      "domain_suffix": ".bosch"
-    },
-    {
-      "domain_suffix": ".bostik"
-    },
-    {
-      "domain_suffix": ".crown"
-    },
-    {
-      "domain_suffix": ".dupont"
-    },
-    {
-      "domain_suffix": ".flir"
-    },
-    {
-      "domain_suffix": ".grainger"
-    },
-    {
-      "domain_suffix": ".hitachi"
-    },
-    {
-      "domain_suffix": ".ifm"
-    },
-    {
-      "domain_suffix": ".ipiranga"
-    },
-    {
-      "domain_suffix": ".jio"
-    },
-    {
-      "domain_suffix": ".komatsu"
-    },
-    {
-      "domain_suffix": ".kuokgroup"
-    },
-    {
-      "domain_suffix": ".leclerc"
-    },
-    {
-      "domain_suffix": ".lidl"
-    },
-    {
-      "domain_suffix": ".lotte"
-    },
-    {
-      "domain_suffix": ".man"
-    },
-    {
-      "domain_suffix": ".mtr"
-    },
-    {
-      "domain_suffix": ".reliance"
-    },
-    {
-      "domain_suffix": ".rexroth"
-    },
-    {
-      "domain_suffix": ".ril"
-    },
-    {
-      "domain_suffix": ".rwe"
-    },
-    {
-      "domain_suffix": ".sandvikcoromant"
-    },
-    {
-      "domain_suffix": ".sandvik"
-    },
-    {
-      "domain_suffix": ".schaeffler"
-    },
-    {
-      "domain_suffix": ".schmidt"
-    },
-    {
-      "domain_suffix": ".schwarz"
-    },
-    {
-      "domain_suffix": ".sener"
-    },
-    {
-      "domain_suffix": ".sew"
-    },
-    {
-      "domain_suffix": ".sncf"
-    },
-    {
-      "domain_suffix": ".total"
-    },
-    {
-      "domain_suffix": ".walter"
-    },
-    {
-      "domain_suffix": ".weber"
-    },
-    {
-      "domain_suffix": ".weir"
-    },
-    {
-      "domain_suffix": ".woodside"
-    },
-    {
-      "domain_suffix": ".zara"
-    },
-    {
-      "domain_suffix": ".africamagic"
-    },
-    {
-      "domain_suffix": ".agakhan"
-    },
-    {
-      "domain_suffix": ".akdn"
-    },
-    {
-      "domain_suffix": ".bharti"
-    },
-    {
-      "domain_suffix": ".bingo"
-    },
-    {
-      "domain_suffix": ".casa"
-    },
-    {
-      "domain_suffix": ".casino"
-    },
-    {
-      "domain_suffix": ".dating"
-    },
-    {
-      "domain_suffix": ".domains"
-    },
-    {
-      "domain_suffix": ".extraspace"
-    },
-    {
-      "domain_suffix": ".gay"
-    },
-    {
-      "domain_suffix": ".genting"
-    },
-    {
-      "domain_suffix": ".hot"
-    },
-    {
-      "domain_suffix": ".ikano"
-    },
-    {
-      "domain_suffix": ".imamat"
-    },
-    {
-      "domain_suffix": ".lgbt"
-    },
-    {
-      "domain_suffix": ".maif"
-    },
-    {
-      "domain_suffix": ".mattel"
-    },
-    {
-      "domain_suffix": ".moe"
-    },
-    {
-      "domain_suffix": ".sas"
-    },
-    {
-      "domain_suffix": ".shell"
-    },
-    {
-      "domain_suffix": ".shia"
-    },
-    {
-      "domain_suffix": ".style"
-    },
-    {
-      "domain_suffix": ".sucks"
-    },
-    {
-      "domain_suffix": ".tattoo"
-    },
-    {
-      "domain_suffix": ".vana"
-    },
-    {
-      "domain_suffix": ".virgin"
-    },
-    {
-      "domain_suffix": ".vodka"
-    },
-    {
-      "domain_suffix": ".wine"
-    },
-    {
-      "domain_suffix": ".wme"
-    },
-    {
-      "domain_suffix": ".wtf"
-    },
-    {
-      "domain_suffix": ".bible"
-    },
-    {
-      "domain_suffix": ".catholic"
-    },
-    {
-      "domain_suffix": ".ismaili"
-    },
-    {
-      "domain_suffix": ".xn--mgbi4ecexp"
-    },
-    {
-      "domain_suffix": ".cern"
-    },
-    {
-      "domain_suffix": ".emerck"
-    },
-    {
-      "domain_suffix": ".hisamitsu"
-    },
-    {
-      "domain_suffix": ".lilly"
-    },
-    {
-      "domain_suffix": ".lundbeck"
-    },
-    {
-      "domain_suffix": ".merckmsd"
-    },
-    {
-      "domain_suffix": ".msd"
-    },
-    {
-      "domain_suffix": ".otsuka"
-    },
-    {
-      "domain_suffix": ".pfizer"
-    },
-    {
-      "domain_suffix": ".stada"
-    },
-    {
-      "domain_suffix": ".teva"
-    },
-    {
-      "domain_suffix": ".toray"
-    },
-    {
-      "domain_suffix": ".weather"
-    },
-    {
-      "domain_suffix": ".adult"
-    },
-    {
-      "domain_suffix": ".porn"
-    },
-    {
-      "domain_suffix": ".sex"
-    },
-    {
-      "domain_suffix": ".sexy"
-    },
-    {
-      "domain_suffix": ".xxx"
-    },
-    {
-      "domain_suffix": ".auspost"
-    },
-    {
-      "domain_suffix": ".dhl"
-    },
-    {
-      "domain_suffix": ".fedex"
-    },
-    {
-      "domain_suffix": ".xn--lgbbat1ad8j"
-    },
-    {
-      "domain_suffix": ".xn--y9a3aq"
-    },
-    {
-      "domain_suffix": ".xn--mgbcpq6gpa1a"
-    },
-    {
-      "domain_suffix": ".xn--54b7fta0cc"
-    },
-    {
-      "domain_suffix": ".xn--90ais"
-    },
-    {
-      "domain_suffix": ".xn--90ae"
-    },
-    {
-      "domain_suffix": ".xn--wgbh1c"
-    },
-    {
-      "domain_suffix": ".xn--e1a4c"
-    },
-    {
-      "domain_suffix": ".xn--qxa6a"
-    },
-    {
-      "domain_suffix": ".xn--node"
-    },
-    {
-      "domain_suffix": ".xn--qxam"
-    },
-    {
-      "domain_suffix": ".xn--4dbrk0ce"
-    },
-    {
-      "domain_suffix": ".xn--h2brj9c"
-    },
-    {
-      "domain_suffix": ".xn--mgbbh1a71e"
-    },
-    {
-      "domain_suffix": ".xn--fpcrj9c3d"
-    },
-    {
-      "domain_suffix": ".xn--gecrj9c"
-    },
-    {
-      "domain_suffix": ".xn--s9brj9c"
-    },
-    {
-      "domain_suffix": ".xn--45brj9c"
-    },
-    {
-      "domain_suffix": ".xn--xkc2dl3a5ee0h"
-    },
-    {
-      "domain_suffix": ".xn--2scrj9c"
-    },
-    {
-      "domain_suffix": ".xn--rvc1e0am3e"
-    },
-    {
-      "domain_suffix": ".xn--45br5cyl"
-    },
-    {
-      "domain_suffix": ".xn--3hcrj9c"
-    },
-    {
-      "domain_suffix": ".xn--mgbbh1a"
-    },
-    {
-      "domain_suffix": ".xn--h2breg3eve"
-    },
-    {
-      "domain_suffix": ".xn--h2brj9c8c"
-    },
-    {
-      "domain_suffix": ".xn--mgbgu82a"
-    },
-    {
-      "domain_suffix": ".xn--mgba3a4f16a"
-    },
-    {
-      "domain_suffix": ".xn--mgba3a4fra"
-    },
-    {
-      "domain_suffix": ".xn--mgbtx2b"
-    },
-    {
-      "domain_suffix": ".xn--mgbayh7gpa"
-    },
-    {
-      "domain_suffix": ".xn--80ao21a"
-    },
-    {
-      "domain_suffix": ".xn--3e0b707e"
-    },
-    {
-      "domain_suffix": ".xn--q7ce6a"
-    },
-    {
-      "domain_suffix": ".xn--mix891f"
-    },
-    {
-      "domain_suffix": ".xn--mix082f"
-    },
-    {
-      "domain_suffix": ".xn--d1alf"
-    },
-    {
-      "domain_suffix": ".xn--mgbx4cd0ab"
-    },
-    {
-      "domain_suffix": ".xn--mgbah1a3hjkrd"
-    },
-    {
-      "domain_suffix": ".xn--l1acc"
-    },
-    {
-      "domain_suffix": ".xn--mgbc0a9azcg"
-    },
-    {
-      "domain_suffix": ".xn--mgb9awbf"
-    },
-    {
-      "domain_suffix": ".xn--mgbai9azgqp6j"
-    },
-    {
-      "domain_suffix": ".xn--mgbai9a5eva00b"
-    },
-    {
-      "domain_suffix": ".xn--ygbi2ammx"
-    },
-    {
-      "domain_suffix": ".xn--wgbl6a"
-    },
-    {
-      "domain_suffix": ".xn--p1ai"
-    },
-    {
-      "domain_suffix": ".xn--mgberp4a5d4ar"
-    },
-    {
-      "domain_suffix": ".xn--mgberp4a5d4a87g"
-    },
-    {
-      "domain_suffix": ".xn--mgbqly7c0a67fbc"
-    },
-    {
-      "domain_suffix": ".xn--mgbqly7cvafr"
-    },
-    {
-      "domain_suffix": ".xn--90a3ac"
-    },
-    {
-      "domain_suffix": ".xn--yfro4i67o"
-    },
-    {
-      "domain_suffix": ".xn--fzc2c9e2c"
-    },
-    {
-      "domain_suffix": ".xn--mgbpl2fh"
-    },
-    {
-      "domain_suffix": ".xn--ogbpf8fl"
-    },
-    {
-      "domain_suffix": ".xn--mgbtf8fl"
-    },
-    {
-      "domain_suffix": ".xn--kpry57d"
-    },
-    {
-      "domain_suffix": ".xn--kprw13d"
-    },
-    {
-      "domain_suffix": ".xn--nnx388a"
-    },
-    {
-      "domain_suffix": ".xn--o3cw4h"
-    },
-    {
-      "domain_suffix": ".xn--pgbs0dh"
-    },
-    {
-      "domain_suffix": ".xn--j1amh"
-    },
-    {
-      "domain_suffix": ".xn--mgbaam7a8h"
-    },
-    {
-      "domain_suffix": ".xn--mgb2ddes"
-    },
-    {
-      "domain_suffix": ".aaa"
-    },
-    {
-      "domain_suffix": ".audi"
-    },
-    {
-      "domain_suffix": ".bentley"
-    },
-    {
-      "domain_suffix": ".bmw"
-    },
-    {
-      "domain_suffix": ".bridgestone"
-    },
-    {
-      "domain_suffix": ".case"
-    },
-    {
-      "domain_suffix": ".datsun"
-    },
-    {
-      "domain_suffix": ".dunlop"
-    },
-    {
-      "domain_suffix": ".ferrari"
-    },
-    {
-      "domain_suffix": ".firestone"
-    },
-    {
-      "domain_suffix": ".ford"
-    },
-    {
-      "domain_suffix": ".goodyear"
-    },
-    {
-      "domain_suffix": ".honda"
-    },
-    {
-      "domain_suffix": ".hyundai"
-    },
-    {
-      "domain_suffix": ".infiniti"
-    },
-    {
-      "domain_suffix": ".jaguar"
-    },
-    {
-      "domain_suffix": ".jeep"
-    },
-    {
-      "domain_suffix": ".kia"
-    },
-    {
-      "domain_suffix": ".lamborghini"
-    },
-    {
-      "domain_suffix": ".landrover"
-    },
-    {
-      "domain_suffix": ".lexus"
-    },
-    {
-      "domain_suffix": ".lincoln"
-    },
-    {
-      "domain_suffix": ".mini"
-    },
-    {
-      "domain_suffix": ".mitsubishi"
-    },
-    {
-      "domain_suffix": ".nissan"
-    },
-    {
-      "domain_suffix": ".seat"
-    },
-    {
-      "domain_suffix": ".suzuki"
-    },
-    {
-      "domain_suffix": ".tatamotors"
-    },
-    {
-      "domain_suffix": ".toyota"
-    },
-    {
-      "domain_suffix": ".tvs"
-    },
-    {
-      "domain_suffix": ".volvo"
-    },
-    {
-      "domain_suffix": ".android"
-    },
-    {
-      "domain_suffix": ".apple"
-    },
-    {
-      "domain_suffix": ".bestbuy"
-    },
-    {
-      "domain_suffix": ".brother"
-    },
-    {
-      "domain_suffix": ".canon"
-    },
-    {
-      "domain_suffix": ".dell"
-    },
-    {
-      "domain_suffix": ".fujitsu"
-    },
-    {
-      "domain_suffix": ".goldpoint"
-    },
-    {
-      "domain_suffix": ".ibm"
-    },
-    {
-      "domain_suffix": ".nikon"
-    },
-    {
-      "domain_suffix": ".nokia"
-    },
-    {
-      "domain_suffix": ".panasonic"
-    },
-    {
-      "domain_suffix": ".philips"
-    },
-    {
-      "domain_suffix": ".pioneer"
-    },
-    {
-      "domain_suffix": ".samsung"
-    },
-    {
-      "domain_suffix": ".sharp"
-    },
-    {
-      "domain_suffix": ".sony"
-    },
-    {
-      "domain_suffix": ".toshiba"
-    },
-    {
-      "domain_suffix": ".yodobashi"
-    },
-    {
-      "domain_suffix": ".allfinanz"
-    },
-    {
-      "domain_suffix": ".ally"
-    },
-    {
-      "domain_suffix": ".americanexpress"
-    },
-    {
-      "domain_suffix": ".amex"
-    },
-    {
-      "domain_suffix": ".anz"
-    },
-    {
-      "domain_suffix": ".banamex"
-    },
-    {
-      "domain_suffix": ".barclaycard"
-    },
-    {
-      "domain_suffix": ".barclays"
-    },
-    {
-      "domain_suffix": ".bbt"
-    },
-    {
-      "domain_suffix": ".bbva"
-    },
-    {
-      "domain_suffix": ".bnpparibas"
-    },
-    {
-      "domain_suffix": ".bofa"
-    },
-    {
-      "domain_suffix": ".bradesco"
-    },
-    {
-      "domain_suffix": ".capitalone"
-    },
-    {
-      "domain_suffix": ".cba"
-    },
-    {
-      "domain_suffix": ".cfa"
-    },
-    {
-      "domain_suffix": ".citadel"
-    },
-    {
-      "domain_suffix": ".citi"
-    },
-    {
-      "domain_suffix": ".commbank"
-    },
-    {
-      "domain_suffix": ".deloitte"
-    },
-    {
-      "domain_suffix": ".discover"
-    },
-    {
-      "domain_suffix": ".fidelity"
-    },
-    {
-      "domain_suffix": ".hdfcbank"
-    },
-    {
-      "domain_suffix": ".hdfc"
-    },
-    {
-      "domain_suffix": ".hsbc"
-    },
-    {
-      "domain_suffix": ".itau"
-    },
-    {
-      "domain_suffix": ".jcb"
-    },
-    {
-      "domain_suffix": ".jll"
-    },
-    {
-      "domain_suffix": ".kfh"
-    },
-    {
-      "domain_suffix": ".kpmg"
-    },
-    {
-      "domain_suffix": ".lacaixa"
-    },
-    {
-      "domain_suffix": ".lasalle"
-    },
-    {
-      "domain_suffix": ".lplfinancial"
-    },
-    {
-      "domain_suffix": ".lpl"
-    },
-    {
-      "domain_suffix": ".nab"
-    },
-    {
-      "domain_suffix": ".netbank"
-    },
-    {
-      "domain_suffix": ".open"
-    },
-    {
-      "domain_suffix": ".pictet"
-    },
-    {
-      "domain_suffix": ".pnc"
-    },
-    {
-      "domain_suffix": ".pohl"
-    },
-    {
-      "domain_suffix": ".pramerica"
-    },
-    {
-      "domain_suffix": ".prudential"
-    },
-    {
-      "domain_suffix": ".pru"
-    },
-    {
-      "domain_suffix": ".pwc"
-    },
-    {
-      "domain_suffix": ".sbi"
-    },
-    {
-      "domain_suffix": ".scb"
-    },
-    {
-      "domain_suffix": ".softbank"
-    },
-    {
-      "domain_suffix": ".statebank"
-    },
-    {
-      "domain_suffix": ".temasek"
-    },
-    {
-      "domain_suffix": ".ubank"
-    },
-    {
-      "domain_suffix": ".ubs"
-    },
-    {
-      "domain_suffix": ".vanguard"
-    },
-    {
-      "domain_suffix": ".visa"
-    },
-    {
-      "domain_suffix": ".wolterskluwer"
-    },
-    {
-      "domain_suffix": ".aquarelle"
-    },
-    {
-      "domain_suffix": ".diy"
-    },
-    {
-      "domain_suffix": ".homedepot"
-    },
-    {
-      "domain_suffix": ".homegoods"
-    },
-    {
-      "domain_suffix": ".aig"
-    },
-    {
-      "domain_suffix": ".allstate"
-    },
-    {
-      "domain_suffix": ".americanfamily"
-    },
-    {
-      "domain_suffix": ".amfam"
-    },
-    {
-      "domain_suffix": ".amica"
-    },
-    {
-      "domain_suffix": ".axa"
-    },
-    {
-      "domain_suffix": ".farmers"
-    },
-    {
-      "domain_suffix": ".mma"
-    },
-    {
-      "domain_suffix": ".nissay"
-    },
-    {
-      "domain_suffix": ".progressive"
-    },
-    {
-      "domain_suffix": ".redumbrella"
-    },
-    {
-      "domain_suffix": ".statefarm"
-    },
-    {
-      "domain_suffix": ".tiaa"
-    },
-    {
-      "domain_suffix": ".travelersinsurance"
-    },
-    {
-      "domain_suffix": ".travelers"
-    },
-    {
-      "domain_suffix": ".trv"
-    },
-    {
-      "domain_suffix": ".vig"
-    },
-    {
-      "domain_suffix": ".beats"
-    },
-    {
-      "domain_suffix": ".blockbuster"
-    },
-    {
-      "domain_suffix": ".netflix"
-    },
-    {
-      "domain_suffix": ".playstation"
-    },
-    {
-      "domain_suffix": ".tab"
-    },
-    {
-      "domain_suffix": ".williamhill"
-    },
-    {
-      "domain_suffix": ".xbox"
-    },
-    {
-      "domain_suffix": ".asda"
-    },
-    {
-      "domain_suffix": ".george"
-    },
-    {
-      "domain_suffix": ".homesense"
-    },
-    {
-      "domain_suffix": ".lego"
-    },
-    {
-      "domain_suffix": ".marshalls"
-    },
-    {
-      "domain_suffix": ".obi"
-    },
-    {
-      "domain_suffix": ".samsclub"
-    },
-    {
-      "domain_suffix": ".staples"
-    },
-    {
-      "domain_suffix": ".target"
-    },
-    {
-      "domain_suffix": ".thd"
-    },
-    {
-      "domain_suffix": ".tjmaxx"
-    },
-    {
-      "domain_suffix": ".tjx"
-    },
-    {
-      "domain_suffix": ".tkmaxx"
-    },
-    {
-      "domain_suffix": ".walmart"
-    },
-    {
-      "domain_suffix": ".abb"
-    },
-    {
-      "domain_suffix": ".accenture"
-    },
-    {
-      "domain_suffix": ".aco"
-    },
-    {
-      "domain_suffix": ".airtel"
-    },
-    {
-      "domain_suffix": ".amazon"
-    },
-    {
-      "domain_suffix": ".aol"
-    },
-    {
-      "domain_suffix": ".aws"
-    },
-    {
-      "domain_suffix": ".azure"
-    },
-    {
-      "domain_suffix": ".chrome"
-    },
-    {
-      "domain_suffix": ".cisco"
-    },
-    {
-      "domain_suffix": ".dclk"
-    },
-    {
-      "domain_suffix": ".dish"
-    },
-    {
-      "domain_suffix": ".dtv"
-    },
-    {
-      "domain_suffix": ".epson"
-    },
-    {
-      "domain_suffix": ".ericsson"
-    },
-    {
-      "domain_suffix": ".fairwinds"
-    },
-    {
-      "domain_suffix": ".fido"
-    },
-    {
-      "domain_suffix": ".flickr"
-    },
-    {
-      "domain_suffix": ".frogans"
-    },
-    {
-      "domain_suffix": ".frontier"
-    },
-    {
-      "domain_suffix": ".ftr"
-    },
-    {
-      "domain_suffix": ".gbiz"
-    },
-    {
-      "domain_suffix": ".gea"
-    },
-    {
-      "domain_suffix": ".ggee"
-    },
-    {
-      "domain_suffix": ".gle"
-    },
-    {
-      "domain_suffix": ".gmail"
-    },
-    {
-      "domain_suffix": ".gmo"
-    },
-    {
-      "domain_suffix": ".gmx"
-    },
-    {
-      "domain_suffix": ".godaddy"
-    },
-    {
-      "domain_suffix": ".goog"
-    },
-    {
-      "domain_suffix": ".google"
-    },
-    {
-      "domain_suffix": ".goo"
-    },
-    {
-      "domain_suffix": ".guge"
-    },
-    {
-      "domain_suffix": ".hangout"
-    },
-    {
-      "domain_suffix": ".hkt"
-    },
-    {
-      "domain_suffix": ".hotmail"
-    },
-    {
-      "domain_suffix": ".hughes"
-    },
-    {
-      "domain_suffix": ".ieee"
-    },
-    {
-      "domain_suffix": ".intuit"
-    },
-    {
-      "domain_suffix": ".java"
-    },
-    {
-      "domain_suffix": ".jmp"
-    },
-    {
-      "domain_suffix": ".jprs"
-    },
-    {
-      "domain_suffix": ".juniper"
-    },
-    {
-      "domain_suffix": ".kddi"
-    },
-    {
-      "domain_suffix": ".kindle"
-    },
-    {
-      "domain_suffix": ".kpn"
-    },
-    {
-      "domain_suffix": ".lanxess"
-    },
-    {
-      "domain_suffix": ".locker"
-    },
-    {
-      "domain_suffix": ".microsoft"
-    },
-    {
-      "domain_suffix": ".mint"
-    },
-    {
-      "domain_suffix": ".mit"
-    },
-    {
-      "domain_suffix": ".mtn"
-    },
-    {
-      "domain_suffix": ".nec"
-    },
-    {
-      "domain_suffix": ".neustar"
-    },
-    {
-      "domain_suffix": ".nexus"
-    },
-    {
-      "domain_suffix": ".nico"
-    },
-    {
-      "domain_suffix": ".norton"
-    },
-    {
-      "domain_suffix": ".ntt"
-    },
-    {
-      "domain_suffix": ".office"
-    },
-    {
-      "domain_suffix": ".ollo"
-    },
-    {
-      "domain_suffix": ".oracle"
-    },
-    {
-      "domain_suffix": ".orange"
-    },
-    {
-      "domain_suffix": ".ovh"
-    },
-    {
-      "domain_suffix": ".pccw"
-    },
-    {
-      "domain_suffix": ".richardli"
-    },
-    {
-      "domain_suffix": ".ricoh"
-    },
-    {
-      "domain_suffix": ".rogers"
-    },
-    {
-      "domain_suffix": ".sakura"
-    },
-    {
-      "domain_suffix": ".sfr"
-    },
-    {
-      "domain_suffix": ".shaw"
-    },
-    {
-      "domain_suffix": ".skype"
-    },
-    {
-      "domain_suffix": ".sling"
-    },
-    {
-      "domain_suffix": ".smart"
-    },
-    {
-      "domain_suffix": ".stcgroup"
-    },
-    {
-      "domain_suffix": ".stc"
-    },
-    {
-      "domain_suffix": ".tci"
-    },
-    {
-      "domain_suffix": ".tdk"
-    },
-    {
-      "domain_suffix": ".uol"
-    },
-    {
-      "domain_suffix": ".verisign"
-    },
-    {
-      "domain_suffix": ".viva"
-    },
-    {
-      "domain_suffix": ".vivo"
-    },
-    {
-      "domain_suffix": ".windows"
-    },
-    {
-      "domain_suffix": ".yahoo"
-    },
-    {
-      "domain_suffix": ".yamaxun"
-    },
-    {
-      "domain_suffix": ".yandex"
-    },
-    {
-      "domain_suffix": ".youtube"
-    },
-    {
-      "domain_suffix": ".zappos"
-    },
-    {
-      "domain_suffix": ".chanel"
-    },
-    {
-      "domain_suffix": ".clinique"
-    },
-    {
-      "domain_suffix": ".lamer"
-    },
-    {
-      "domain_suffix": ".natura"
-    },
-    {
-      "domain_suffix": ".origins"
-    },
-    {
-      "domain_suffix": ".barefoot"
-    },
-    {
-      "domain_suffix": ".cuisinella"
-    },
-    {
-      "domain_suffix": ".edeka"
-    },
-    {
-      "domain_suffix": ".fage"
-    },
-    {
-      "domain_suffix": ".ferrero"
-    },
-    {
-      "domain_suffix": ".food"
-    },
-    {
-      "domain_suffix": ".gallo"
-    },
-    {
-      "domain_suffix": ".xn--5su34j936bgsg"
-    },
-    {
-      "domain_suffix": ".xn--b4w605ferd"
-    },
-    {
-      "domain_suffix": ".xn--cckwcxetd"
-    },
-    {
-      "domain_suffix": ".xn--cg4bki"
-    },
-    {
-      "domain_suffix": ".xn--flw351e"
-    },
-    {
-      "domain_suffix": ".xn--fzys8d69uvgm"
-    },
-    {
-      "domain_suffix": ".xn--jlq480n2rg"
-    },
-    {
-      "domain_suffix": ".xn--kcrx77d1x4a"
-    },
-    {
-      "domain_suffix": ".xn--mgba3a3ejt"
-    },
-    {
-      "domain_suffix": ".xn--mgba7c0bbn0a"
-    },
-    {
-      "domain_suffix": ".xn--ngbe9e0a"
-    },
-    {
-      "domain_suffix": ".xn--qcka1pmc"
-    },
-    {
-      "domain_suffix": ".xn--w4r85el8fhu5dnra"
-    },
-    {
-      "domain_suffix": ".xn--w4rs40l"
-    },
-    {
-      "domain_suffix": ".caravan"
-    },
-    {
-      "domain_suffix": ".cipriani"
-    },
-    {
-      "domain_suffix": ".clubmed"
-    },
-    {
-      "domain_suffix": ".delta"
-    },
-    {
-      "domain_suffix": ".firmdale"
-    },
-    {
-      "domain_suffix": ".hyatt"
-    },
-    {
-      "domain_suffix": ".kerryhotels"
-    },
-    {
-      "domain_suffix": ".kerryproperties"
-    },
-    {
-      "domain_suffix": ".marriott"
-    },
-    {
-      "domain_suffix": ".shangrila"
-    },
-    {
-      "domain_suffix": ".tui"
-    },
-    {
-      "domain_suffix": ".viking"
-    },
-    {
-      "domain_suffix": ".able"
-    },
-    {
-      "domain_suffix": ".cbre"
-    },
-    {
-      "domain_suffix": ".chintai"
-    },
-    {
-      "domain_suffix": ".lefrak"
-    },
-    {
-      "domain_suffix": ".abc"
-    },
-    {
-      "domain_suffix": ".arte"
-    },
-    {
-      "domain_suffix": ".bbc"
-    },
-    {
-      "domain_suffix": ".cbn"
-    },
-    {
-      "domain_suffix": ".eurovision"
-    },
-    {
-      "domain_suffix": ".fox"
-    },
-    {
-      "domain_suffix": ".gallup"
-    },
-    {
-      "domain_suffix": ".globo"
-    },
-    {
-      "domain_suffix": ".hbo"
-    },
-    {
-      "domain_suffix": ".imdb"
-    },
-    {
-      "domain_suffix": ".itv"
-    },
-    {
-      "domain_suffix": ".nhk"
-    },
-    {
-      "domain_suffix": ".nowtv"
-    },
-    {
-      "domain_suffix": ".sbs"
-    },
-    {
-      "domain_suffix": ".seven"
-    },
-    {
-      "domain_suffix": ".sky"
-    },
-    {
-      "domain_suffix": ".weatherchannel"
-    },
-    {
-      "domain_suffix": ".bauhaus"
-    },
-    {
-      "domain_suffix": ".latrobe"
-    },
-    {
-      "domain_suffix": ".monash"
-    },
-    {
-      "domain_suffix": ".meme"
-    },
-    {
-      "domain_suffix": ".ing"
-    },
-    {
-      "domain_suffix": ".foo"
-    },
-    {
-      "domain_suffix": ".zip"
-    },
-    {
-      "domain_suffix": ".mov"
-    },
-    {
-      "domain_suffix": ".dad"
-    },
-    {
-      "domain_suffix": ".phd"
-    },
-    {
-      "domain_suffix": ".prof"
-    },
-    {
-      "domain_suffix": ".esq"
-    },
-    {
-      "domain_suffix": ".rsvp"
-    },
-    {
-      "domain_suffix": ".boo"
-    },
-    {
-      "domain_suffix": ".day"
-    },
-    {
-      "domain_suffix": ".new"
-    },
-    {
-      "domain_suffix": ".dev"
-    },
-    {
-      "domain_suffix": ".page"
-    },
-    {
-      "domain_suffix": ".app"
-    },
-    {
-      "domain_suffix": ".how"
-    },
-    {
-      "domain_suffix": ".soy"
-    },
-    {
-      "domain_suffix": ".xn--q9jyb4c"
+      "domain_suffix": [
+        ".gov",
+        ".mil",
+        ".edu",
+        ".ac",
+        ".ad",
+        ".ae",
+        ".af",
+        ".ag",
+        ".ai",
+        ".al",
+        ".am",
+        ".ao",
+        ".aq",
+        ".ar",
+        ".as",
+        ".at",
+        ".au",
+        ".aw",
+        ".ax",
+        ".az",
+        ".ba",
+        ".bb",
+        ".bd",
+        ".be",
+        ".bf",
+        ".bg",
+        ".bh",
+        ".bi",
+        ".bj",
+        ".bm",
+        ".bn",
+        ".bo",
+        ".br",
+        ".bs",
+        ".bt",
+        ".bv",
+        ".bw",
+        ".by",
+        ".bz",
+        ".ca",
+        ".cd",
+        ".cf",
+        ".cg",
+        ".ch",
+        ".ci",
+        ".ck",
+        ".cl",
+        ".cm",
+        ".cr",
+        ".cu",
+        ".cv",
+        ".cw",
+        ".cx",
+        ".cy",
+        ".cz",
+        ".de",
+        ".dj",
+        ".dk",
+        ".dm",
+        ".do",
+        ".dz",
+        ".ec",
+        ".ee",
+        ".eg",
+        ".er",
+        ".es",
+        ".et",
+        ".eu",
+        ".fi",
+        ".fj",
+        ".fk",
+        ".fm",
+        ".fo",
+        ".fr",
+        ".ga",
+        ".gb",
+        ".gd",
+        ".ge",
+        ".gf",
+        ".gg",
+        ".gh",
+        ".gi",
+        ".gl",
+        ".gm",
+        ".gn",
+        ".gp",
+        ".gr",
+        ".gs",
+        ".gt",
+        ".gu",
+        ".gw",
+        ".gy",
+        ".hm",
+        ".hn",
+        ".hr",
+        ".ht",
+        ".hu",
+        ".id",
+        ".ie",
+        ".il",
+        ".im",
+        ".in",
+        ".io",
+        ".iq",
+        ".ir",
+        ".is",
+        ".it",
+        ".je",
+        ".jm",
+        ".jo",
+        ".jp",
+        ".ke",
+        ".kg",
+        ".kh",
+        ".ki",
+        ".km",
+        ".kn",
+        ".kp",
+        ".kr",
+        ".kw",
+        ".ky",
+        ".kz",
+        ".la",
+        ".lb",
+        ".lc",
+        ".li",
+        ".lk",
+        ".lr",
+        ".ls",
+        ".lt",
+        ".lu",
+        ".lv",
+        ".ly",
+        ".ma",
+        ".mc",
+        ".md",
+        ".mg",
+        ".mh",
+        ".mk",
+        ".ml",
+        ".mm",
+        ".mn",
+        ".mo",
+        ".mp",
+        ".mq",
+        ".mr",
+        ".ms",
+        ".mt",
+        ".mu",
+        ".mv",
+        ".mw",
+        ".mx",
+        ".my",
+        ".mz",
+        ".na",
+        ".nc",
+        ".ne",
+        ".nf",
+        ".ng",
+        ".ni",
+        ".nl",
+        ".no",
+        ".np",
+        ".nr",
+        ".nu",
+        ".nz",
+        ".om",
+        ".pa",
+        ".pe",
+        ".pf",
+        ".pg",
+        ".ph",
+        ".pk",
+        ".pl",
+        ".pm",
+        ".pn",
+        ".pr",
+        ".ps",
+        ".pt",
+        ".py",
+        ".qa",
+        ".re",
+        ".ro",
+        ".rs",
+        ".ru",
+        ".rw",
+        ".sa",
+        ".sb",
+        ".sc",
+        ".sd",
+        ".se",
+        ".sg",
+        ".sh",
+        ".si",
+        ".sj",
+        ".sk",
+        ".sl",
+        ".sm",
+        ".sn",
+        ".so",
+        ".sr",
+        ".ss",
+        ".st",
+        ".su",
+        ".sv",
+        ".sx",
+        ".sy",
+        ".sz",
+        ".tc",
+        ".td",
+        ".tf",
+        ".tg",
+        ".th",
+        ".tj",
+        ".tk",
+        ".tl",
+        ".tm",
+        ".tn",
+        ".to",
+        ".tr",
+        ".tt",
+        ".tw",
+        ".tz",
+        ".ua",
+        ".ug",
+        ".uk",
+        ".us",
+        ".uy",
+        ".uz",
+        ".va",
+        ".vc",
+        ".ve",
+        ".vg",
+        ".vi",
+        ".vn",
+        ".vu",
+        ".wf",
+        ".ws",
+        ".ye",
+        ".yt",
+        ".za",
+        ".zm",
+        ".zw",
+        ".afl",
+        ".mlb",
+        ".nba",
+        ".nfl",
+        ".nra",
+        ".crs",
+        ".dnp",
+        ".dvag",
+        ".erni",
+        ".ice",
+        ".locus",
+        ".mckinsey",
+        ".olayangroup",
+        ".olayan",
+        ".praxi",
+        ".sap",
+        ".seek",
+        ".wtc",
+        ".xerox",
+        ".athleta",
+        ".bloomberg",
+        ".calvinklein",
+        ".gap",
+        ".gucci",
+        ".hermes",
+        ".lancaster",
+        ".lipsy",
+        ".mango",
+        ".nextdirect",
+        ".next",
+        ".nike",
+        ".omega",
+        ".redstone",
+        ".swatch",
+        ".africa",
+        ".capetown",
+        ".durban",
+        ".joburg",
+        ".abudhabi",
+        ".arab",
+        ".dubai",
+        ".krd",
+        ".kyoto",
+        ".nagoya",
+        ".okinawa",
+        ".osaka",
+        ".ryukyu",
+        ".taipei",
+        ".tatar",
+        ".tokyo",
+        ".yokohama",
+        ".alsace",
+        ".amsterdam",
+        ".bar",
+        ".barcelona",
+        ".bayern",
+        ".bcn",
+        ".berlin",
+        ".brussels",
+        ".bzh",
+        ".cat",
+        ".corsica",
+        ".cymru",
+        ".eus",
+        ".frl",
+        ".gal",
+        ".gent",
+        ".hamburg",
+        ".helsinki",
+        ".irish",
+        ".ist",
+        ".istanbul",
+        ".koeln",
+        ".london",
+        ".madrid",
+        ".moscow",
+        ".nrw",
+        ".paris",
+        ".ruhr",
+        ".saarland",
+        ".scot",
+        ".stockholm",
+        ".swiss",
+        ".tirol",
+        ".vlaanderen",
+        ".wales",
+        ".wien",
+        ".zuerich",
+        ".boston",
+        ".miami",
+        ".nyc",
+        ".quebec",
+        ".vegas",
+        ".kiwi",
+        ".melbourne",
+        ".sydney",
+        ".lat",
+        ".rio",
+        ".aarp",
+        ".abbott",
+        ".abbvie",
+        ".aetna",
+        ".bms",
+        ".boehringer",
+        ".dabur",
+        ".fresenius",
+        ".jnj",
+        ".sanofi",
+        ".aeg",
+        ".airbus",
+        ".alstom",
+        ".aramco",
+        ".bosch",
+        ".bostik",
+        ".crown",
+        ".dupont",
+        ".flir",
+        ".grainger",
+        ".hitachi",
+        ".ifm",
+        ".ipiranga",
+        ".jio",
+        ".komatsu",
+        ".kuokgroup",
+        ".leclerc",
+        ".lidl",
+        ".lotte",
+        ".man",
+        ".mtr",
+        ".reliance",
+        ".rexroth",
+        ".ril",
+        ".rwe",
+        ".sandvikcoromant",
+        ".sandvik",
+        ".schaeffler",
+        ".schmidt",
+        ".schwarz",
+        ".sener",
+        ".sew",
+        ".sncf",
+        ".total",
+        ".walter",
+        ".weber",
+        ".weir",
+        ".woodside",
+        ".zara",
+        ".africamagic",
+        ".agakhan",
+        ".akdn",
+        ".bharti",
+        ".bingo",
+        ".casa",
+        ".casino",
+        ".dating",
+        ".domains",
+        ".extraspace",
+        ".gay",
+        ".genting",
+        ".hot",
+        ".ikano",
+        ".imamat",
+        ".lgbt",
+        ".maif",
+        ".mattel",
+        ".moe",
+        ".sas",
+        ".shell",
+        ".shia",
+        ".style",
+        ".sucks",
+        ".tattoo",
+        ".vana",
+        ".virgin",
+        ".vodka",
+        ".wine",
+        ".wme",
+        ".wtf",
+        ".bible",
+        ".catholic",
+        ".ismaili",
+        ".xn--mgbi4ecexp",
+        ".cern",
+        ".emerck",
+        ".hisamitsu",
+        ".lilly",
+        ".lundbeck",
+        ".merckmsd",
+        ".msd",
+        ".otsuka",
+        ".pfizer",
+        ".stada",
+        ".teva",
+        ".toray",
+        ".weather",
+        ".adult",
+        ".porn",
+        ".sex",
+        ".sexy",
+        ".xxx",
+        ".auspost",
+        ".dhl",
+        ".fedex",
+        ".xn--lgbbat1ad8j",
+        ".xn--y9a3aq",
+        ".xn--mgbcpq6gpa1a",
+        ".xn--54b7fta0cc",
+        ".xn--90ais",
+        ".xn--90ae",
+        ".xn--wgbh1c",
+        ".xn--e1a4c",
+        ".xn--qxa6a",
+        ".xn--node",
+        ".xn--qxam",
+        ".xn--4dbrk0ce",
+        ".xn--h2brj9c",
+        ".xn--mgbbh1a71e",
+        ".xn--fpcrj9c3d",
+        ".xn--gecrj9c",
+        ".xn--s9brj9c",
+        ".xn--45brj9c",
+        ".xn--xkc2dl3a5ee0h",
+        ".xn--2scrj9c",
+        ".xn--rvc1e0am3e",
+        ".xn--45br5cyl",
+        ".xn--3hcrj9c",
+        ".xn--mgbbh1a",
+        ".xn--h2breg3eve",
+        ".xn--h2brj9c8c",
+        ".xn--mgbgu82a",
+        ".xn--mgba3a4f16a",
+        ".xn--mgba3a4fra",
+        ".xn--mgbtx2b",
+        ".xn--mgbayh7gpa",
+        ".xn--80ao21a",
+        ".xn--3e0b707e",
+        ".xn--q7ce6a",
+        ".xn--mix891f",
+        ".xn--mix082f",
+        ".xn--d1alf",
+        ".xn--mgbx4cd0ab",
+        ".xn--mgbah1a3hjkrd",
+        ".xn--l1acc",
+        ".xn--mgbc0a9azcg",
+        ".xn--mgb9awbf",
+        ".xn--mgbai9azgqp6j",
+        ".xn--mgbai9a5eva00b",
+        ".xn--ygbi2ammx",
+        ".xn--wgbl6a",
+        ".xn--p1ai",
+        ".xn--mgberp4a5d4ar",
+        ".xn--mgberp4a5d4a87g",
+        ".xn--mgbqly7c0a67fbc",
+        ".xn--mgbqly7cvafr",
+        ".xn--90a3ac",
+        ".xn--yfro4i67o",
+        ".xn--fzc2c9e2c",
+        ".xn--mgbpl2fh",
+        ".xn--ogbpf8fl",
+        ".xn--mgbtf8fl",
+        ".xn--kpry57d",
+        ".xn--kprw13d",
+        ".xn--nnx388a",
+        ".xn--o3cw4h",
+        ".xn--pgbs0dh",
+        ".xn--j1amh",
+        ".xn--mgbaam7a8h",
+        ".xn--mgb2ddes",
+        ".aaa",
+        ".audi",
+        ".bentley",
+        ".bmw",
+        ".bridgestone",
+        ".case",
+        ".datsun",
+        ".dunlop",
+        ".ferrari",
+        ".firestone",
+        ".ford",
+        ".goodyear",
+        ".honda",
+        ".hyundai",
+        ".infiniti",
+        ".jaguar",
+        ".jeep",
+        ".kia",
+        ".lamborghini",
+        ".landrover",
+        ".lexus",
+        ".lincoln",
+        ".mini",
+        ".mitsubishi",
+        ".nissan",
+        ".seat",
+        ".suzuki",
+        ".tatamotors",
+        ".toyota",
+        ".tvs",
+        ".volvo",
+        ".android",
+        ".apple",
+        ".bestbuy",
+        ".brother",
+        ".canon",
+        ".dell",
+        ".fujitsu",
+        ".goldpoint",
+        ".ibm",
+        ".nikon",
+        ".nokia",
+        ".panasonic",
+        ".philips",
+        ".pioneer",
+        ".samsung",
+        ".sharp",
+        ".sony",
+        ".toshiba",
+        ".yodobashi",
+        ".allfinanz",
+        ".ally",
+        ".americanexpress",
+        ".amex",
+        ".anz",
+        ".banamex",
+        ".barclaycard",
+        ".barclays",
+        ".bbt",
+        ".bbva",
+        ".bnpparibas",
+        ".bofa",
+        ".bradesco",
+        ".capitalone",
+        ".cba",
+        ".cfa",
+        ".citadel",
+        ".citi",
+        ".commbank",
+        ".deloitte",
+        ".discover",
+        ".fidelity",
+        ".hdfcbank",
+        ".hdfc",
+        ".hsbc",
+        ".itau",
+        ".jcb",
+        ".jll",
+        ".kfh",
+        ".kpmg",
+        ".lacaixa",
+        ".lasalle",
+        ".lplfinancial",
+        ".lpl",
+        ".nab",
+        ".netbank",
+        ".open",
+        ".pictet",
+        ".pnc",
+        ".pohl",
+        ".pramerica",
+        ".prudential",
+        ".pru",
+        ".pwc",
+        ".sbi",
+        ".scb",
+        ".softbank",
+        ".statebank",
+        ".temasek",
+        ".ubank",
+        ".ubs",
+        ".vanguard",
+        ".visa",
+        ".wolterskluwer",
+        ".aquarelle",
+        ".diy",
+        ".homedepot",
+        ".homegoods",
+        ".aig",
+        ".allstate",
+        ".americanfamily",
+        ".amfam",
+        ".amica",
+        ".axa",
+        ".farmers",
+        ".mma",
+        ".nissay",
+        ".progressive",
+        ".redumbrella",
+        ".statefarm",
+        ".tiaa",
+        ".travelersinsurance",
+        ".travelers",
+        ".trv",
+        ".vig",
+        ".beats",
+        ".blockbuster",
+        ".netflix",
+        ".playstation",
+        ".tab",
+        ".williamhill",
+        ".xbox",
+        ".asda",
+        ".george",
+        ".homesense",
+        ".lego",
+        ".marshalls",
+        ".obi",
+        ".samsclub",
+        ".staples",
+        ".target",
+        ".thd",
+        ".tjmaxx",
+        ".tjx",
+        ".tkmaxx",
+        ".walmart",
+        ".abb",
+        ".accenture",
+        ".aco",
+        ".airtel",
+        ".amazon",
+        ".aol",
+        ".aws",
+        ".azure",
+        ".chrome",
+        ".cisco",
+        ".dclk",
+        ".dish",
+        ".dtv",
+        ".epson",
+        ".ericsson",
+        ".fairwinds",
+        ".fido",
+        ".flickr",
+        ".frogans",
+        ".frontier",
+        ".ftr",
+        ".gbiz",
+        ".gea",
+        ".ggee",
+        ".gle",
+        ".gmail",
+        ".gmo",
+        ".gmx",
+        ".godaddy",
+        ".goog",
+        ".google",
+        ".goo",
+        ".guge",
+        ".hangout",
+        ".hkt",
+        ".hotmail",
+        ".hughes",
+        ".ieee",
+        ".intuit",
+        ".java",
+        ".jmp",
+        ".jprs",
+        ".juniper",
+        ".kddi",
+        ".kindle",
+        ".kpn",
+        ".lanxess",
+        ".locker",
+        ".microsoft",
+        ".mint",
+        ".mit",
+        ".mtn",
+        ".nec",
+        ".neustar",
+        ".nexus",
+        ".nico",
+        ".norton",
+        ".ntt",
+        ".office",
+        ".ollo",
+        ".oracle",
+        ".orange",
+        ".ovh",
+        ".pccw",
+        ".richardli",
+        ".ricoh",
+        ".rogers",
+        ".sakura",
+        ".sfr",
+        ".shaw",
+        ".skype",
+        ".sling",
+        ".smart",
+        ".stcgroup",
+        ".stc",
+        ".tci",
+        ".tdk",
+        ".uol",
+        ".verisign",
+        ".viva",
+        ".vivo",
+        ".windows",
+        ".yahoo",
+        ".yamaxun",
+        ".yandex",
+        ".youtube",
+        ".zappos",
+        ".chanel",
+        ".clinique",
+        ".lamer",
+        ".natura",
+        ".origins",
+        ".barefoot",
+        ".cuisinella",
+        ".edeka",
+        ".fage",
+        ".ferrero",
+        ".food",
+        ".gallo",
+        ".xn--5su34j936bgsg",
+        ".xn--b4w605ferd",
+        ".xn--cckwcxetd",
+        ".xn--cg4bki",
+        ".xn--flw351e",
+        ".xn--fzys8d69uvgm",
+        ".xn--jlq480n2rg",
+        ".xn--kcrx77d1x4a",
+        ".xn--mgba3a3ejt",
+        ".xn--mgba7c0bbn0a",
+        ".xn--ngbe9e0a",
+        ".xn--qcka1pmc",
+        ".xn--w4r85el8fhu5dnra",
+        ".xn--w4rs40l",
+        ".caravan",
+        ".cipriani",
+        ".clubmed",
+        ".delta",
+        ".firmdale",
+        ".hyatt",
+        ".kerryhotels",
+        ".kerryproperties",
+        ".marriott",
+        ".shangrila",
+        ".tui",
+        ".viking",
+        ".able",
+        ".cbre",
+        ".chintai",
+        ".lefrak",
+        ".abc",
+        ".arte",
+        ".bbc",
+        ".cbn",
+        ".eurovision",
+        ".fox",
+        ".gallup",
+        ".globo",
+        ".hbo",
+        ".imdb",
+        ".itv",
+        ".nhk",
+        ".nowtv",
+        ".sbs",
+        ".seven",
+        ".sky",
+        ".weatherchannel",
+        ".bauhaus",
+        ".latrobe",
+        ".monash",
+        ".meme",
+        ".ing",
+        ".foo",
+        ".zip",
+        ".mov",
+        ".dad",
+        ".phd",
+        ".prof",
+        ".esq",
+        ".rsvp",
+        ".boo",
+        ".day",
+        ".new",
+        ".dev",
+        ".page",
+        ".app",
+        ".how",
+        ".soy",
+        ".xn--q9jyb4c"
+      ]
     }
   ]
 }

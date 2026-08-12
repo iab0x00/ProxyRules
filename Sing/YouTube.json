@@ -2,40 +2,24 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": "googlevideo.com"
+      "domain_suffix": [
+        "googlevideo.com",
+        "withyoutube.com",
+        "youtu.be",
+        "youtube.com",
+        "youtubeeducation.com",
+        "youtubegaming.com",
+        "youtubekids.com",
+        "youtube-nocookie.com",
+        "yt.be",
+        "ytimg.com"
+      ]
     },
     {
-      "domain_suffix": "withyoutube.com"
-    },
-    {
-      "domain_suffix": "youtu.be"
-    },
-    {
-      "domain_suffix": "youtube.com"
-    },
-    {
-      "domain_suffix": "youtubeeducation.com"
-    },
-    {
-      "domain_suffix": "youtubegaming.com"
-    },
-    {
-      "domain_suffix": "youtubekids.com"
-    },
-    {
-      "domain_suffix": "youtube-nocookie.com"
-    },
-    {
-      "domain_suffix": "yt.be"
-    },
-    {
-      "domain_suffix": "ytimg.com"
-    },
-    {
-      "domain": "youtubei.googleapis.com"
-    },
-    {
-      "domain": "yt3.ggpht.com"
+      "domain": [
+        "youtubei.googleapis.com",
+        "yt3.ggpht.com"
+      ]
     }
   ]
 }

@@ -2,130 +2,58 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": "chat.com"
+      "domain_suffix": [
+        "chat.com",
+        "chatgpt.com",
+        "livekit.cloud",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openai.com",
+        "sora.com",
+        "claude.ai",
+        "anthropic.com",
+        "githubcopilot.com",
+        "generativeai.google",
+        "makersuite.google.com",
+        "deepmind.com",
+        "deepmind.google",
+        "proactivebackend-pa.googleapis.com",
+        "geller-pa.googleapis.com",
+        "generativelanguage.googleapis.com",
+        "grok.com",
+        "x.ai",
+        "openrouter.ai",
+        "perplexity.ai",
+        "pplx.ai"
+      ]
     },
     {
-      "domain_suffix": "chatgpt.com"
+      "domain": [
+        "api.statsig.com",
+        "api-iam.intercom.io",
+        "o33249.ingest.sentry.io",
+        "openaiapi-site.azureedge.net",
+        "copilot.microsoft.com",
+        "sydney.bing.com",
+        "www.bing.com",
+        "aistudio.google.com",
+        "alkalicore-pa.clients6.google.com",
+        "alkalimakersuite-pa.clients6.google.com",
+        "antigravity.google",
+        "antigravity-unleash.goog",
+        "ai.google.dev",
+        "bard.google.com",
+        "gemini.google.com",
+        "pplx-res.cloudinary.com"
+      ]
     },
     {
-      "domain_suffix": "livekit.cloud"
-    },
-    {
-      "domain_suffix": "oaistatic.com"
-    },
-    {
-      "domain_suffix": "oaiusercontent.com"
-    },
-    {
-      "domain_suffix": "openai.com"
-    },
-    {
-      "domain_suffix": "sora.com"
-    },
-    {
-      "domain": "api.statsig.com"
-    },
-    {
-      "domain": "api-iam.intercom.io"
-    },
-    {
-      "domain": "o33249.ingest.sentry.io"
-    },
-    {
-      "domain": "openaiapi-site.azureedge.net"
-    },
-    {
-      "domain_keyword": "openaiapi"
-    },
-    {
-      "domain_keyword": "openaicom"
-    },
-    {
-      "domain_suffix": "claude.ai"
-    },
-    {
-      "domain_suffix": "anthropic.com"
-    },
-    {
-      "domain": "copilot.microsoft.com"
-    },
-    {
-      "domain": "sydney.bing.com"
-    },
-    {
-      "domain": "www.bing.com"
-    },
-    {
-      "domain_suffix": "githubcopilot.com"
-    },
-    {
-      "domain_suffix": "generativeai.google"
-    },
-    {
-      "domain_suffix": "makersuite.google.com"
-    },
-    {
-      "domain": "aistudio.google.com"
-    },
-    {
-      "domain": "alkalicore-pa.clients6.google.com"
-    },
-    {
-      "domain": "alkalimakersuite-pa.clients6.google.com"
-    },
-    {
-      "domain": "antigravity.google"
-    },
-    {
-      "domain": "antigravity-unleash.goog"
-    },
-    {
-      "domain_suffix": "deepmind.com"
-    },
-    {
-      "domain_suffix": "deepmind.google"
-    },
-    {
-      "domain_suffix": "proactivebackend-pa.googleapis.com"
-    },
-    {
-      "domain_suffix": "geller-pa.googleapis.com"
-    },
-    {
-      "domain_suffix": "generativelanguage.googleapis.com"
-    },
-    {
-      "domain": "ai.google.dev"
-    },
-    {
-      "domain": "bard.google.com"
-    },
-    {
-      "domain": "gemini.google.com"
-    },
-    {
-      "domain_keyword": "notebooklm.google"
-    },
-    {
-      "domain_keyword": "labs.google"
-    },
-    {
-      "domain_suffix": "grok.com"
-    },
-    {
-      "domain_suffix": "x.ai"
-    },
-    {
-      "domain_suffix": "openrouter.ai"
-    },
-    {
-      "domain_suffix": "perplexity.ai"
-    },
-    {
-      "domain_suffix": "pplx.ai"
-    },
-    {
-      "domain": "pplx-res.cloudinary.com"
+      "domain_keyword": [
+        "openaiapi",
+        "openaicom",
+        "notebooklm.google",
+        "labs.google"
+      ]
     }
   ]
 }

@@ -2,142 +2,58 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": "aicoin.com"
+      "domain_suffix": [
+        "aicoin.com",
+        "backpack.exchange",
+        "bitcointalk.org",
+        "bitfinex.com",
+        "bitflyer.com",
+        "bithumb.com",
+        "bitstamp.net",
+        "coinbase.com",
+        "coingecko.com",
+        "coinmarketcap.com",
+        "crypto.com",
+        "dydx.exchange",
+        "etherscan.io",
+        "gate.io",
+        "gemini.com",
+        "kraken.com",
+        "kucoin.com",
+        "mexc.com",
+        "probit.com",
+        "uniswap.org",
+        "upbit.com",
+        "binance.com",
+        "binance.info",
+        "binance.org",
+        "bnbstatic.com",
+        "bntrace.com",
+        "bsappapi.com",
+        "bscdnweb.com",
+        "yingwangtech.cloud",
+        "bitget.com",
+        "bitget.site",
+        "byabcde.com",
+        "byapps.net",
+        "bybdc6.com",
+        "bybit.biz",
+        "bybit.cloud",
+        "bybit.com",
+        "bybitglobal.com",
+        "bybit-global.com",
+        "byd3c3.com",
+        "ffbbbdc6d3c353211fe2ba39c9f744cd.com",
+        "ffe390afd658c19dcbf707e0597b846d.de",
+        "wsot2022.com",
+        "okx.com",
+        "okx.com.cdn.cloudflare.net"
+      ]
     },
     {
-      "domain_suffix": "backpack.exchange"
-    },
-    {
-      "domain_suffix": "bitcointalk.org"
-    },
-    {
-      "domain_suffix": "bitfinex.com"
-    },
-    {
-      "domain_suffix": "bitflyer.com"
-    },
-    {
-      "domain_suffix": "bithumb.com"
-    },
-    {
-      "domain_suffix": "bitstamp.net"
-    },
-    {
-      "domain_suffix": "coinbase.com"
-    },
-    {
-      "domain_suffix": "coingecko.com"
-    },
-    {
-      "domain_suffix": "coinmarketcap.com"
-    },
-    {
-      "domain_suffix": "crypto.com"
-    },
-    {
-      "domain_suffix": "dydx.exchange"
-    },
-    {
-      "domain_suffix": "etherscan.io"
-    },
-    {
-      "domain_suffix": "gate.io"
-    },
-    {
-      "domain_suffix": "gemini.com"
-    },
-    {
-      "domain_suffix": "kraken.com"
-    },
-    {
-      "domain_suffix": "kucoin.com"
-    },
-    {
-      "domain_suffix": "mexc.com"
-    },
-    {
-      "domain_suffix": "probit.com"
-    },
-    {
-      "domain_suffix": "uniswap.org"
-    },
-    {
-      "domain_suffix": "upbit.com"
-    },
-    {
-      "domain_suffix": "binance.com"
-    },
-    {
-      "domain_suffix": "binance.info"
-    },
-    {
-      "domain_suffix": "binance.org"
-    },
-    {
-      "domain_suffix": "bnbstatic.com"
-    },
-    {
-      "domain_suffix": "bntrace.com"
-    },
-    {
-      "domain_suffix": "bsappapi.com"
-    },
-    {
-      "domain_suffix": "bscdnweb.com"
-    },
-    {
-      "domain_suffix": "yingwangtech.cloud"
-    },
-    {
-      "domain_suffix": "bitget.com"
-    },
-    {
-      "domain_suffix": "bitget.site"
-    },
-    {
-      "domain_suffix": "byabcde.com"
-    },
-    {
-      "domain_suffix": "byapps.net"
-    },
-    {
-      "domain_suffix": "bybdc6.com"
-    },
-    {
-      "domain_suffix": "bybit.biz"
-    },
-    {
-      "domain_suffix": "bybit.cloud"
-    },
-    {
-      "domain_suffix": "bybit.com"
-    },
-    {
-      "domain_suffix": "bybitglobal.com"
-    },
-    {
-      "domain_suffix": "bybit-global.com"
-    },
-    {
-      "domain_suffix": "byd3c3.com"
-    },
-    {
-      "domain_suffix": "ffbbbdc6d3c353211fe2ba39c9f744cd.com"
-    },
-    {
-      "domain_suffix": "ffe390afd658c19dcbf707e0597b846d.de"
-    },
-    {
-      "domain_suffix": "wsot2022.com"
-    },
-    {
-      "domain_suffix": "okx.com"
-    },
-    {
-      "domain_suffix": "okx.com.cdn.cloudflare.net"
-    },
-    {
-      "domain_keyword": "okx-dns"
+      "domain_keyword": [
+        "okx-dns"
+      ]
     }
   ]
 }

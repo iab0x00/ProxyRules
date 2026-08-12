@@ -2,19 +2,17 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": "teams.cdn.live.net"
+      "domain_suffix": [
+        "teams.cdn.live.net",
+        "teams.live.com",
+        "teams.microsoft.com"
+      ]
     },
     {
-      "domain_suffix": "teams.live.com"
-    },
-    {
-      "domain_suffix": "teams.microsoft.com"
-    },
-    {
-      "domain": "teams.events.data.microsoft.com"
-    },
-    {
-      "domain": "statics.teams.cdn.office.net"
+      "domain": [
+        "teams.events.data.microsoft.com",
+        "statics.teams.cdn.office.net"
+      ]
     }
   ]
 }

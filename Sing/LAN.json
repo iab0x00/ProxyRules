@@ -2,109 +2,51 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": "ip6-localhost"
+      "domain_suffix": [
+        "ip6-localhost",
+        "ip6-loopback",
+        "lan",
+        "local",
+        "localhost",
+        "hiwifi.com",
+        "leike.cc",
+        "miwifi.com",
+        "my.router",
+        "p.to",
+        "peiluyou.com",
+        "phicomm.me",
+        "router.ctc",
+        "routerlogin.com",
+        "tendawifi.com",
+        "zte.home",
+        "tplogin.cn",
+        "wifi.cmcc"
+      ]
     },
     {
-      "domain_suffix": "ip6-loopback"
+      "ip_cidr": [
+        "0.0.0.0/8",
+        "10.0.0.0/8",
+        "100.64.0.0/10",
+        "127.0.0.0/8",
+        "172.16.0.0/12",
+        "169.254.0.0/16",
+        "192.0.0.0/24",
+        "192.0.2.0/24",
+        "192.168.0.0/16",
+        "224.0.0.0/4",
+        "::1/128",
+        "fc00::/7",
+        "fe80::/10"
+      ]
     },
     {
-      "domain_suffix": "lan"
-    },
-    {
-      "domain_suffix": "local"
-    },
-    {
-      "domain_suffix": "localhost"
-    },
-    {
-      "ip_cidr": "0.0.0.0/8"
-    },
-    {
-      "ip_cidr": "10.0.0.0/8"
-    },
-    {
-      "ip_cidr": "100.64.0.0/10"
-    },
-    {
-      "ip_cidr": "127.0.0.0/8"
-    },
-    {
-      "ip_cidr": "172.16.0.0/12"
-    },
-    {
-      "ip_cidr": "169.254.0.0/16"
-    },
-    {
-      "ip_cidr": "192.0.0.0/24"
-    },
-    {
-      "ip_cidr": "192.0.2.0/24"
-    },
-    {
-      "ip_cidr": "192.168.0.0/16"
-    },
-    {
-      "ip_cidr": "224.0.0.0/4"
-    },
-    {
-      "ip_cidr": "::1/128"
-    },
-    {
-      "ip_cidr": "fc00::/7"
-    },
-    {
-      "ip_cidr": "fe80::/10"
-    },
-    {
-      "domain": "instant.arubanetworks.com"
-    },
-    {
-      "domain": "setmeup.arubanetworks.com"
-    },
-    {
-      "domain": "router.asus.com"
-    },
-    {
-      "domain": "www.asusrouter.com"
-    },
-    {
-      "domain_suffix": "hiwifi.com"
-    },
-    {
-      "domain_suffix": "leike.cc"
-    },
-    {
-      "domain_suffix": "miwifi.com"
-    },
-    {
-      "domain_suffix": "my.router"
-    },
-    {
-      "domain_suffix": "p.to"
-    },
-    {
-      "domain_suffix": "peiluyou.com"
-    },
-    {
-      "domain_suffix": "phicomm.me"
-    },
-    {
-      "domain_suffix": "router.ctc"
-    },
-    {
-      "domain_suffix": "routerlogin.com"
-    },
-    {
-      "domain_suffix": "tendawifi.com"
-    },
-    {
-      "domain_suffix": "zte.home"
-    },
-    {
-      "domain_suffix": "tplogin.cn"
-    },
-    {
-      "domain_suffix": "wifi.cmcc"
+      "domain": [
+        "instant.arubanetworks.com",
+        "setmeup.arubanetworks.com",
+        "router.asus.com",
+        "www.asusrouter.com"
+      ]
     }
   ]
 }

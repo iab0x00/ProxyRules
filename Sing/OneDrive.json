@@ -2,16 +2,16 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": "1drv.com"
+      "domain_suffix": [
+        "1drv.com",
+        "onedrive.com",
+        "storage.live.com"
+      ]
     },
     {
-      "domain_suffix": "onedrive.com"
-    },
-    {
-      "domain_suffix": "storage.live.com"
-    },
-    {
-      "domain": "oneclient.sfx.ms"
+      "domain": [
+        "oneclient.sfx.ms"
+      ]
     }
   ]
 }

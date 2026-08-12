@@ -2,70 +2,38 @@
   "version": 3,
   "rules": [
     {
-      "domain": "app.adjust.com"
+      "domain": [
+        "app.adjust.com",
+        "app.appsflyer.com",
+        "bdtj.tagtic.cn",
+        "log.mmstat.com",
+        "sycm.mmstat.com",
+        "ci.android.com",
+        "clientservices.googleapis.com",
+        "dl.google.com",
+        "dl.l.google.com",
+        "redirector.gvt1.com",
+        "update.googleapis.com",
+        "fairplay.l.qq.com",
+        "livew.l.qq.com",
+        "vd.l.qq.com",
+        "vi.l.qq.com",
+        "analytics.strava.com",
+        "msg.umeng.com",
+        "msg.umengcloud.com"
+      ]
     },
     {
-      "domain": "app.appsflyer.com"
+      "domain_suffix": [
+        "blog.google",
+        "googletraveladservices.com",
+        "googletraveladservices-cn.com"
+      ]
     },
     {
-      "domain": "bdtj.tagtic.cn"
-    },
-    {
-      "domain": "log.mmstat.com"
-    },
-    {
-      "domain": "sycm.mmstat.com"
-    },
-    {
-      "domain_suffix": "blog.google"
-    },
-    {
-      "domain": "ci.android.com"
-    },
-    {
-      "domain": "clientservices.googleapis.com"
-    },
-    {
-      "domain": "dl.google.com"
-    },
-    {
-      "domain": "dl.l.google.com"
-    },
-    {
-      "domain": "redirector.gvt1.com"
-    },
-    {
-      "domain": "update.googleapis.com"
-    },
-    {
-      "domain_suffix": "googletraveladservices.com"
-    },
-    {
-      "domain_suffix": "googletraveladservices-cn.com"
-    },
-    {
-      "domain_regex": "^.*mtalk\\.google\\.com$"
-    },
-    {
-      "domain": "fairplay.l.qq.com"
-    },
-    {
-      "domain": "livew.l.qq.com"
-    },
-    {
-      "domain": "vd.l.qq.com"
-    },
-    {
-      "domain": "vi.l.qq.com"
-    },
-    {
-      "domain": "analytics.strava.com"
-    },
-    {
-      "domain": "msg.umeng.com"
-    },
-    {
-      "domain": "msg.umengcloud.com"
+      "domain_regex": [
+        "^.*mtalk\\.google\\.com$"
+      ]
     }
   ]
 }

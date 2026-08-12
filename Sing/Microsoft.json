@@ -2,256 +2,100 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": "aadrm.com"
-    },
-    {
-      "domain_suffix": "acompli.com"
-    },
-    {
-      "domain_suffix": "acompli.net"
-    },
-    {
-      "domain_suffix": "aka.ms"
-    },
-    {
-      "domain_suffix": "akadns.net"
-    },
-    {
-      "domain_suffix": "aspnetcdn.com"
-    },
-    {
-      "domain_suffix": "assets-yammer.com"
-    },
-    {
-      "domain_suffix": "azure.com"
-    },
-    {
-      "domain_suffix": "azure.net"
-    },
-    {
-      "domain_suffix": "azureedge.net"
-    },
-    {
-      "domain_suffix": "azureiotcentral.com"
-    },
-    {
-      "domain_suffix": "azurerms.com"
-    },
-    {
-      "domain_suffix": "bing.com"
-    },
-    {
-      "domain_suffix": "bing.net"
-    },
-    {
-      "domain_suffix": "bingapis.com"
-    },
-    {
-      "domain_suffix": "cloudapp.net"
-    },
-    {
-      "domain_suffix": "cloudappsecurity.com"
-    },
-    {
-      "domain_suffix": "edgesuite.net"
-    },
-    {
-      "domain_suffix": "gfx.ms"
-    },
-    {
-      "domain_suffix": "hotmail.com"
-    },
-    {
-      "domain_suffix": "live.com"
-    },
-    {
-      "domain_suffix": "live.net"
-    },
-    {
-      "domain_suffix": "lync.com"
-    },
-    {
-      "domain_suffix": "msappproxy.net"
-    },
-    {
-      "domain_suffix": "msauth.net"
-    },
-    {
-      "domain_suffix": "msauthimages.net"
-    },
-    {
-      "domain_suffix": "msecnd.net"
-    },
-    {
-      "domain_suffix": "msedge.net"
-    },
-    {
-      "domain_suffix": "msft.net"
-    },
-    {
-      "domain_suffix": "msftauth.net"
-    },
-    {
-      "domain_suffix": "msftauthimages.net"
-    },
-    {
-      "domain_suffix": "msftidentity.com"
-    },
-    {
-      "domain_suffix": "msidentity.com"
-    },
-    {
-      "domain_suffix": "msn.cn"
-    },
-    {
-      "domain_suffix": "msn.com"
-    },
-    {
-      "domain_suffix": "msocdn.com"
-    },
-    {
-      "domain_suffix": "msocsp.com"
-    },
-    {
-      "domain_suffix": "mstea.ms"
-    },
-    {
-      "domain_suffix": "o365weve.com"
-    },
-    {
-      "domain_suffix": "oaspapps.com"
-    },
-    {
-      "domain_suffix": "office.com"
-    },
-    {
-      "domain_suffix": "office.net"
-    },
-    {
-      "domain_suffix": "office365.com"
-    },
-    {
-      "domain_suffix": "officeppe.net"
-    },
-    {
-      "domain_suffix": "omniroot.com"
-    },
-    {
-      "domain_suffix": "onedrive.com"
-    },
-    {
-      "domain_suffix": "onenote.com"
-    },
-    {
-      "domain_suffix": "onenote.net"
-    },
-    {
-      "domain_suffix": "onestore.ms"
-    },
-    {
-      "domain_suffix": "outlook.com"
-    },
-    {
-      "domain_suffix": "outlookmobile.com"
-    },
-    {
-      "domain_suffix": "phonefactor.net"
-    },
-    {
-      "domain_suffix": "public-trust.com"
-    },
-    {
-      "domain_suffix": "sfbassets.com"
-    },
-    {
-      "domain_suffix": "sfx.ms"
-    },
-    {
-      "domain_suffix": "sharepoint.com"
-    },
-    {
-      "domain_suffix": "sharepointonline.com"
-    },
-    {
-      "domain_suffix": "skype.com"
-    },
-    {
-      "domain_suffix": "skypeassets.com"
-    },
-    {
-      "domain_suffix": "skypeforbusiness.com"
-    },
-    {
-      "domain_suffix": "staffhub.ms"
-    },
-    {
-      "domain_suffix": "svc.ms"
-    },
-    {
-      "domain_suffix": "sway-cdn.com"
-    },
-    {
-      "domain_suffix": "sway-extensions.com"
-    },
-    {
-      "domain_suffix": "sway.com"
-    },
-    {
-      "domain_suffix": "trafficmanager.net"
-    },
-    {
-      "domain_suffix": "uservoice.com"
-    },
-    {
-      "domain_suffix": "virtualearth.net"
-    },
-    {
-      "domain_suffix": "visualstudio.com"
-    },
-    {
-      "domain_suffix": "windows-ppe.net"
-    },
-    {
-      "domain_suffix": "windows.com"
-    },
-    {
-      "domain_suffix": "windows.net"
-    },
-    {
-      "domain_suffix": "windowsazure.com"
-    },
-    {
-      "domain_suffix": "windowsupdate.com"
-    },
-    {
-      "domain_suffix": "wunderlist.com"
-    },
-    {
-      "domain_suffix": "yammer.com"
-    },
-    {
-      "domain_suffix": "yammerusercontent.com"
-    },
-    {
-      "domain_keyword": "1drv"
-    },
-    {
-      "domain_keyword": "microsoft"
-    },
-    {
-      "domain_suffix": "teams.cdn.live.net"
-    },
-    {
-      "domain_suffix": "teams.live.com"
-    },
-    {
-      "domain_suffix": "teams.microsoft.com"
-    },
-    {
-      "domain": "teams.events.data.microsoft.com"
-    },
-    {
-      "domain": "statics.teams.cdn.office.net"
+      "domain_suffix": [
+        "aadrm.com",
+        "acompli.com",
+        "acompli.net",
+        "aka.ms",
+        "akadns.net",
+        "aspnetcdn.com",
+        "assets-yammer.com",
+        "azure.com",
+        "azure.net",
+        "azureedge.net",
+        "azureiotcentral.com",
+        "azurerms.com",
+        "bing.com",
+        "bing.net",
+        "bingapis.com",
+        "cloudapp.net",
+        "cloudappsecurity.com",
+        "edgesuite.net",
+        "gfx.ms",
+        "hotmail.com",
+        "live.com",
+        "live.net",
+        "lync.com",
+        "msappproxy.net",
+        "msauth.net",
+        "msauthimages.net",
+        "msecnd.net",
+        "msedge.net",
+        "msft.net",
+        "msftauth.net",
+        "msftauthimages.net",
+        "msftidentity.com",
+        "msidentity.com",
+        "msn.cn",
+        "msn.com",
+        "msocdn.com",
+        "msocsp.com",
+        "mstea.ms",
+        "o365weve.com",
+        "oaspapps.com",
+        "office.com",
+        "office.net",
+        "office365.com",
+        "officeppe.net",
+        "omniroot.com",
+        "onedrive.com",
+        "onenote.com",
+        "onenote.net",
+        "onestore.ms",
+        "outlook.com",
+        "outlookmobile.com",
+        "phonefactor.net",
+        "public-trust.com",
+        "sfbassets.com",
+        "sfx.ms",
+        "sharepoint.com",
+        "sharepointonline.com",
+        "skype.com",
+        "skypeassets.com",
+        "skypeforbusiness.com",
+        "staffhub.ms",
+        "svc.ms",
+        "sway-cdn.com",
+        "sway-extensions.com",
+        "sway.com",
+        "trafficmanager.net",
+        "uservoice.com",
+        "virtualearth.net",
+        "visualstudio.com",
+        "windows-ppe.net",
+        "windows.com",
+        "windows.net",
+        "windowsazure.com",
+        "windowsupdate.com",
+        "wunderlist.com",
+        "yammer.com",
+        "yammerusercontent.com",
+        "teams.cdn.live.net",
+        "teams.live.com",
+        "teams.microsoft.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "1drv",
+        "microsoft"
+      ]
+    },
+    {
+      "domain": [
+        "teams.events.data.microsoft.com",
+        "statics.teams.cdn.office.net"
+      ]
     }
   ]
 }
