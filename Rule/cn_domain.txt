@@ -1,4 +1,5 @@
 DOMAIN,analytics.strava.com
+DOMAIN,api.miinsurtech.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,client.amplifi.com
