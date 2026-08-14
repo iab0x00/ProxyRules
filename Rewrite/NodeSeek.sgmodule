@@ -8,7 +8,7 @@
 
 [Script]
 NSCookie = type=http-response, pattern=^https://www\.nodeseek\.com/api/account/getInfo/, script-path=https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/NodeSeek.js, argument="ENABLE_CAPTURE={{{Cookie捕获}}}", requires-body=false
-NSCheckin = type=cron, cronexp="{{{签到分钟}}} {{{签到小时}}} * * *", script-path=NodeSeek.js, argument="FIXED_REWARD={{{奖励类型}}}", timeout=30
+NSCheckin = type=cron, cronexp="{{{签到分钟}}} {{{签到小时}}} * * *", script-path=https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/NodeSeek.js, argument="FIXED_REWARD={{{奖励类型}}}", timeout=30
 
 [MITM]
 hostname = %APPEND% www.nodeseek.com
