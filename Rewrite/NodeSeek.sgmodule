@@ -1,0 +1,15 @@
+#!name=NSCheckin
+#!desc=NodeSeek每天定时自动签到
+#!author=iab0x00
+#!category=自动签到
+
+#!arguments=签到小时:6, 签到分钟:0, 奖励类型:false, Cookie捕获:false
+#!arguments-desc=参数说明:\n\n - 签到小时: 0-23点\n\n - 签到分钟: 0-59分\n\n - 奖励类型: false=随机鸡腿, true=固定5鸡腿\n\n - Cookie捕获: true=开启, false=关闭
+
+[Script]
+NSCookie = type=http-response, pattern=^https://www\.nodeseek\.com/api/account/getInfo/, script-path=https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/NodeSeek.js, argument="ENABLE_CAPTURE={{{Cookie捕获}}}", requires-body=false
+NSCheckin = type=cron, cronexp="{{{签到分钟}}} {{{签到小时}}} * * *", script-path=NodeSeek.js, argument="FIXED_REWARD={{{奖励类型}}}", timeout=30
+
+[MITM]
+hostname = %APPEND% www.nodeseek.com
+
