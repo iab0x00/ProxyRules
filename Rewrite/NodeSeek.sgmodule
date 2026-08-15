@@ -7,7 +7,7 @@
 #!arguments-desc=参数说明:\n\n - 签到小时: 0-23点\n\n - 签到分钟: 0-59分\n\n - 固定奖励: false=随机鸡腿（默认）, true=固定5鸡腿\n\n - Cookie捕获: false=关闭（默认）, true=开启
 
 [Script]
-NSCookie = type=http-response, pattern=^https://www\.nodeseek\.com/api/account/getInfo/, script-path=https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/NodeSeek.js, argument="ENABLE_CAPTURE={{{Cookie捕获}}}", requires-body=false
+NSCookie = type=http-response, pattern=^https:\/\/www\.nodeseek\.com\/api\/account\/getInfo\/\d+\?readme=1$, script-path=https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/NodeSeek.js, argument="ENABLE_CAPTURE={{{Cookie捕获}}}", requires-body=false
 NSCheckin = type=cron, cronexp="{{{签到分钟}}} {{{签到小时}}} * * *", script-path=https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/NodeSeek.js, argument="FIXED_REWARD={{{固定奖励}}}", timeout=30
 
 [MITM]
