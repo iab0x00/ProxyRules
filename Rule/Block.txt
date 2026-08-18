@@ -1096,6 +1096,7 @@ DOMAIN,pvnapp.zol.com.cn
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,log.aliyuncs.com
 DOMAIN-SUFFIX,airpr.com
+DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,cr-nielsen.com
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.com
@@ -1103,6 +1104,7 @@ DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,hotjar.com
 DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,hs-analytics.net
+DOMAIN-SUFFIX,jpush.cn 
 DOMAIN-SUFFIX,kissmetrics.com
 DOMAIN-SUFFIX,kochava.com
 DOMAIN-SUFFIX,liadm.com
@@ -1152,6 +1154,7 @@ DOMAIN-SUFFIX,zoomanalytics.co
 DOMAIN-SUFFIX,zztfly.com
 
 DOMAIN-SUFFIX,ads.linkedin.com
+DOMAIN,adim.pinduoduo.com
 DOMAIN,analytics.slashdotmedia.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,cdn.ampproject.org
@@ -1221,6 +1224,7 @@ DOMAIN-SUFFIX,udrig.com
 DOMAIN,adashx.m.taobao.com
 DOMAIN,amdc.m.taobao.com
 DOMAIN,atoken.m.taobao.com
+DOMAIN,audid-api.taobao.com
 DOMAIN,px.effirst.com
 # > Tencent
 DOMAIN,safebrowsing.urlsec.qq.com
