@@ -99,7 +99,7 @@ ProxyRules/
 | WeiboIntl | 微博轻享版去广告 | [.sgmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/WeiboIntl.sgmodule) | [.snippet](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/WeiboIntl.snippet) |
 | DiDiClean | 滴滴出行去广告 | [.sgmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/DiDiClean.sgmodule) | [.snippet](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/DiDiClean.snippet) |
 | RedBook | 小红书去广告及水印 | [.srmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/RedBook.srmodule) | [.snippet](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/RedBook.snippet) |
-| NodeSeek | NodeSeek Cookie 捕获 + 每日签到 | [.sgmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/NodeSeek.sgmodule) | [推荐肥佬](https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Nodeseek_NsCheckin.js) |
+| NodeSeek | NodeSeek Cookie 捕获 + 每日签到 | [.sgmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/NodeSeek.sgmodule) | [怎么肥事](https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Nodeseek_NsCheckin.js) |
 
 
 ## 脚本
