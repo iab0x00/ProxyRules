@@ -1109,6 +1109,7 @@ DOMAIN-SUFFIX,kissmetrics.com
 DOMAIN-SUFFIX,kochava.com
 DOMAIN-SUFFIX,liadm.com
 DOMAIN-SUFFIX,marketo.com
+DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mobileapptracking.com
 DOMAIN-SUFFIX,mparticle.com
 DOMAIN-SUFFIX,nexac.com
