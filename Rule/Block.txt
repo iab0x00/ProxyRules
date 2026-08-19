@@ -1155,9 +1155,11 @@ DOMAIN-SUFFIX,zztfly.com
 
 DOMAIN-SUFFIX,ads.linkedin.com
 DOMAIN,adim.pinduoduo.com
+DOMAIN,ae.bdstatic.com
 DOMAIN,analytics.slashdotmedia.com
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,cdn.ampproject.org
+DOMAIN,sealine.youku.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,zgsdk.zhugeio.com
 
