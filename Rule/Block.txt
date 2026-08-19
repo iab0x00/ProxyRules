@@ -1104,6 +1104,8 @@ DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,hotjar.com
 DOMAIN-SUFFIX,hotjar.io
 DOMAIN-SUFFIX,hs-analytics.net
+DOMAIN-SUFFIX,hwwt8.com
+DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,jpush.cn 
 DOMAIN-SUFFIX,kissmetrics.com
 DOMAIN-SUFFIX,kochava.com
