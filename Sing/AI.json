@@ -61,6 +61,13 @@
         "notebooklm.google",
         "labs.google"
       ]
+    },
+    {
+      "domain_regex": [
+        "^.*mask.*\\.apple\\-dns\\.net$",
+        "^.*mask.*\\.icloud\\.com$",
+        "^.*siri.*\\.apple\\.com$"
+      ]
     }
   ]
 }

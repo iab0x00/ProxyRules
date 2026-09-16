@@ -14,6 +14,9 @@ DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaicom
 
 # > Apple Intelligence
+DOMAIN-WILDCARD,*mask*.apple-dns.net
+DOMAIN-WILDCARD,*mask*.icloud.com
+DOMAIN-WILDCARD,*siri*.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
