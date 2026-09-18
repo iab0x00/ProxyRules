@@ -2,6 +2,13 @@
   "version": 3,
   "rules": [
     {
+      "domain_regex": [
+        "^.*mask.*\\.apple\\-dns\\.net$",
+        "^.*mask.*\\.icloud\\.com$",
+        "^.*siri.*\\.apple\\.com$"
+      ]
+    },
+    {
       "domain_suffix": [
         "smoot.apple.com"
       ]
