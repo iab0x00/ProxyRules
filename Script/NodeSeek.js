@@ -2,7 +2,8 @@
 脚本名称: NodeSeek
 平台: Surge/Shadowrocket
 功能: Cookie 捕获 + 每日签到领鸡腿
-脚本作者: iab0x00 Powered by DeepSeek-V4-Pro
+版本: 1.0.1
+脚本作者: iab0x0
 使用说明:
 1. 模块打开「Cookie」后访问 NodeSeek 个人页保存请求头
 2. 成功后关闭「Cookie」
@@ -15,8 +16,6 @@ const STORE_KEY = "nodeseek_headers";
 const ATTEND_BASE = "https://www.nodeseek.com/api/attendance";
 
 const DEFAULT_HEADERS = {
-  Connection: "keep-alive",
-  "Accept-Encoding": "gzip, deflate, br",
   Priority: "u=3, i",
   "Content-Type": "text/plain;charset=UTF-8",
   Origin: "https://www.nodeseek.com",
@@ -25,7 +24,6 @@ const DEFAULT_HEADERS = {
   "refract-key": "",
   "Sec-Fetch-Mode": "cors",
   Cookie: "",
-  Host: "www.nodeseek.com",
   Referer: "https://www.nodeseek.com/",
   "Accept-Language": "zh-CN,zh-Hans;q=0.9",
   Accept: "*/*"
@@ -108,14 +106,12 @@ function httpPost(url, headers, body) {
 function doCapture() {
   const args = parseArgs($argument);
   if (!envTrue(args.ENABLE_CAPTURE)) {
-    log("Cookie 开关已关闭，跳过");
     $done({});
     return;
   }
 
   const saved = pickHeaders($request && $request.headers);
-  if (Object.keys(saved).length === 0) {
-    notify("Cookie 获取失败", "未获取到请求头");
+  if (!saved.Cookie || saved.Cookie.trim() === "") {
     $done({});
     return;
   }
@@ -154,9 +150,11 @@ async function doCheckIn() {
     const text = res.data;
     log("签到响应 HTTP " + status + ": " + text);
 
+    let resData = null;
     let message = "";
     try {
-      message = (JSON.parse(text) || {}).message || "";
+      resData = JSON.parse(text);
+      message = (resData && resData.message) || "";
     } catch (e) {}
 
     const modeTag = fixed ? "固定" : "随机";
@@ -166,7 +164,7 @@ async function doCheckIn() {
       notify("今日已签到", message);
     } else if (status === 403) {
       notify("被风控", message || "403，稍后重试");
-    } else if (status >= 200 && status < 300) {
+    } else if (status >= 200 && status < 300 && resData && resData.success === true) {
       notify("签到成功（" + modeTag + "）", message || "签到完成");
     } else {
       notify("请求异常 HTTP " + status, message || "无返回信息");
@@ -178,8 +176,8 @@ async function doCheckIn() {
   $done();
 }
 
-if ($script && $script.type === "cron") {
-  doCheckIn();
-} else {
+if (typeof $request !== "undefined") {
   doCapture();
+} else {
+  doCheckIn();
 }
