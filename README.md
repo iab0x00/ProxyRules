@@ -130,7 +130,7 @@ ProxyRules/
 
 - 使用方法：添加 [快捷指令](https://www.icloud.com/shortcuts/6ae49d67efef4eb898185d3b4cc8cf13)，说明参考快捷指令内部注释。
 
-  <img src="https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Resource/ippuretest.png" alt="IP 信息查询示例" width="50%">
+![查询结果示例](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Resource/ippuretest.png)
 
 ## 特别鸣谢
 
