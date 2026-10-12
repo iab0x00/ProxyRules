@@ -109,17 +109,17 @@ DOMAIN-SUFFIX,cerebras.ai
 # > Groq
 DOMAIN-SUFFIX,groq.com
 
-#> SambaNova
+# > SambaNova
 DOMAIN-SUFFIX,sambanova.ai
 
-#> Cohere
+# > Cohere
 DOMAIN-SUFFIX,cohere.com
 
-#> New API
+# > New API
 DOMAIN,new-api.ai-agents.eu.cc
 
-#> LangRouter
+# > LangRouter
 DOMAIN-SUFFIX,langrouter.ai
 
-#> Typesafe AI
+# > Typesafe AI
 DOMAIN-SUFFIX,typesafe.ai
