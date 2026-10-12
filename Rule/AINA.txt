@@ -17,6 +17,12 @@ DOMAIN-KEYWORD,openaicom
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 
+# > Cursor
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+
 # > Microsoft Copilot
 DOMAIN,copilot.microsoft.com
 DOMAIN,sydney.bing.com
@@ -25,6 +31,7 @@ DOMAIN,www.bing.com
 DOMAIN-SUFFIX,githubcopilot.com
 
 # > Google
+DOMAIN-SUFFIX,googleapis.com
 # > > AI Studio
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,makersuite.google.com
@@ -38,12 +45,13 @@ DOMAIN,antigravity-unleash.goog
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 # > > Gemini
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,gemini.google
 DOMAIN,ai.google.dev
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
+DOMAIN,gemini.gstatic.com
+# > > Jules
+DOMAIN,jules.google.com
 # > > NotebookLM
 DOMAIN-KEYWORD,notebooklm.google
 # > > Search Labs
@@ -58,5 +66,6 @@ DOMAIN-SUFFIX,openrouter.ai
 
 # > Perplexity
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN,pplx-res.cloudinary.com
