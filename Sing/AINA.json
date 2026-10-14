@@ -10,8 +10,13 @@
         "oaiusercontent.com",
         "openai.com",
         "sora.com",
-        "claude.ai",
         "anthropic.com",
+        "claude.ai",
+        "claude.com",
+        "clau.de",
+        "claudemcpclient.com",
+        "claudemcpcontent.com",
+        "claudeusercontent.com",
         "cursor.sh",
         "cursorapi.com",
         "cursor.com",
@@ -29,7 +34,8 @@
         "openrouter.ai",
         "perplexity.ai",
         "perplexity.com",
-        "pplx.ai"
+        "pplx.ai",
+        "zed.dev"
       ]
     },
     {
@@ -38,6 +44,10 @@
         "api-iam.intercom.io",
         "o33249.ingest.sentry.io",
         "openaiapi-site.azureedge.net",
+        "anthropic.auth0.com",
+        "anthropic.com.cdn.cloudflare.net",
+        "anthropic-com.ghost.io",
+        "servd-anthropic-website.b-cdn.net",
         "copilot.microsoft.com",
         "sydney.bing.com",
         "www.bing.com",
