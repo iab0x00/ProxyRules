@@ -26,8 +26,17 @@ DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,guzzoni.apple.com
 
 # > Claude
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,anthropic.auth0.com
+DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN,anthropic-com.ghost.io
+DOMAIN,servd-anthropic-website.b-cdn.net
 
 # > Cursor
 DOMAIN-SUFFIX,cursor.sh
@@ -82,3 +91,6 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN,pplx-res.cloudinary.com
+
+# > Zed
+DOMAIN-SUFFIX,zed.dev
