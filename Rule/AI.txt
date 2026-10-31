@@ -37,6 +37,8 @@ DOMAIN,anthropic.auth0.com
 DOMAIN,anthropic.com.cdn.cloudflare.net
 DOMAIN,anthropic-com.ghost.io
 DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
 
 # > Cursor
 DOMAIN-SUFFIX,cursor.sh

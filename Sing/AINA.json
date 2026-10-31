@@ -68,6 +68,8 @@
       "domain_keyword": [
         "openaiapi",
         "openaicom",
+        "anthropic",
+        "claude",
         "notebooklm.google",
         "labs.google"
       ]
