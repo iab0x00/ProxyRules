@@ -1,18 +1,20 @@
 /******************************
 脚本名称: NodeSeek
 平台: Surge/Shadowrocket
-功能: Cookie 捕获 + 每日签到领鸡腿
-版本: 1.0.1
-脚本作者: iab0x0
+功能: Cookie 捕获 + 每日签到领鸡腿 + 统计分析
+版本: 1.1.0
+脚本作者: iab0x00
 使用说明:
-1. 模块打开「Cookie」后访问 NodeSeek 个人页保存请求头
-2. 成功后关闭「Cookie」
+1. 打开「Cookie捕获」后访问个人页获取 Cookie
+2. 成功后关闭「Cookie捕获」
 3. 定时由模块参数 HOUR / MINUTE 控制
 4. 签到奖励 false=随机（默认）/ true=固定 鸡腿
+5. 总数显示 false=隐藏（默认）/ true=显示 鸡腿总数
 *******************************/
 
 const SCRIPT_NAME = "NodeSeek🎉";
 const STORE_KEY = "nodeseek_headers";
+const STATS_KEY = "nodeseek_stats";
 const ATTEND_BASE = "https://www.nodeseek.com/api/attendance";
 
 const DEFAULT_HEADERS = {
@@ -125,6 +127,7 @@ function doCapture() {
 async function doCheckIn() {
   const args = parseArgs($argument);
   const fixed = envTrue(args.FIXED_REWARD);
+  const showTotal = envTrue(args.SHOW_TOTAL);
   const url = attendUrl(fixed);
   log("开始执行签到任务（" + (fixed ? "固定鸡腿" : "随机鸡腿") + "）");
 
@@ -165,7 +168,42 @@ async function doCheckIn() {
     } else if (status === 403) {
       notify("被风控", message || "403，稍后重试");
     } else if (status >= 200 && status < 300 && resData && resData.success === true) {
-      notify("签到成功（" + modeTag + "）", message || "签到完成");
+
+      const currentGain = resData.gain;
+      const isGainValid = typeof currentGain === "number" && currentGain > 0;
+
+      let stats = { count: 0, gained: 0, lastDate: "" };
+      try {
+        const localStats = JSON.parse($persistentStore.read(STATS_KEY));
+        if (localStats && typeof localStats.count === "number" && typeof localStats.gained === "number") {
+          stats.count = localStats.count;
+          stats.gained = localStats.gained;
+          stats.lastDate = typeof localStats.lastDate === "string" ? localStats.lastDate : "";
+        }
+      } catch (e) {}
+
+      const now = new Date();
+      const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`;
+
+      if (isGainValid && stats.lastDate !== today) {
+        stats.count += 1;
+        stats.gained += currentGain;
+        stats.lastDate = today;
+        $persistentStore.write(JSON.stringify(stats), STATS_KEY);
+      }
+
+      let statsSuffix = "";
+      if (stats.count > 0) {
+        const avg = (stats.gained / stats.count).toFixed(1);
+        statsSuffix = `（累计${stats.count}天，日均${avg} 🍗）`;
+      }
+
+      let bodyText = (message || "签到完成") + statsSuffix;
+      if (showTotal && typeof resData.current === "number") {
+        bodyText += `，当前拥有${resData.current} 🍗`;
+      }
+
+      notify("签到成功（" + modeTag + "）", bodyText);
     } else {
       notify("请求异常 HTTP " + status, message || "无返回信息");
     }
