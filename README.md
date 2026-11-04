@@ -101,29 +101,6 @@ ProxyRules/
 | RedBook | 小红书去广告及水印 | [.srmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/RedBook.srmodule) | [.snippet](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/RedBook.snippet) |
 | NodeSeek | NodeSeek Cookie 捕获 + 每日签到 | [.sgmodule](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/NodeSeek.sgmodule) | [怎么肥事](https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/Nodeseek_NsCheckin.js) |
 
-
-## 脚本
-
-| 脚本 | 功能 | 链接 |
-| :--- | :--- | :--- |
-| NodeSeek.js | NodeSeek Cookie 捕获 + 每日签到 | [Script/NodeSeek.js](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/NodeSeek.js) |
-| ippure.js | IP 信息查询 | [Script/ippure.js](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/ippure.js) |
-| gpt-app.js | ChatGPT App（iOS 端） | [Script/gpt-app.js](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/gpt-app.js) |
-| gpt-web.js | ChatGPT Web 合规检测 | [Script/gpt-web.js](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/gpt-web.js) |
-| netflix.js | Netflix 分区检测 | [Script/netflix.js](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/netflix.js) |
-| rednote.js | 小红书去水印 | [Script/rednote.js](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/rednote.js) |
-| youtube.js | YouTube Premium 可用性检测 | [Script/youtube.js](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Script/youtube.js) |
-
-## 插件中心转换器
-
-将 [可莉插件中心](https://hub.kelee.one) 的 Loon 插件借助 Script-Hub 或资源解析器转换为 Shadowrocket / QX 支持的格式。
-
-- 环境要求：Shadowrocket 需安装 [Script-Hub](https://github.com/Script-Hub-Org) 模块；Quantumult X 需配置 [资源解析器](https://github.com/KOP-XIAO)。
-- 安装转换器：[Shadowrocket](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/PluginHub2Rocket.srmodule) / [Quantumult X](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/PluginHub2QX.snippet)。
-- 使用方法：安装后访问 [可莉插件中心](https://hub.kelee.one)，点击跳转安装即可。如遇跳转异常，尝试清理浏览器缓存或开启无痕模式。
-- 使用过程请遵守可莉 [授权说明](https://t.me/ibilibili/1498)。
-- 另提供内置 Script-Hub 的 Shadowrocket [集成版转换器](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Rewrite/Plugin2Rocket.srmodule)。
-
 ## IP 信息查询
 
 快速查询当前 IP 的定位、组织、属性（广播/原生）与风险评分，仅供参考。
@@ -131,10 +108,3 @@ ProxyRules/
 - 使用方法：添加 [快捷指令](https://www.icloud.com/shortcuts/6ae49d67efef4eb898185d3b4cc8cf13)，说明参考快捷指令内部注释。
 
 ![查询结果示例](https://raw.githubusercontent.com/iab0x00/ProxyRules/main/Resource/ippuretest.png)
-
-## 特别鸣谢
-
-- [@可莉](https://github.com/luestr)
-- [@资源解析器](https://github.com/KOP-XIAO)
-- [@Script-Hub](https://github.com/Script-Hub-Org)
-- [@LOWRERTOP](https://github.com/LOWERTOP)
