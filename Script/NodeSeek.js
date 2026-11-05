@@ -133,7 +133,7 @@ async function doCheckIn() {
 
   const raw = $persistentStore.read(STORE_KEY);
   if (!raw) {
-    notify("缺少请求头", "请先打开 Cookie 并访问个人页面");
+    notify("缺少请求头", "请先打开 Cookie捕获 并访问个人页面");
     $done();
     return;
   }
@@ -142,7 +142,7 @@ async function doCheckIn() {
   try {
     saved = JSON.parse(raw);
   } catch (e) {
-    notify("数据异常", "请重新打开 Cookie 并访问个人页面");
+    notify("数据异常", "请重新打开 Cookie捕获 并访问个人页面");
     $done();
     return;
   }
@@ -162,7 +162,7 @@ async function doCheckIn() {
 
     const modeTag = fixed ? "固定" : "随机";
     if (message.indexOf("请先登录") >= 0) {
-      notify("Cookie 失效", "请重新打开 Cookie 并访问个人页面");
+      notify("Cookie 失效", "请重新打开 Cookie捕获 并访问个人页面");
     } else if (message.indexOf("已完成签到") >= 0 || message.indexOf("已签到") >= 0) {
       notify("今日已签到", message);
     } else if (status === 403) {
