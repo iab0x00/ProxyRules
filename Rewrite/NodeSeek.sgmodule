@@ -1,5 +1,5 @@
 #!name=NSCheckin
-#!desc=NodeSeek每天定时自动签到
+#!desc=NodeSeek自动签到及均值统计
 #!author=iab0x00
 #!category=自动签到
 

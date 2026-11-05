@@ -2,12 +2,12 @@
 脚本名称: NodeSeek
 平台: Surge/Shadowrocket
 功能: Cookie 捕获 + 每日签到领鸡腿 + 统计分析
-版本: 1.1.0
+版本: 1.1.1
 脚本作者: iab0x00
 使用说明:
 1. 打开「Cookie捕获」后访问个人页获取 Cookie
 2. 成功后关闭「Cookie捕获」
-3. 定时由模块参数 HOUR / MINUTE 控制
+3. 定时由模块参数 签到小时 / 签到分钟 控制
 4. 签到奖励 false=随机（默认）/ true=固定 鸡腿
 5. 总数显示 false=隐藏（默认）/ true=显示 鸡腿总数
 *******************************/
@@ -192,16 +192,18 @@ async function doCheckIn() {
         $persistentStore.write(JSON.stringify(stats), STATS_KEY);
       }
 
-      let statsSuffix = "";
+      let statsText = "";
       if (stats.count > 0) {
         const avg = (stats.gained / stats.count).toFixed(1);
-        statsSuffix = `（累计${stats.count}天，日均${avg} 🍗）`;
+        statsText = `累计${stats.count}天，日均${avg} 🍗`;
       }
 
-      let bodyText = (message || "签到完成") + statsSuffix;
+      let rewardText = message || "签到完成";
       if (showTotal && typeof resData.current === "number") {
-        bodyText += `，当前拥有${resData.current} 🍗`;
+        rewardText += `，当前${resData.current} 🍗`;
       }
+
+      const bodyText = statsText ? `${rewardText}\n${statsText}` : rewardText;
 
       notify("签到成功（" + modeTag + "）", bodyText);
     } else {
