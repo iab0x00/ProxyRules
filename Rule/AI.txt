@@ -87,7 +87,10 @@ DOMAIN-SUFFIX,x.ai
 
 # > Muse
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,museai.com
+DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN,graph.facebook.com
 DOMAIN,imagine.meta.com
