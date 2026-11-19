@@ -32,6 +32,11 @@
         "gemini.google",
         "grok.com",
         "x.ai",
+        "meta.ai",
+        "meta.com",
+        "muse.ai",
+        "facebook.com",
+        "fbcdn.net",
         "openrouter.ai",
         "perplexity.ai",
         "perplexity.com",
@@ -68,6 +73,8 @@
         "gemini.google.com",
         "gemini.gstatic.com",
         "jules.google.com",
+        "graph.facebook.com",
+        "imagine.meta.com",
         "pplx-res.cloudinary.com"
       ]
     },
@@ -78,7 +85,8 @@
         "anthropic",
         "claude",
         "notebooklm.google",
-        "labs.google"
+        "labs.google",
+        "museai"
       ]
     },
     {
