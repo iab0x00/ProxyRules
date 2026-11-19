@@ -77,9 +77,9 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,muse.ai
-DOMAIN-SUFFIX,museai.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-KEYWORD,museai
 DOMAIN,graph.facebook.com
 DOMAIN,imagine.meta.com
 
